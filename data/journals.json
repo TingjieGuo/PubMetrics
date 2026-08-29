@@ -1,14 +1,16 @@
 {
-  "Clin Pharmacokinet": {
+  "0312-5963": {
+    "name": "Clinical Pharmacokinetics",
+    "abbreviation": "Clin Pharmacokinet",
+    "issn": "0312-5963",
+    "eissn": "1179-1926",
+    "jcr_year": 2025,
     "jif": 6.9,
-    "quartile": "Q1"
-  },
-  "CPT Pharmacometrics Syst Pharmacol": {
-    "jif": 4.1,
-    "quartile": "Q1"
-  },
-  "J Pharmacokinet Pharmacodyn": {
-    "jif": 2.8,
-    "quartile": "Q2"
+    "categories": [
+      {
+        "name": "Pharmacology & Pharmacy",
+        "quartile": "Q1"
+      }
+    ]
   }
 }
