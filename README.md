@@ -26,8 +26,6 @@ journal-metrics/
 │   ├── journals.json
 │   ├── unmatched.json
 │   └── ambiguous.json
-├── jcr/
-│   └── *.csv
 ├── requirements.txt
 ├── .gitignore
 └── README.md

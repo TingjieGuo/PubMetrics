@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         PubMed Journal Metrics
 // @namespace    local
-// @version      0.2
-// @description  Show JIF and JCR quartile in PubMed search results
+// @version      0.1
+// @description  Show JIF and JCR quartile in PubMed search results and article pages
 // @match        https://pubmed.ncbi.nlm.nih.gov/*
-// @resource     journals https://raw.githubusercontent.com/TingjieGuo/journal-metrics/refs/heads/main/data/pubmed_metrics.json
+// @resource     journals https://raw.githubusercontent.com/TingjieGuo/journal-metrics/refs/heads/main/data/pubmed_metrics.json?token=GHSAT0AAAAAAEGEPI6HTHN73X3SSFDSVYKK2UTNE3Q
 // @grant        GM_getResourceText
 // ==/UserScript==
 
@@ -17,53 +17,11 @@
   // The compact database is already indexed by PubMed abbreviation
   const abbreviationIndex = JSON.parse(journalText);
 
-  // Step 2: Find all PubMed search results on the page
-  const results = document.querySelectorAll(".docsum-content");
+  // ============================================================
+  // Shared badge creation
+  // ============================================================
 
-  // Step 3: Process each search result
-  results.forEach((result) => {
-    // Step 4: Find the journal citation element
-    const citation = result.querySelector(".docsum-journal-citation");
-
-    // Some PubMed page layouts may not contain this element
-    if (!citation) {
-      return;
-    }
-
-    // Avoid adding the badge more than once
-    if (result.querySelector(".journal-metrics-badge")) {
-      return;
-    }
-
-    // Step 5: Read the citation text
-    //
-    // Example:
-    // "Clin Pharmacokinet. 2025 Aug;64(8):..."
-    const citationText = citation.textContent.trim();
-
-    // Step 6: Extract the PubMed journal abbreviation
-    //
-    // The journal abbreviation appears at the beginning of the citation
-    // and is followed by a period.
-    const firstPeriodPosition = citationText.indexOf(".");
-
-    if (firstPeriodPosition === -1) {
-      return;
-    }
-
-    const pubmedAbbreviation = citationText
-      .slice(0, firstPeriodPosition)
-      .trim();
-
-    // Step 7: Look up the journal directly in the compact database
-    const metrics = abbreviationIndex[pubmedAbbreviation];
-
-    // No matching journal in our database
-    if (!metrics) {
-      return;
-    }
-
-    // Step 8: Create the JIF / quartile badge
+  function createBadge(metrics, inline = false) {
     const badge = document.createElement("span");
 
     badge.className = "journal-metrics-badge";
@@ -72,7 +30,9 @@
     //
     // Example:
     // ["Q1", "Q1", "Q2"]
-    const quartiles = metrics.categories.map((category) => category.quartile);
+    const quartiles = metrics.categories.map(
+      (category) => category.quartile,
+    );
 
     // Preserve duplicate quartiles
     //
@@ -91,16 +51,22 @@
     const tooltipText = `JCR ${metrics.jcr_year}\n${categoryText}`;
 
     // Badge appearance
-    badge.style.display = "block";
+    badge.style.display = inline ? "inline-block" : "block";
     badge.style.width = "fit-content";
-    badge.style.marginTop = "5px";
-    badge.style.marginBottom = "5px";
+
+    if (inline) {
+      badge.style.marginLeft = "8px";
+      badge.style.marginRight = "4px";
+      badge.style.verticalAlign = "baseline";
+    } else {
+      badge.style.marginTop = "5px";
+      badge.style.marginBottom = "5px";
+    }
 
     badge.style.fontWeight = "600";
     badge.style.padding = "2px 6px";
     badge.style.border = "1px solid #4D8055";
     badge.style.borderRadius = "6px";
-
     badge.style.position = "relative";
 
     // Create the custom tooltip
@@ -145,8 +111,140 @@
       tooltip.style.display = "none";
     });
 
-    // Step 9: Insert the badge on its own line
-    // immediately after the journal citation
-    citation.insertAdjacentElement("afterend", badge);
+    return badge;
+  }
+
+  // ============================================================
+  // Search results page
+  // ============================================================
+
+  function processResults() {
+    const results = document.querySelectorAll(".docsum-content");
+
+    results.forEach((result) => {
+      // Find the journal citation element
+      const citation = result.querySelector(".docsum-journal-citation");
+
+      if (!citation) {
+        return;
+      }
+
+      // Avoid adding the badge more than once
+      if (result.querySelector(".journal-metrics-badge")) {
+        return;
+      }
+
+      // Example:
+      // "Clin Pharmacokinet. 2025 Aug;64(8):..."
+      const citationText = citation.textContent.trim();
+
+      // Extract the PubMed journal abbreviation
+      const firstPeriodPosition = citationText.indexOf(".");
+
+      if (firstPeriodPosition === -1) {
+        return;
+      }
+
+      const pubmedAbbreviation = citationText
+        .slice(0, firstPeriodPosition)
+        .trim();
+
+      // Look up the journal directly in the compact database
+      const metrics = abbreviationIndex[pubmedAbbreviation];
+
+      // No matching journal in our database
+      if (!metrics) {
+        return;
+      }
+
+      // Create the badge
+      const badge = createBadge(metrics, false);
+
+      // Insert the badge on its own line
+      // immediately after the journal citation
+      citation.insertAdjacentElement("afterend", badge);
+    });
+  }
+
+  // ============================================================
+  // Individual article page
+  // ============================================================
+
+  function processArticlePage() {
+    // Only continue if this is an individual article page
+    const articlePage = document.querySelector("#article-page");
+
+    if (!articlePage) {
+      return;
+    }
+
+    // Avoid adding the badge more than once
+    if (document.querySelector(".journal-metrics-article-badge")) {
+      return;
+    }
+
+    // Find the journal container in the main desktop citation
+    const journalActions = document.querySelector(
+      "#full-view-heading .journal-actions",
+    );
+
+    if (!journalActions) {
+      return;
+    }
+
+    // Find the journal name button
+    const journalButton = journalActions.querySelector(
+      ".journal-actions-trigger",
+    );
+
+    if (!journalButton) {
+      return;
+    }
+
+    // The button text is the PubMed/NLM journal abbreviation
+    //
+    // Example:
+    // "J Pharmacokinet Pharmacodyn"
+    const pubmedAbbreviation = journalButton.textContent.trim();
+
+    // Look up the journal directly in the compact database
+    const metrics = abbreviationIndex[pubmedAbbreviation];
+
+    if (!metrics) {
+      return;
+    }
+
+    // Create an inline badge
+    const badge = createBadge(metrics, true);
+
+    badge.classList.add("journal-metrics-article-badge");
+
+    // Slightly tighter appearance on article pages
+    badge.style.padding = "1px 5px";
+
+    // Insert the badge after the entire journal-actions container,
+    // but before PubMed's period and citation date.
+    journalActions.insertAdjacentElement("afterend", badge);
+  }
+
+  // ============================================================
+  // Initial processing
+  // ============================================================
+
+  processResults();
+  processArticlePage();
+
+  // ============================================================
+  // Watch for dynamically added PubMed content
+  // ============================================================
+
+  const observer = new MutationObserver(() => {
+    processResults();
+    processArticlePage();
+  });
+
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true,
   });
 })();
