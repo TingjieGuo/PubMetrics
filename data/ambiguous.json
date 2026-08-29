@@ -1,5 +1,33 @@
 [
   {
+    "name": "JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES",
+    "issn": "1525-4135",
+    "eissn": "1077-9450",
+    "candidates": [
+      {
+        "nlm_id": "100892005",
+        "title": "Journal of acquired immune deficiency syndromes : JAIDS.",
+        "pubmed_abbreviation": "J Acquir Immune Defic Syndr",
+        "print_issn": "1525-4135",
+        "electronic_issn": "1944-7884",
+        "valid_issns": [
+          "1525-4135",
+          "1944-7884"
+        ]
+      },
+      {
+        "nlm_id": "9501482",
+        "title": "Journal of acquired immune deficiency syndromes and human retrovirology : official publication of the International Retrovirology Association.",
+        "pubmed_abbreviation": "J Acquir Immune Defic Syndr Hum Retrovirol",
+        "print_issn": "1077-9450",
+        "electronic_issn": null,
+        "valid_issns": [
+          "1077-9450"
+        ]
+      }
+    ]
+  },
+  {
     "name": "JAAPA-Journal of the American Academy of Physician Assistants",
     "issn": "1547-1896",
     "eissn": "0893-7400",
@@ -103,34 +131,6 @@
         "electronic_issn": "2454-9983",
         "valid_issns": [
           "2454-9983"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES",
-    "issn": "1525-4135",
-    "eissn": "1077-9450",
-    "candidates": [
-      {
-        "nlm_id": "100892005",
-        "title": "Journal of acquired immune deficiency syndromes : JAIDS.",
-        "pubmed_abbreviation": "J Acquir Immune Defic Syndr",
-        "print_issn": "1525-4135",
-        "electronic_issn": "1944-7884",
-        "valid_issns": [
-          "1525-4135",
-          "1944-7884"
-        ]
-      },
-      {
-        "nlm_id": "9501482",
-        "title": "Journal of acquired immune deficiency syndromes and human retrovirology : official publication of the International Retrovirology Association.",
-        "pubmed_abbreviation": "J Acquir Immune Defic Syndr Hum Retrovirol",
-        "print_issn": "1077-9450",
-        "electronic_issn": null,
-        "valid_issns": [
-          "1077-9450"
         ]
       }
     ]

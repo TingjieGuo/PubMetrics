@@ -1664,6 +1664,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q1"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
       }
     ]
   },
@@ -1792,6 +1796,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
       }
     ]
   },
@@ -1928,6 +1936,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q1"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
       }
     ]
   },
@@ -2040,6 +2052,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
       }
     ]
   },
@@ -2420,6 +2436,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
       }
     ]
   },
@@ -2660,6 +2680,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
       }
     ]
   },
@@ -2795,6 +2819,10 @@
     "categories": [
       {
         "name": "CELL BIOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "IMMUNOLOGY",
         "quartile": "Q2"
       }
     ]
@@ -3023,6 +3051,10 @@
     "categories": [
       {
         "name": "BIOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
         "quartile": "Q1"
       },
       {
@@ -3284,6 +3316,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
       }
     ]
   },
@@ -3540,6 +3576,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
       }
     ]
   },
@@ -3880,6 +3920,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
       }
     ]
   },
@@ -4016,6 +4060,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
       }
     ]
   },
@@ -4372,6 +4420,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
       }
     ]
   },
@@ -4436,6 +4488,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
       }
     ]
   },
@@ -4484,6 +4540,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
       }
     ]
   },
@@ -4499,6 +4559,10 @@
     "categories": [
       {
         "name": "BIOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
         "quartile": "Q1"
       }
     ]
@@ -4608,6 +4672,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q3"
+      },
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
       }
     ]
   },
@@ -4810,6 +4878,10 @@
         "quartile": "Q2"
       },
       {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
         "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
         "quartile": "Q2"
       },
@@ -4992,6 +5064,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q3"
+      },
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
       }
     ]
   },
@@ -5124,6 +5200,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q3"
+      },
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
       }
     ]
   },
@@ -5192,6 +5272,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q3"
+      },
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
       }
     ]
   },
@@ -5228,6 +5312,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q3"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
       },
       {
         "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
@@ -5390,6 +5478,10 @@
         "quartile": "Q3"
       },
       {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      },
+      {
         "name": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
         "quartile": "Q3"
       },
@@ -5444,6 +5536,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q3"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
       }
     ]
   },
@@ -5872,6 +5968,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q3"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
       }
     ]
   },
@@ -6083,6 +6183,10 @@
     "categories": [
       {
         "name": "BIOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
         "quartile": "Q2"
       }
     ]
@@ -6479,6 +6583,10 @@
     "categories": [
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
         "quartile": "Q3"
       }
     ]
@@ -7212,6 +7320,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q4"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
       }
     ]
   },
@@ -7262,6 +7374,10 @@
         "quartile": "Q4"
       },
       {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      },
+      {
         "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
         "quartile": "Q3"
       }
@@ -7280,6 +7396,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q4"
+      },
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q3"
       },
       {
         "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
@@ -7552,6 +7672,10 @@
       {
         "name": "BIOLOGY",
         "quartile": "Q2"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
       }
     ]
   },
@@ -7628,6 +7752,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q4"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
       }
     ]
   },
@@ -7930,6 +8058,10 @@
         "quartile": "Q4"
       },
       {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      },
+      {
         "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
         "quartile": "Q4"
       }
@@ -8055,6 +8187,10 @@
       },
       {
         "name": "CELL BIOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "IMMUNOLOGY",
         "quartile": "Q4"
       }
     ]
@@ -8202,6 +8338,10 @@
         "quartile": "Q4"
       },
       {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      },
+      {
         "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
         "quartile": "Q4"
       }
@@ -8287,6 +8427,10 @@
     "categories": [
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
         "quartile": "Q4"
       },
       {
@@ -8716,6 +8860,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "Q4"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
       }
     ]
   },
@@ -8799,6 +8947,10 @@
       },
       {
         "name": "CELL BIOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "IMMUNOLOGY",
         "quartile": "Q4"
       }
     ]
@@ -9016,6 +9168,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q4"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
       }
     ]
   },
@@ -9183,6 +9339,10 @@
     "categories": [
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
         "quartile": "Q4"
       }
     ]
@@ -9760,6 +9920,10 @@
       {
         "name": "BIOCHEMISTRY & MOLECULAR BIOLOGY",
         "quartile": "Q4"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
       }
     ]
   },
@@ -10088,6 +10252,10 @@
       {
         "name": "CELL BIOLOGY",
         "quartile": "N/A"
+      },
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "N/A"
       }
     ]
   },
@@ -10104,6 +10272,5514 @@
       {
         "name": "BIOLOGY",
         "quartile": "N/A"
+      }
+    ]
+  },
+  "1548-7091": {
+    "name": "NATURE METHODS",
+    "jcr_abbreviation": "NAT METHODS",
+    "pubmed_abbreviation": "Nat Methods",
+    "nlm_id": "101215604",
+    "issn": "1548-7091",
+    "eissn": "1548-7105",
+    "jcr_year": 2025,
+    "jif": "28.3",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1754-2189": {
+    "name": "Nature Protocols",
+    "jcr_abbreviation": "NAT PROTOC",
+    "pubmed_abbreviation": "Nat Protoc",
+    "nlm_id": "101284307",
+    "issn": "1754-2189",
+    "eissn": "1750-2799",
+    "jcr_year": 2025,
+    "jif": "18.4",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0169-5347": {
+    "name": "TRENDS IN ECOLOGY & EVOLUTION",
+    "jcr_abbreviation": "TRENDS ECOL EVOL",
+    "pubmed_abbreviation": "Trends Ecol Evol",
+    "nlm_id": "8805125",
+    "issn": "0169-5347",
+    "eissn": "1872-8383",
+    "jcr_year": 2025,
+    "jif": "17.9",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2397-334X": {
+    "name": "Nature Ecology & Evolution",
+    "jcr_abbreviation": "NAT ECOL EVOL",
+    "pubmed_abbreviation": "Nat Ecol Evol",
+    "nlm_id": "101698577",
+    "issn": "2397-334X",
+    "eissn": "2397-334X",
+    "jcr_year": 2025,
+    "jif": "17.1",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1543-592X": {
+    "name": "Annual Review of Ecology Evolution and Systematics",
+    "jcr_abbreviation": "ANNU REV ECOL EVOL S",
+    "pubmed_abbreviation": "Annu Rev Ecol Evol Syst",
+    "nlm_id": "101171971",
+    "issn": "1543-592X",
+    "eissn": "1545-2069",
+    "jcr_year": 2025,
+    "jif": "12.9",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0748-3007": {
+    "name": "CLADISTICS",
+    "jcr_abbreviation": "CLADISTICS",
+    "pubmed_abbreviation": "Cladistics",
+    "nlm_id": "9881057",
+    "issn": "0748-3007",
+    "eissn": "1096-0031",
+    "jcr_year": 2025,
+    "jif": "8.9",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0958-1669": {
+    "name": "CURRENT OPINION IN BIOTECHNOLOGY",
+    "jcr_abbreviation": "CURR OPIN BIOTECH",
+    "pubmed_abbreviation": "Curr Opin Biotechnol",
+    "nlm_id": "9100492",
+    "issn": "0958-1669",
+    "eissn": "1879-0429",
+    "jcr_year": 2025,
+    "jif": "7.8",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1467-5463": {
+    "name": "BRIEFINGS IN BIOINFORMATICS",
+    "jcr_abbreviation": "BRIEF BIOINFORM",
+    "pubmed_abbreviation": "Brief Bioinform",
+    "nlm_id": "100912837",
+    "issn": "1467-5463",
+    "eissn": "1477-4054",
+    "jcr_year": 2025,
+    "jif": "7.3",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1976-0280": {
+    "name": "BioChip Journal",
+    "jcr_abbreviation": "BIOCHIP J",
+    "pubmed_abbreviation": "Biochip J",
+    "nlm_id": "101517318",
+    "issn": "1976-0280",
+    "eissn": "2092-7843",
+    "jcr_year": 2025,
+    "jif": "6.7",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1535-9484": {
+    "name": "MOLECULAR & CELLULAR PROTEOMICS",
+    "jcr_abbreviation": "MOL CELL PROTEOMICS",
+    "pubmed_abbreviation": "Mol Cell Proteomics",
+    "nlm_id": "101125647",
+    "issn": "",
+    "eissn": "1535-9484",
+    "jcr_year": 2025,
+    "jif": "6.3",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1754-1611": {
+    "name": "Journal of Biological Engineering",
+    "jcr_abbreviation": "J BIOL ENG",
+    "pubmed_abbreviation": "J Biol Eng",
+    "nlm_id": "101306640",
+    "issn": "1754-1611",
+    "eissn": "1754-1611",
+    "jcr_year": 2025,
+    "jif": "6.3",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1473-0197": {
+    "name": "LAB ON A CHIP",
+    "jcr_abbreviation": "LAB CHIP",
+    "pubmed_abbreviation": "Lab Chip",
+    "nlm_id": "101128948",
+    "issn": "1473-0197",
+    "eissn": "1473-0189",
+    "jcr_year": 2025,
+    "jif": "6.3",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1063-5157": {
+    "name": "Systematic Biology",
+    "jcr_abbreviation": "SYST BIOL",
+    "pubmed_abbreviation": "Syst Biol",
+    "nlm_id": "9302532",
+    "issn": "1063-5157",
+    "eissn": "1076-836X",
+    "jcr_year": 2025,
+    "jif": "6.2",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2755-0958": {
+    "name": "Cambridge Prisms: Extinction",
+    "jcr_abbreviation": "CAMB PRISM-EXTINCT",
+    "pubmed_abbreviation": "Camb Prism Extinct",
+    "nlm_id": "9918863346006676",
+    "issn": "",
+    "eissn": "2755-0958",
+    "jcr_year": 2025,
+    "jif": "6",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1871-6784": {
+    "name": "New Biotechnology",
+    "jcr_abbreviation": "NEW BIOTECHNOL",
+    "pubmed_abbreviation": "N Biotechnol",
+    "nlm_id": "101465345",
+    "issn": "1871-6784",
+    "eissn": "1876-4347",
+    "jcr_year": 2025,
+    "jif": "5.6",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1367-4803": {
+    "name": "BIOINFORMATICS",
+    "jcr_abbreviation": "BIOINFORMATICS",
+    "pubmed_abbreviation": "Bioinformatics",
+    "nlm_id": "9808944",
+    "issn": "1367-4803",
+    "eissn": "1367-4811",
+    "jcr_year": 2025,
+    "jif": "5.5",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1746-4811": {
+    "name": "Plant Methods",
+    "jcr_abbreviation": "PLANT METHODS",
+    "pubmed_abbreviation": "Plant Methods",
+    "nlm_id": "101245798",
+    "issn": "",
+    "eissn": "1746-4811",
+    "jcr_year": 2025,
+    "jif": "5.2",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1480-9222": {
+    "name": "BIOLOGICAL PROCEDURES ONLINE",
+    "jcr_abbreviation": "BIOL PROCED ONLINE",
+    "pubmed_abbreviation": "Biol Proced Online",
+    "nlm_id": "100963717",
+    "issn": "",
+    "eissn": "1480-9222",
+    "jcr_year": 2025,
+    "jif": "4.9",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1751-8741": {
+    "name": "IET Nanobiotechnology",
+    "jcr_abbreviation": "IET NANOBIOTECHNOL",
+    "pubmed_abbreviation": "IET Nanobiotechnol",
+    "nlm_id": "101303205",
+    "issn": "1751-8741",
+    "eissn": "1751-875X",
+    "jcr_year": 2025,
+    "jif": "4.8",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2161-5063": {
+    "name": "ACS Synthetic Biology",
+    "jcr_abbreviation": "ACS SYNTH BIOL",
+    "pubmed_abbreviation": "ACS Synth Biol",
+    "nlm_id": "101575075",
+    "issn": "2161-5063",
+    "eissn": "",
+    "jcr_year": 2025,
+    "jif": "4.5",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1471-2105": {
+    "name": "BMC BIOINFORMATICS",
+    "jcr_abbreviation": "BMC BIOINFORMATICS",
+    "pubmed_abbreviation": "BMC Bioinformatics",
+    "nlm_id": "100965194",
+    "issn": "1471-2105",
+    "eissn": "1471-2105",
+    "jcr_year": 2025,
+    "jif": "4.4",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0307-6970": {
+    "name": "SYSTEMATIC ENTOMOLOGY",
+    "jcr_abbreviation": "SYST ENTOMOL",
+    "pubmed_abbreviation": "Syst Entomol",
+    "nlm_id": "9890601",
+    "issn": "0307-6970",
+    "eissn": "1365-3113",
+    "jcr_year": 2025,
+    "jif": "4.3",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2056-3744": {
+    "name": "Evolution Letters",
+    "jcr_abbreviation": "EVOL LETT",
+    "pubmed_abbreviation": "Evol Lett",
+    "nlm_id": "101715791",
+    "issn": "",
+    "eissn": "2056-3744",
+    "jcr_year": 2025,
+    "jif": "4.3",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1542-6416": {
+    "name": "Clinical Proteomics",
+    "jcr_abbreviation": "CLIN PROTEOM",
+    "pubmed_abbreviation": "Clin Proteomics",
+    "nlm_id": "101184586",
+    "issn": "1542-6416",
+    "eissn": "1559-0275",
+    "jcr_year": 2025,
+    "jif": "4.3",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1536-1241": {
+    "name": "IEEE TRANSACTIONS ON NANOBIOSCIENCE",
+    "jcr_abbreviation": "IEEE T NANOBIOSCI",
+    "pubmed_abbreviation": "IEEE Trans Nanobioscience",
+    "nlm_id": "101152869",
+    "issn": "1536-1241",
+    "eissn": "1558-2639",
+    "jcr_year": 2025,
+    "jif": "4.2",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1545-5963": {
+    "name": "IEEE-ACM Transactions on Computational Biology and Bioinformatics",
+    "jcr_abbreviation": "IEEE ACM T COMPUT BI",
+    "pubmed_abbreviation": "IEEE/ACM Trans Comput Biol Bioinform",
+    "nlm_id": "101196755",
+    "issn": "1545-5963",
+    "eissn": "1557-9964",
+    "jcr_year": 2025,
+    "jif": "4.1",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      },
+      {
+        "name": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
+        "quartile": "Q2"
+      },
+      {
+        "name": "STATISTICS & PROBABILITY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1618-2642": {
+    "name": "ANALYTICAL AND BIOANALYTICAL CHEMISTRY",
+    "jcr_abbreviation": "ANAL BIOANAL CHEM",
+    "pubmed_abbreviation": "Anal Bioanal Chem",
+    "nlm_id": "101134327",
+    "issn": "1618-2642",
+    "eissn": "1618-2650",
+    "jcr_year": 2025,
+    "jif": "4.1",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0021-9673": {
+    "name": "JOURNAL OF CHROMATOGRAPHY A",
+    "jcr_abbreviation": "J CHROMATOGR A",
+    "pubmed_abbreviation": "J Chromatogr A",
+    "nlm_id": "9318488",
+    "issn": "0021-9673",
+    "eissn": "1873-3778",
+    "jcr_year": 2025,
+    "jif": "4",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1535-3893": {
+    "name": "JOURNAL OF PROTEOME RESEARCH",
+    "jcr_abbreviation": "J PROTEOME RES",
+    "pubmed_abbreviation": "J Proteome Res",
+    "nlm_id": "101128775",
+    "issn": "1535-3893",
+    "eissn": "1535-3907",
+    "jcr_year": 2025,
+    "jif": "3.8",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1553-734X": {
+    "name": "PLoS Computational Biology",
+    "jcr_abbreviation": "PLOS COMPUT BIOL",
+    "pubmed_abbreviation": "PLoS Comput Biol",
+    "nlm_id": "101238922",
+    "issn": "1553-734X",
+    "eissn": "1553-7358",
+    "jcr_year": 2025,
+    "jif": "3.7",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      },
+      {
+        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1860-6768": {
+    "name": "Biotechnology Journal",
+    "jcr_abbreviation": "BIOTECHNOL J",
+    "pubmed_abbreviation": "Biotechnol J",
+    "nlm_id": "101265833",
+    "issn": "1860-6768",
+    "eissn": "1860-7314",
+    "jcr_year": 2025,
+    "jif": "3.7",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2472-6303": {
+    "name": "SLAS Technology",
+    "jcr_abbreviation": "SLAS TECHNOL",
+    "pubmed_abbreviation": "SLAS Technol",
+    "nlm_id": "101697564",
+    "issn": "2472-6303",
+    "eissn": "2472-6311",
+    "jcr_year": 2025,
+    "jif": "3.7",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1053-0509": {
+    "name": "JOURNAL OF FLUORESCENCE",
+    "jcr_abbreviation": "J FLUORESC",
+    "pubmed_abbreviation": "J Fluoresc",
+    "nlm_id": "9201341",
+    "issn": "1053-0509",
+    "eissn": "1573-4994",
+    "jcr_year": 2025,
+    "jif": "3.4",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0047-2484": {
+    "name": "JOURNAL OF HUMAN EVOLUTION",
+    "jcr_abbreviation": "J HUM EVOL",
+    "pubmed_abbreviation": "J Hum Evol",
+    "nlm_id": "0337330",
+    "issn": "0047-2484",
+    "eissn": "1095-8606",
+    "jcr_year": 2025,
+    "jif": "3.3",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1759-6653": {
+    "name": "Genome Biology and Evolution",
+    "jcr_abbreviation": "GENOME BIOL EVOL",
+    "pubmed_abbreviation": "Genome Biol Evol",
+    "nlm_id": "101509707",
+    "issn": "1759-6653",
+    "eissn": "1759-6653",
+    "jcr_year": 2025,
+    "jif": "3.3",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1083-3668": {
+    "name": "JOURNAL OF BIOMEDICAL OPTICS",
+    "jcr_abbreviation": "J BIOMED OPT",
+    "pubmed_abbreviation": "J Biomed Opt",
+    "nlm_id": "9605853",
+    "issn": "1083-3668",
+    "eissn": "1560-2281",
+    "jcr_year": 2025,
+    "jif": "3.3",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      },
+      {
+        "name": "RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2472-5552": {
+    "name": "SLAS Discovery",
+    "jcr_abbreviation": "SLAS DISCOV",
+    "pubmed_abbreviation": "SLAS Discov",
+    "nlm_id": "101697563",
+    "issn": "2472-5552",
+    "eissn": "2472-5560",
+    "jcr_year": 2025,
+    "jif": "3.3",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1752-4571": {
+    "name": "Evolutionary Applications",
+    "jcr_abbreviation": "EVOL APPL",
+    "pubmed_abbreviation": "Evol Appl",
+    "nlm_id": "101461828",
+    "issn": "1752-4571",
+    "eissn": "1752-4571",
+    "jcr_year": 2025,
+    "jif": "3.2",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2156-7085": {
+    "name": "Biomedical Optics Express",
+    "jcr_abbreviation": "BIOMED OPT EXPRESS",
+    "pubmed_abbreviation": "Biomed Opt Express",
+    "nlm_id": "101540630",
+    "issn": "2156-7085",
+    "eissn": "2156-7085",
+    "jcr_year": 2025,
+    "jif": "3.2",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      },
+      {
+        "name": "RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1874-3919": {
+    "name": "Journal of Proteomics",
+    "jcr_abbreviation": "J PROTEOMICS",
+    "pubmed_abbreviation": "J Proteomics",
+    "nlm_id": "101475056",
+    "issn": "1874-3919",
+    "eissn": "1876-7737",
+    "jcr_year": 2025,
+    "jif": "3.1",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0014-3820": {
+    "name": "EVOLUTION",
+    "jcr_abbreviation": "EVOLUTION",
+    "pubmed_abbreviation": "Evolution",
+    "nlm_id": "0373224",
+    "issn": "0014-3820",
+    "eissn": "1558-5646",
+    "jcr_year": 2025,
+    "jif": "3",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0947-5745": {
+    "name": "JOURNAL OF ZOOLOGICAL SYSTEMATICS AND EVOLUTIONARY RESEARCH",
+    "jcr_abbreviation": "J ZOOL SYST EVOL RES",
+    "pubmed_abbreviation": "J Zool Syst Evol Res",
+    "nlm_id": "9889419",
+    "issn": "0947-5745",
+    "eissn": "1439-0469",
+    "jcr_year": 2025,
+    "jif": "3",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1477-2019": {
+    "name": "JOURNAL OF SYSTEMATIC PALAEONTOLOGY",
+    "jcr_abbreviation": "J SYST PALAEONTOL",
+    "pubmed_abbreviation": "J Syst Palaeontol",
+    "nlm_id": "101671673",
+    "issn": "1477-2019",
+    "eissn": "1478-0941",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0094-8373": {
+    "name": "PALEOBIOLOGY",
+    "jcr_abbreviation": "PALEOBIOLOGY",
+    "pubmed_abbreviation": "Paleobiology",
+    "nlm_id": "9876444",
+    "issn": "0094-8373",
+    "eissn": "1938-5331",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1044-0305": {
+    "name": "JOURNAL OF THE AMERICAN SOCIETY FOR MASS SPECTROMETRY",
+    "jcr_abbreviation": "J AM SOC MASS SPECTR",
+    "pubmed_abbreviation": "J Am Soc Mass Spectrom",
+    "nlm_id": "9010412",
+    "issn": "1044-0305",
+    "eissn": "1879-1123",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0958-0344": {
+    "name": "PHYTOCHEMICAL ANALYSIS",
+    "jcr_abbreviation": "PHYTOCHEM ANALYSIS",
+    "pubmed_abbreviation": "Phytochem Anal",
+    "nlm_id": "9200492",
+    "issn": "0958-0344",
+    "eissn": "1099-1565",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2090-2247": {
+    "name": "Biochemistry Research International",
+    "jcr_abbreviation": "BIOCHEM RES INT",
+    "pubmed_abbreviation": "Biochem Res Int",
+    "nlm_id": "101546751",
+    "issn": "2090-2247",
+    "eissn": "2090-2255",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1862-8346": {
+    "name": "Proteomics Clinical Applications",
+    "jcr_abbreviation": "PROTEOM CLIN APPL",
+    "pubmed_abbreviation": "Proteomics Clin Appl",
+    "nlm_id": "101298608",
+    "issn": "1862-8346",
+    "eissn": "1862-8354",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1478-9450": {
+    "name": "Expert Review of Proteomics",
+    "jcr_abbreviation": "EXPERT REV PROTEOMIC",
+    "pubmed_abbreviation": "Expert Rev Proteomics",
+    "nlm_id": "101223548",
+    "issn": "1478-9450",
+    "eissn": "1744-8387",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0003-0147": {
+    "name": "AMERICAN NATURALIST",
+    "jcr_abbreviation": "AM NAT",
+    "pubmed_abbreviation": "Am Nat",
+    "nlm_id": "2984688R",
+    "issn": "0003-0147",
+    "eissn": "1537-5323",
+    "jcr_year": 2025,
+    "jif": "2.7",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1752-7155": {
+    "name": "Journal of Breath Research",
+    "jcr_abbreviation": "J BREATH RES",
+    "pubmed_abbreviation": "J Breath Res",
+    "nlm_id": "101463871",
+    "issn": "1752-7155",
+    "eissn": "1752-7163",
+    "jcr_year": 2025,
+    "jif": "2.7",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2730-7182": {
+    "name": "BMC Ecology and Evolution",
+    "jcr_abbreviation": "BMC ECOL EVOL",
+    "pubmed_abbreviation": "BMC Ecol Evol",
+    "nlm_id": "101775613",
+    "issn": "",
+    "eissn": "2730-7182",
+    "jcr_year": 2025,
+    "jif": "2.7",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2050-6201": {
+    "name": "Evolution Medicine and Public Health",
+    "jcr_abbreviation": "EVOL MED PUBLIC HLTH",
+    "pubmed_abbreviation": "Evol Med Public Health",
+    "nlm_id": "101616698",
+    "issn": "",
+    "eissn": "2050-6201",
+    "jcr_year": 2025,
+    "jif": "2.7",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1932-1058": {
+    "name": "Biomicrofluidics",
+    "jcr_abbreviation": "BIOMICROFLUIDICS",
+    "pubmed_abbreviation": "Biomicrofluidics",
+    "nlm_id": "101293825",
+    "issn": "",
+    "eissn": "1932-1058",
+    "jcr_year": 2025,
+    "jif": "2.7",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0018-067X": {
+    "name": "HEREDITY",
+    "jcr_abbreviation": "HEREDITY",
+    "pubmed_abbreviation": "Heredity (Edinb)",
+    "nlm_id": "0373007",
+    "issn": "0018-067X",
+    "eissn": "1365-2540",
+    "jcr_year": 2025,
+    "jif": "2.6",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2041-9139": {
+    "name": "EvoDevo",
+    "jcr_abbreviation": "EVODEVO",
+    "pubmed_abbreviation": "Evodevo",
+    "nlm_id": "101525836",
+    "issn": "",
+    "eissn": "2041-9139",
+    "jcr_year": 2025,
+    "jif": "2.6",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1942-7603": {
+    "name": "Drug Testing and Analysis",
+    "jcr_abbreviation": "DRUG TEST ANAL",
+    "pubmed_abbreviation": "Drug Test  Anal",
+    "nlm_id": "101483449",
+    "issn": "1942-7603",
+    "eissn": "1942-7611",
+    "jcr_year": 2025,
+    "jif": "2.6",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2045-7758": {
+    "name": "Ecology and Evolution",
+    "jcr_abbreviation": "ECOL EVOL",
+    "pubmed_abbreviation": "Ecol Evol",
+    "nlm_id": "101566408",
+    "issn": "2045-7758",
+    "eissn": "2045-7758",
+    "jcr_year": 2025,
+    "jif": "2.6",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0071-3260": {
+    "name": "Evolutionary Biology",
+    "jcr_abbreviation": "EVOL BIOL",
+    "pubmed_abbreviation": "Evol Biol",
+    "nlm_id": "0117156",
+    "issn": "0071-3260",
+    "eissn": "1934-2845",
+    "jcr_year": 2025,
+    "jif": "2.6",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0173-0835": {
+    "name": "ELECTROPHORESIS",
+    "jcr_abbreviation": "ELECTROPHORESIS",
+    "pubmed_abbreviation": "Electrophoresis",
+    "nlm_id": "8204476",
+    "issn": "0173-0835",
+    "eissn": "1522-2683",
+    "jcr_year": 2025,
+    "jif": "2.6",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0165-0270": {
+    "name": "JOURNAL OF NEUROSCIENCE METHODS",
+    "jcr_abbreviation": "J NEUROSCI METH",
+    "pubmed_abbreviation": "J Neurosci Methods",
+    "nlm_id": "7905558",
+    "issn": "0165-0270",
+    "eissn": "1872-678X",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      },
+      {
+        "name": "NEUROSCIENCES",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1570-0232": {
+    "name": "JOURNAL OF CHROMATOGRAPHY B-ANALYTICAL TECHNOLOGIES IN THE BIOMEDICAL AND LIFE SCIENCES",
+    "jcr_abbreviation": "J CHROMATOGR B",
+    "pubmed_abbreviation": "J Chromatogr B Analyt Technol Biomed Life Sci",
+    "nlm_id": "101139554",
+    "issn": "1570-0232",
+    "eissn": "1873-376X",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2691-1299": {
+    "name": "Current Protocols",
+    "jcr_abbreviation": "CURR PROTOC",
+    "pubmed_abbreviation": "Curr Protoc",
+    "nlm_id": "101773894",
+    "issn": "2691-1299",
+    "eissn": "2691-1299",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2409-9279": {
+    "name": "Methods and Protocols",
+    "jcr_abbreviation": "METHOD PROTOCOL",
+    "pubmed_abbreviation": "Methods Protoc",
+    "nlm_id": "101720073",
+    "issn": "",
+    "eissn": "2409-9279",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0167-7012": {
+    "name": "JOURNAL OF MICROBIOLOGICAL METHODS",
+    "jcr_abbreviation": "J MICROBIOL METH",
+    "pubmed_abbreviation": "J Microbiol Methods",
+    "nlm_id": "8306883",
+    "issn": "0167-7012",
+    "eissn": "1872-8359",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2692-7691": {
+    "name": "American Journal of Biological Anthropology",
+    "jcr_abbreviation": "AM J BIOL ANTHROPOL",
+    "pubmed_abbreviation": "Am J Biol Anthropol",
+    "nlm_id": "101770171",
+    "issn": "2692-7691",
+    "eissn": "2692-7691",
+    "jcr_year": 2025,
+    "jif": "2.4",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1520-541X": {
+    "name": "EVOLUTION & DEVELOPMENT",
+    "jcr_abbreviation": "EVOL DEV",
+    "pubmed_abbreviation": "Evol Dev",
+    "nlm_id": "100883432",
+    "issn": "1520-541X",
+    "eissn": "1525-142X",
+    "jcr_year": 2025,
+    "jif": "2.4",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2396-8923": {
+    "name": "Biology Methods & Protocols",
+    "jcr_abbreviation": "BIOL METHODS PROTOC",
+    "pubmed_abbreviation": "Biol Methods Protoc",
+    "nlm_id": "101693064",
+    "issn": "",
+    "eissn": "2396-8923",
+    "jcr_year": 2025,
+    "jif": "2.4",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1010-061X": {
+    "name": "JOURNAL OF EVOLUTIONARY BIOLOGY",
+    "jcr_abbreviation": "J EVOLUTION BIOL",
+    "pubmed_abbreviation": "J Evol Biol",
+    "nlm_id": "8809954",
+    "issn": "1010-061X",
+    "eissn": "1420-9101",
+    "jcr_year": 2025,
+    "jif": "2.3",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1445-5226": {
+    "name": "INVERTEBRATE SYSTEMATICS",
+    "jcr_abbreviation": "INVERTEBR SYST",
+    "pubmed_abbreviation": "Invertebr Syst",
+    "nlm_id": "101136361",
+    "issn": "1445-5226",
+    "eissn": "1447-2600",
+    "jcr_year": 2025,
+    "jif": "2.2",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0022-1503": {
+    "name": "JOURNAL OF HEREDITY",
+    "jcr_abbreviation": "J HERED",
+    "pubmed_abbreviation": "J Hered",
+    "nlm_id": "0375373",
+    "issn": "0022-1503",
+    "eissn": "1465-7333",
+    "jcr_year": 2025,
+    "jif": "2.2",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2666-4410": {
+    "name": "Journal of Magnetic Resonance Open",
+    "jcr_abbreviation": "J MAGN RESON OPEN",
+    "pubmed_abbreviation": "J Magn Reson Open",
+    "nlm_id": "101773928",
+    "issn": "",
+    "eissn": "2666-4410",
+    "jcr_year": 2025,
+    "jif": "2.2",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1536-0121": {
+    "name": "Molecular Imaging",
+    "jcr_abbreviation": "MOL IMAGING",
+    "pubmed_abbreviation": "Mol Imaging",
+    "nlm_id": "101120118",
+    "issn": "",
+    "eissn": "1536-0121",
+    "jcr_year": 2025,
+    "jif": "2.2",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      },
+      {
+        "name": "RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2513-843X": {
+    "name": "Evolutionary Human Sciences",
+    "jcr_abbreviation": "EVOL HUM SCI",
+    "pubmed_abbreviation": "Evol Hum Sci",
+    "nlm_id": "101773423",
+    "issn": "",
+    "eissn": "2513-843X",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1090-7807": {
+    "name": "JOURNAL OF MAGNETIC RESONANCE",
+    "jcr_abbreviation": "J MAGN RESON",
+    "pubmed_abbreviation": "J Magn Reson",
+    "nlm_id": "9707935",
+    "issn": "1090-7807",
+    "eissn": "1096-0856",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1076-5174": {
+    "name": "JOURNAL OF MASS SPECTROMETRY",
+    "jcr_abbreviation": "J MASS SPECTROM",
+    "pubmed_abbreviation": "J Mass Spectrom",
+    "nlm_id": "9504818",
+    "issn": "1076-5174",
+    "eissn": "1096-9888",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1045-1056": {
+    "name": "BIOLOGICALS",
+    "jcr_abbreviation": "BIOLOGICALS",
+    "pubmed_abbreviation": "Biologicals",
+    "nlm_id": "9004494",
+    "issn": "1045-1056",
+    "eissn": "1095-8320",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1757-6180": {
+    "name": "Bioanalysis",
+    "jcr_abbreviation": "BIOANALYSIS",
+    "pubmed_abbreviation": "Bioanalysis",
+    "nlm_id": "101512484",
+    "issn": "1757-6180",
+    "eissn": "1757-6199",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0300-3256": {
+    "name": "ZOOLOGICA SCRIPTA",
+    "jcr_abbreviation": "ZOOL SCR",
+    "pubmed_abbreviation": "Zool Scr",
+    "nlm_id": "0316266",
+    "issn": "0300-3256",
+    "eissn": "1463-6409",
+    "jcr_year": 2025,
+    "jif": "2",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1177-9322": {
+    "name": "Bioinformatics and Biology Insights",
+    "jcr_abbreviation": "BIOINFORM BIOL INSIG",
+    "pubmed_abbreviation": "Bioinform Biol Insights",
+    "nlm_id": "101467187",
+    "issn": "1177-9322",
+    "eissn": "1177-9322",
+    "jcr_year": 2025,
+    "jif": "2",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1864-063X": {
+    "name": "Journal of Biophotonics",
+    "jcr_abbreviation": "J BIOPHOTONICS",
+    "pubmed_abbreviation": "J Biophotonics",
+    "nlm_id": "101318567",
+    "issn": "1864-063X",
+    "eissn": "1864-0648",
+    "jcr_year": 2025,
+    "jif": "2",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0269-7653": {
+    "name": "EVOLUTIONARY ECOLOGY",
+    "jcr_abbreviation": "EVOL ECOL",
+    "pubmed_abbreviation": "Evol Ecol",
+    "nlm_id": "9882858",
+    "issn": "0269-7653",
+    "eissn": "1573-8477",
+    "jcr_year": 2025,
+    "jif": "2",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0735-9640": {
+    "name": "PLANT MOLECULAR BIOLOGY REPORTER",
+    "jcr_abbreviation": "PLANT MOL BIOL REP",
+    "pubmed_abbreviation": "Plant Mol Biol Report",
+    "nlm_id": "9880213",
+    "issn": "0735-9640",
+    "eissn": "1572-9818",
+    "jcr_year": 2025,
+    "jif": "2",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1399-560X": {
+    "name": "INSECT SYSTEMATICS & EVOLUTION",
+    "jcr_abbreviation": "INSECT SYST EVOL",
+    "pubmed_abbreviation": "Insect Syst Evol",
+    "nlm_id": "101133503",
+    "issn": "1399-560X",
+    "eissn": "1876-312X",
+    "jcr_year": 2025,
+    "jif": "1.9",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0040-0262": {
+    "name": "TAXON",
+    "jcr_abbreviation": "TAXON",
+    "pubmed_abbreviation": "Taxon",
+    "nlm_id": "100955370",
+    "issn": "0040-0262",
+    "eissn": "1996-8175",
+    "jcr_year": 2025,
+    "jif": "1.9",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1439-6092": {
+    "name": "ORGANISMS DIVERSITY & EVOLUTION",
+    "jcr_abbreviation": "ORG DIVERS EVOL",
+    "pubmed_abbreviation": "Org Divers Evol",
+    "nlm_id": "100971802",
+    "issn": "1439-6092",
+    "eissn": "1618-1077",
+    "jcr_year": 2025,
+    "jif": "1.8",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1574-8936": {
+    "name": "Current Bioinformatics",
+    "jcr_abbreviation": "CURR BIOINFORM",
+    "pubmed_abbreviation": "Curr Bioinform",
+    "nlm_id": "101272515",
+    "issn": "1574-8936",
+    "eissn": "2212-392X",
+    "jcr_year": 2025,
+    "jif": "1.8",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      },
+      {
+        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1030-1887": {
+    "name": "AUSTRALIAN SYSTEMATIC BOTANY",
+    "jcr_abbreviation": "AUST SYST BOT",
+    "pubmed_abbreviation": "Aust Syst Bot",
+    "nlm_id": "100955225",
+    "issn": "1030-1887",
+    "eissn": "1446-5701",
+    "jcr_year": 2025,
+    "jif": "1.8",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0951-4198": {
+    "name": "RAPID COMMUNICATIONS IN MASS SPECTROMETRY",
+    "jcr_abbreviation": "RAPID COMMUN MASS SP",
+    "pubmed_abbreviation": "Rapid Commun Mass Spectrom",
+    "nlm_id": "8802365",
+    "issn": "0951-4198",
+    "eissn": "1097-0231",
+    "jcr_year": 2025,
+    "jif": "1.8",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1540-658X": {
+    "name": "ASSAY AND DRUG DEVELOPMENT TECHNOLOGIES",
+    "jcr_abbreviation": "ASSAY DRUG DEV TECHN",
+    "pubmed_abbreviation": "Assay Drug Dev Technol",
+    "nlm_id": "101151468",
+    "issn": "1540-658X",
+    "eissn": "1557-8127",
+    "jcr_year": 2025,
+    "jif": "1.8",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0021-9665": {
+    "name": "JOURNAL OF CHROMATOGRAPHIC SCIENCE",
+    "jcr_abbreviation": "J CHROMATOGR SCI",
+    "pubmed_abbreviation": "J Chromatogr Sci",
+    "nlm_id": "0173225",
+    "issn": "0021-9665",
+    "eissn": "1945-239X",
+    "jcr_year": 2025,
+    "jif": "1.8",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1552-5007": {
+    "name": "JOURNAL OF EXPERIMENTAL ZOOLOGY PART B-MOLECULAR AND DEVELOPMENTAL EVOLUTION",
+    "jcr_abbreviation": "J EXP ZOOL PART B",
+    "pubmed_abbreviation": "J Exp Zool B Mol Dev Evol",
+    "nlm_id": "101168228",
+    "issn": "1552-5007",
+    "eissn": "1552-5015",
+    "jcr_year": 2025,
+    "jif": "1.7",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2314-4920": {
+    "name": "Journal of Spectroscopy",
+    "jcr_abbreviation": "J SPECTROSC",
+    "pubmed_abbreviation": "J Spectrosc (Hindawi)",
+    "nlm_id": "101651184",
+    "issn": "2314-4920",
+    "eissn": "2314-4939",
+    "jcr_year": 2025,
+    "jif": "1.7",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0166-0934": {
+    "name": "JOURNAL OF VIROLOGICAL METHODS",
+    "jcr_abbreviation": "J VIROL METHODS",
+    "pubmed_abbreviation": "J Virol Methods",
+    "nlm_id": "8005839",
+    "issn": "0166-0934",
+    "eissn": "1879-0984",
+    "jcr_year": 2025,
+    "jif": "1.7",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "VIROLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0378-2697": {
+    "name": "PLANT SYSTEMATICS AND EVOLUTION",
+    "jcr_abbreviation": "PLANT SYST EVOL",
+    "pubmed_abbreviation": "Plant Syst Evol",
+    "nlm_id": "100954729",
+    "issn": "0378-2697",
+    "eissn": "1615-6110",
+    "jcr_year": 2025,
+    "jif": "1.7",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0022-1759": {
+    "name": "JOURNAL OF IMMUNOLOGICAL METHODS",
+    "jcr_abbreviation": "J IMMUNOL METHODS",
+    "pubmed_abbreviation": "J Immunol Methods",
+    "nlm_id": "1305440",
+    "issn": "0022-1759",
+    "eissn": "1872-7905",
+    "jcr_year": 2025,
+    "jif": "1.7",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      },
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1386-2073": {
+    "name": "COMBINATORIAL CHEMISTRY & HIGH THROUGHPUT SCREENING",
+    "jcr_abbreviation": "COMB CHEM HIGH T SCR",
+    "pubmed_abbreviation": "Comb Chem High Throughput Screen",
+    "nlm_id": "9810948",
+    "issn": "1386-2073",
+    "eissn": "1875-5402",
+    "jcr_year": 2025,
+    "jif": "1.7",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1748-7188": {
+    "name": "Algorithms for Molecular Biology",
+    "jcr_abbreviation": "ALGORITHM MOL BIOL",
+    "pubmed_abbreviation": "Algorithms Mol Biol",
+    "nlm_id": "101265088",
+    "issn": "",
+    "eissn": "1748-7188",
+    "jcr_year": 2025,
+    "jif": "1.6",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      },
+      {
+        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0024-4066": {
+    "name": "BIOLOGICAL JOURNAL OF THE LINNEAN SOCIETY",
+    "jcr_abbreviation": "BIOL J LINN SOC",
+    "pubmed_abbreviation": "Biol J Linn Soc Lond",
+    "nlm_id": "9877437",
+    "issn": "0024-4066",
+    "eissn": "1095-8312",
+    "jcr_year": 2025,
+    "jif": "1.6",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0009-5893": {
+    "name": "CHROMATOGRAPHIA",
+    "jcr_abbreviation": "CHROMATOGRAPHIA",
+    "pubmed_abbreviation": "Chromatographia",
+    "nlm_id": "0316520",
+    "issn": "0009-5893",
+    "eissn": "1612-1112",
+    "jcr_year": 2025,
+    "jif": "1.6",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1176-9343": {
+    "name": "Evolutionary Bioinformatics",
+    "jcr_abbreviation": "EVOL BIOINFORM",
+    "pubmed_abbreviation": "Evol Bioinform Online",
+    "nlm_id": "101256319",
+    "issn": "1176-9343",
+    "eissn": "1176-9343",
+    "jcr_year": 2025,
+    "jif": "1.6",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0040-5809": {
+    "name": "THEORETICAL POPULATION BIOLOGY",
+    "jcr_abbreviation": "THEOR POPUL BIOL",
+    "pubmed_abbreviation": "Theor Popul Biol",
+    "nlm_id": "0256422",
+    "issn": "0040-5809",
+    "eissn": "1096-0325",
+    "jcr_year": 2025,
+    "jif": "1.4",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2666-1667": {
+    "name": "STAR Protocols",
+    "jcr_abbreviation": "STAR PROTOC",
+    "pubmed_abbreviation": "STAR Protoc",
+    "nlm_id": "101769501",
+    "issn": "2666-1667",
+    "eissn": "2666-1667",
+    "jcr_year": 2025,
+    "jif": "1.4",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1066-5277": {
+    "name": "JOURNAL OF COMPUTATIONAL BIOLOGY",
+    "jcr_abbreviation": "J COMPUT BIOL",
+    "pubmed_abbreviation": "J Comput Biol",
+    "nlm_id": "9433358",
+    "issn": "1066-5277",
+    "eissn": "1557-8666",
+    "jcr_year": 2025,
+    "jif": "1.3",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      },
+      {
+        "name": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
+        "quartile": "Q4"
+      },
+      {
+        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "STATISTICS & PROBABILITY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0362-4803": {
+    "name": "JOURNAL OF LABELLED COMPOUNDS & RADIOPHARMACEUTICALS",
+    "jcr_abbreviation": "J LABELLED COMPD RAD",
+    "pubmed_abbreviation": "J Labelled Comp Radiopharm",
+    "nlm_id": "7610510",
+    "issn": "0362-4803",
+    "eissn": "1099-1344",
+    "jcr_year": 2025,
+    "jif": "1.3",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1082-6076": {
+    "name": "JOURNAL OF LIQUID CHROMATOGRAPHY & RELATED TECHNOLOGIES",
+    "jcr_abbreviation": "J LIQ CHROMATOGR R T",
+    "pubmed_abbreviation": "J Liq Chromatogr Relat Technol",
+    "nlm_id": "9605507",
+    "issn": "1082-6076",
+    "eissn": "1520-572X",
+    "jcr_year": 2025,
+    "jif": "1.1",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0363-6445": {
+    "name": "SYSTEMATIC BOTANY",
+    "jcr_abbreviation": "SYST BOT",
+    "pubmed_abbreviation": "Syst Bot",
+    "nlm_id": "100954988",
+    "issn": "0363-6445",
+    "eissn": "1548-2324",
+    "jcr_year": 2025,
+    "jif": "0.9",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0918-7960": {
+    "name": "ANTHROPOLOGICAL SCIENCE",
+    "jcr_abbreviation": "ANTHROPOL SCI",
+    "pubmed_abbreviation": "Anthropol Sci",
+    "nlm_id": "9509441",
+    "issn": "0918-7960",
+    "eissn": "1348-8570",
+    "jcr_year": 2025,
+    "jif": "0.6",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1565-9801": {
+    "name": "Israel Journal of Ecology & Evolution",
+    "jcr_abbreviation": "ISR J ECOL EVOL",
+    "pubmed_abbreviation": "Isr J Ecol Evol",
+    "nlm_id": "101306669",
+    "issn": "1565-9801",
+    "eissn": "2224-4662",
+    "jcr_year": 2025,
+    "jif": "0.5",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1226-6531": {
+    "name": "Journal of the Korean Magnetic Resonance Society",
+    "jcr_abbreviation": "J KOREAN MAGN RESON",
+    "pubmed_abbreviation": "",
+    "nlm_id": "",
+    "issn": "1226-6531",
+    "eissn": "1226-6531",
+    "jcr_year": 2025,
+    "jif": "0.4",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1918-3178": {
+    "name": "Ideas in Ecology and Evolution",
+    "jcr_abbreviation": "IDEAS ECOL EVOL",
+    "pubmed_abbreviation": "",
+    "nlm_id": "",
+    "issn": "1918-3178",
+    "eissn": "1918-3178",
+    "jcr_year": 2025,
+    "jif": "<0.1",
+    "categories": [
+      {
+        "name": "EVOLUTIONARY BIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2998-4165": {
+    "name": "IEEE Transactions on Computational Biology and Bioinformatics",
+    "jcr_abbreviation": "IEEE T COMPUT BIOL B",
+    "pubmed_abbreviation": "IEEE Trans Comput Biol Bioinform",
+    "nlm_id": "9919068173606676",
+    "issn": "",
+    "eissn": "2998-4165",
+    "jcr_year": 2025,
+    "jif": "N/A",
+    "categories": [
+      {
+        "name": "BIOCHEMICAL RESEARCH METHODS",
+        "quartile": "N/A"
+      },
+      {
+        "name": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
+        "quartile": "N/A"
+      },
+      {
+        "name": "STATISTICS & PROBABILITY",
+        "quartile": "N/A"
+      }
+    ]
+  },
+  "1474-1733": {
+    "name": "NATURE REVIEWS IMMUNOLOGY",
+    "jcr_abbreviation": "NAT REV IMMUNOL",
+    "pubmed_abbreviation": "Nat Rev Immunol",
+    "nlm_id": "101124169",
+    "issn": "1474-1733",
+    "eissn": "1474-1741",
+    "jcr_year": 2025,
+    "jif": "47.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0732-0582": {
+    "name": "Annual Review of Immunology",
+    "jcr_abbreviation": "ANNU REV IMMUNOL",
+    "pubmed_abbreviation": "Annu Rev Immunol",
+    "nlm_id": "8309206",
+    "issn": "0732-0582",
+    "eissn": "1545-3278",
+    "jcr_year": 2025,
+    "jif": "39.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1074-7613": {
+    "name": "Immunity",
+    "jcr_abbreviation": "IMMUNITY",
+    "pubmed_abbreviation": "Immunity",
+    "nlm_id": "9432918",
+    "issn": "1074-7613",
+    "eissn": "1097-4180",
+    "jcr_year": 2025,
+    "jif": "30.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1560-2745": {
+    "name": "FUNGAL DIVERSITY",
+    "jcr_abbreviation": "FUNGAL DIVERS",
+    "pubmed_abbreviation": "Fungal Divers",
+    "nlm_id": "100955518",
+    "issn": "1560-2745",
+    "eissn": "1878-9129",
+    "jcr_year": 2025,
+    "jif": "27",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1529-2908": {
+    "name": "NATURE IMMUNOLOGY",
+    "jcr_abbreviation": "NAT IMMUNOL",
+    "pubmed_abbreviation": "Nat Immunol",
+    "nlm_id": "100941354",
+    "issn": "1529-2908",
+    "eissn": "1529-2916",
+    "jcr_year": 2025,
+    "jif": "26.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1672-7681": {
+    "name": "Cellular & Molecular Immunology",
+    "jcr_abbreviation": "CELL MOL IMMUNOL",
+    "pubmed_abbreviation": "Cell Mol Immunol",
+    "nlm_id": "101242872",
+    "issn": "1672-7681",
+    "eissn": "2042-0226",
+    "jcr_year": 2025,
+    "jif": "23.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2077-7000": {
+    "name": "Mycosphere",
+    "jcr_abbreviation": "MYCOSPHERE",
+    "pubmed_abbreviation": "Mycosphere",
+    "nlm_id": "101534483",
+    "issn": "2077-7000",
+    "eissn": "2077-7019",
+    "jcr_year": 2025,
+    "jif": "19.9",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0166-0616": {
+    "name": "STUDIES IN MYCOLOGY",
+    "jcr_abbreviation": "STUD MYCOL",
+    "pubmed_abbreviation": "Stud Mycol",
+    "nlm_id": "8411984",
+    "issn": "0166-0616",
+    "eissn": "1872-9797",
+    "jcr_year": 2025,
+    "jif": "18.3",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2470-9468": {
+    "name": "Science Immunology",
+    "jcr_abbreviation": "SCI IMMUNOL",
+    "pubmed_abbreviation": "Sci Immunol",
+    "nlm_id": "101688624",
+    "issn": "2470-9468",
+    "eissn": "2470-9468",
+    "jcr_year": 2025,
+    "jif": "16.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2352-3018": {
+    "name": "Lancet HIV",
+    "jcr_abbreviation": "LANCET HIV",
+    "pubmed_abbreviation": "Lancet HIV",
+    "nlm_id": "101645355",
+    "issn": "2352-3018",
+    "eissn": "2352-3018",
+    "jcr_year": 2025,
+    "jif": "14.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1471-4906": {
+    "name": "TRENDS IN IMMUNOLOGY",
+    "jcr_abbreviation": "TRENDS IMMUNOL",
+    "pubmed_abbreviation": "Trends Immunol",
+    "nlm_id": "100966032",
+    "issn": "1471-4906",
+    "eissn": "1471-4981",
+    "jcr_year": 2025,
+    "jif": "13.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0091-6749": {
+    "name": "JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY",
+    "jcr_abbreviation": "J ALLERGY CLIN IMMUN",
+    "pubmed_abbreviation": "J Allergy Clin Immunol",
+    "nlm_id": "1275002",
+    "issn": "0091-6749",
+    "eissn": "1097-6825",
+    "jcr_year": 2025,
+    "jif": "11.7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2051-1426": {
+    "name": "Journal for ImmunoTherapy of Cancer",
+    "jcr_abbreviation": "J IMMUNOTHER CANCER",
+    "pubmed_abbreviation": "J Immunother Cancer",
+    "nlm_id": "101620585",
+    "issn": "",
+    "eissn": "2051-1426",
+    "jcr_year": 2025,
+    "jif": "11.7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "ONCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0022-1007": {
+    "name": "JOURNAL OF EXPERIMENTAL MEDICINE",
+    "jcr_abbreviation": "J EXP MED",
+    "pubmed_abbreviation": "J Exp Med",
+    "nlm_id": "2985109R",
+    "issn": "0022-1007",
+    "eissn": "1540-9538",
+    "jcr_year": 2025,
+    "jif": "11.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1742-2094": {
+    "name": "Journal of Neuroinflammation",
+    "jcr_abbreviation": "J NEUROINFLAMM",
+    "pubmed_abbreviation": "J Neuroinflammation",
+    "nlm_id": "101222974",
+    "issn": "",
+    "eissn": "1742-2094",
+    "jcr_year": 2025,
+    "jif": "11.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "NEUROSCIENCES",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1080-0549": {
+    "name": "CLINICAL REVIEWS IN ALLERGY & IMMUNOLOGY",
+    "jcr_abbreviation": "CLIN REV ALLERG IMMU",
+    "pubmed_abbreviation": "Clin Rev Allergy Immunol",
+    "nlm_id": "9504368",
+    "issn": "1080-0549",
+    "eissn": "1559-0267",
+    "jcr_year": 2025,
+    "jif": "11.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1863-2297": {
+    "name": "Seminars in Immunopathology",
+    "jcr_abbreviation": "SEMIN IMMUNOPATHOL",
+    "pubmed_abbreviation": "Semin Immunopathol",
+    "nlm_id": "101308769",
+    "issn": "1863-2297",
+    "eissn": "1863-2300",
+    "jcr_year": 2025,
+    "jif": "11.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1044-5323": {
+    "name": "SEMINARS IN IMMUNOLOGY",
+    "jcr_abbreviation": "SEMIN IMMUNOL",
+    "pubmed_abbreviation": "Semin Immunol",
+    "nlm_id": "9009458",
+    "issn": "1044-5323",
+    "eissn": "1096-3618",
+    "jcr_year": 2025,
+    "jif": "11.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0105-4538": {
+    "name": "ALLERGY",
+    "jcr_abbreviation": "ALLERGY",
+    "pubmed_abbreviation": "Allergy",
+    "nlm_id": "7804028",
+    "issn": "0105-4538",
+    "eissn": "1398-9995",
+    "jcr_year": 2025,
+    "jif": "11.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0105-2896": {
+    "name": "IMMUNOLOGICAL REVIEWS",
+    "jcr_abbreviation": "IMMUNOL REV",
+    "pubmed_abbreviation": "Immunol Rev",
+    "nlm_id": "7702118",
+    "issn": "0105-2896",
+    "eissn": "1600-065X",
+    "jcr_year": 2025,
+    "jif": "10.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1568-9972": {
+    "name": "AUTOIMMUNITY REVIEWS",
+    "jcr_abbreviation": "AUTOIMMUN REV",
+    "pubmed_abbreviation": "Autoimmun Rev",
+    "nlm_id": "101128967",
+    "issn": "1568-9972",
+    "eissn": "1873-0183",
+    "jcr_year": 2025,
+    "jif": "9.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0031-5850": {
+    "name": "PERSOONIA",
+    "jcr_abbreviation": "PERSOONIA",
+    "pubmed_abbreviation": "Persoonia",
+    "nlm_id": "19540520R",
+    "issn": "0031-5850",
+    "eissn": "",
+    "jcr_year": 2025,
+    "jif": "9.5",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1173-8804": {
+    "name": "BIODRUGS",
+    "jcr_abbreviation": "BIODRUGS",
+    "pubmed_abbreviation": "BioDrugs",
+    "nlm_id": "9705305",
+    "issn": "1173-8804",
+    "eissn": "1179-190X",
+    "jcr_year": 2025,
+    "jif": "8.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "ONCOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1058-4838": {
+    "name": "CLINICAL INFECTIOUS DISEASES",
+    "jcr_abbreviation": "CLIN INFECT DIS",
+    "pubmed_abbreviation": "Clin Infect Dis",
+    "nlm_id": "9203213",
+    "issn": "1058-4838",
+    "eissn": "1537-6591",
+    "jcr_year": 2025,
+    "jif": "8.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1742-4933": {
+    "name": "Immunity & Ageing",
+    "jcr_abbreviation": "IMMUN AGEING",
+    "pubmed_abbreviation": "Immun Ageing",
+    "nlm_id": "101235427",
+    "issn": "1742-4933",
+    "eissn": "1742-4933",
+    "jcr_year": 2025,
+    "jif": "8.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2326-6066": {
+    "name": "Cancer Immunology Research",
+    "jcr_abbreviation": "CANCER IMMUNOL RES",
+    "pubmed_abbreviation": "Cancer Immunol Res",
+    "nlm_id": "101614637",
+    "issn": "2326-6066",
+    "eissn": "2326-6074",
+    "jcr_year": 2025,
+    "jif": "7.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "ONCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1080-6040": {
+    "name": "EMERGING INFECTIOUS DISEASES",
+    "jcr_abbreviation": "EMERG INFECT DIS",
+    "pubmed_abbreviation": "Emerg Infect Dis",
+    "nlm_id": "9508155",
+    "issn": "1080-6040",
+    "eissn": "1080-6059",
+    "jcr_year": 2025,
+    "jif": "7.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1880-8190": {
+    "name": "Inflammation and Regeneration",
+    "jcr_abbreviation": "INFLAMM REGEN",
+    "pubmed_abbreviation": "Inflamm Regen",
+    "nlm_id": "101479577",
+    "issn": "",
+    "eissn": "1880-8190",
+    "jcr_year": 2025,
+    "jif": "7.7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0889-1591": {
+    "name": "BRAIN BEHAVIOR AND IMMUNITY",
+    "jcr_abbreviation": "BRAIN BEHAV IMMUN",
+    "pubmed_abbreviation": "Brain Behav Immun",
+    "nlm_id": "8800478",
+    "issn": "0889-1591",
+    "eissn": "1090-2139",
+    "jcr_year": 2025,
+    "jif": "7.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "NEUROSCIENCES",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2213-2198": {
+    "name": "Journal of Allergy and Clinical Immunology-In Practice",
+    "jcr_abbreviation": "J ALLER CL IMM-PRACT",
+    "pubmed_abbreviation": "J Allergy Clin Immunol Pract",
+    "nlm_id": "101597220",
+    "issn": "2213-2198",
+    "eissn": "2213-2201",
+    "jcr_year": 2025,
+    "jif": "7.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2059-0105": {
+    "name": "npj Vaccines",
+    "jcr_abbreviation": "NPJ VACCINES",
+    "pubmed_abbreviation": "NPJ Vaccines",
+    "nlm_id": "101699863",
+    "issn": "",
+    "eissn": "2059-0105",
+    "jcr_year": 2025,
+    "jif": "7.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1081-1206": {
+    "name": "ANNALS OF ALLERGY ASTHMA & IMMUNOLOGY",
+    "jcr_abbreviation": "ANN ALLERG ASTHMA IM",
+    "pubmed_abbreviation": "Ann Allergy Asthma Immunol",
+    "nlm_id": "9503580",
+    "issn": "1081-1206",
+    "eissn": "1534-4436",
+    "jcr_year": 2025,
+    "jif": "7.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2222-1751": {
+    "name": "Emerging Microbes & Infections",
+    "jcr_abbreviation": "EMERG MICROBES INFEC",
+    "pubmed_abbreviation": "Emerg Microbes Infect",
+    "nlm_id": "101594885",
+    "issn": "",
+    "eissn": "2222-1751",
+    "jcr_year": 2025,
+    "jif": "7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1664-3224": {
+    "name": "Frontiers in Immunology",
+    "jcr_abbreviation": "FRONT IMMUNOL",
+    "pubmed_abbreviation": "Front Immunol",
+    "nlm_id": "101560960",
+    "issn": "1664-3224",
+    "eissn": "1664-3224",
+    "jcr_year": 2025,
+    "jif": "7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0896-8411": {
+    "name": "JOURNAL OF AUTOIMMUNITY",
+    "jcr_abbreviation": "J AUTOIMMUN",
+    "pubmed_abbreviation": "J Autoimmun",
+    "nlm_id": "8812164",
+    "issn": "0896-8411",
+    "eissn": "1095-9157",
+    "jcr_year": 2025,
+    "jif": "6.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2150-5594": {
+    "name": "Virulence",
+    "jcr_abbreviation": "VIRULENCE",
+    "pubmed_abbreviation": "Virulence",
+    "nlm_id": "101531386",
+    "issn": "2150-5594",
+    "eissn": "2150-5608",
+    "jcr_year": 2025,
+    "jif": "6.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1018-9068": {
+    "name": "JOURNAL OF INVESTIGATIONAL ALLERGOLOGY AND CLINICAL IMMUNOLOGY",
+    "jcr_abbreviation": "J INVEST ALLERG CLIN",
+    "pubmed_abbreviation": "J Investig Allergol Clin Immunol",
+    "nlm_id": "9107858",
+    "issn": "1018-9068",
+    "eissn": "1698-0808",
+    "jcr_year": 2025,
+    "jif": "6.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0925-4692": {
+    "name": "INFLAMMOPHARMACOLOGY",
+    "jcr_abbreviation": "INFLAMMOPHARMACOLOGY",
+    "pubmed_abbreviation": "Inflammopharmacology",
+    "nlm_id": "9112626",
+    "issn": "0925-4692",
+    "eissn": "1568-5608",
+    "jcr_year": 2025,
+    "jif": "6.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "TOXICOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1529-7322": {
+    "name": "CURRENT ALLERGY AND ASTHMA REPORTS",
+    "jcr_abbreviation": "CURR ALLERGY ASTHM R",
+    "pubmed_abbreviation": "Curr Allergy Asthma Rep",
+    "nlm_id": "101096440",
+    "issn": "1529-7322",
+    "eissn": "1534-6315",
+    "jcr_year": 2025,
+    "jif": "6.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2162-402X": {
+    "name": "OncoImmunology",
+    "jcr_abbreviation": "ONCOIMMUNOLOGY",
+    "pubmed_abbreviation": "Oncoimmunology",
+    "nlm_id": "101570526",
+    "issn": "2162-402X",
+    "eissn": "2162-402X",
+    "jcr_year": 2025,
+    "jif": "6.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "ONCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1323-8930": {
+    "name": "ALLERGOLOGY INTERNATIONAL",
+    "jcr_abbreviation": "ALLERGOL INT",
+    "pubmed_abbreviation": "Allergol Int",
+    "nlm_id": "9616296",
+    "issn": "1323-8930",
+    "eissn": "1440-1592",
+    "jcr_year": 2025,
+    "jif": "6.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1598-2629": {
+    "name": "Immune Network",
+    "jcr_abbreviation": "IMMUNE NETW",
+    "pubmed_abbreviation": "Immune Netw",
+    "nlm_id": "101137270",
+    "issn": "1598-2629",
+    "eissn": "2092-6685",
+    "jcr_year": 2025,
+    "jif": "5.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0340-7004": {
+    "name": "CANCER IMMUNOLOGY IMMUNOTHERAPY",
+    "jcr_abbreviation": "CANCER IMMUNOL IMMUN",
+    "pubmed_abbreviation": "Cancer Immunol Immunother",
+    "nlm_id": "8605732",
+    "issn": "0340-7004",
+    "eissn": "1432-0851",
+    "jcr_year": 2025,
+    "jif": "5.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "ONCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1476-9255": {
+    "name": "Journal of Inflammation-London",
+    "jcr_abbreviation": "J INFLAMM-LOND",
+    "pubmed_abbreviation": "J Inflamm (Lond)",
+    "nlm_id": "101232234",
+    "issn": "1476-9255",
+    "eissn": "1476-9255",
+    "jcr_year": 2025,
+    "jif": "5.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2150-1203": {
+    "name": "Mycology-An International Journal On Fungal Biology",
+    "jcr_abbreviation": "MYCOLOGY-UK",
+    "pubmed_abbreviation": "Mycology",
+    "nlm_id": "101523848",
+    "issn": "2150-1203",
+    "eissn": "2150-1211",
+    "jcr_year": 2025,
+    "jif": "5.7",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1567-5769": {
+    "name": "International Immunopharmacology",
+    "jcr_abbreviation": "INT IMMUNOPHARMACOL",
+    "pubmed_abbreviation": "Int Immunopharmacol",
+    "nlm_id": "100965259",
+    "issn": "1567-5769",
+    "eissn": "1878-1705",
+    "jcr_year": 2025,
+    "jif": "5.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1476-0584": {
+    "name": "Expert Review of Vaccines",
+    "jcr_abbreviation": "EXPERT REV VACCINES",
+    "pubmed_abbreviation": "Expert Rev Vaccines",
+    "nlm_id": "101155475",
+    "issn": "1476-0584",
+    "eissn": "1744-8395",
+    "jcr_year": 2025,
+    "jif": "5.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0952-7915": {
+    "name": "CURRENT OPINION IN IMMUNOLOGY",
+    "jcr_abbreviation": "CURR OPIN IMMUNOL",
+    "pubmed_abbreviation": "Curr Opin Immunol",
+    "nlm_id": "8900118",
+    "issn": "0952-7915",
+    "eissn": "1879-0372",
+    "jcr_year": 2025,
+    "jif": "5.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1933-0219": {
+    "name": "Mucosal Immunology",
+    "jcr_abbreviation": "MUCOSAL IMMUNOL",
+    "pubmed_abbreviation": "Mucosal Immunol",
+    "nlm_id": "101299742",
+    "issn": "1933-0219",
+    "eissn": "1935-3456",
+    "jcr_year": 2025,
+    "jif": "5.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "2235-2988": {
+    "name": "Frontiers in Cellular and Infection Microbiology",
+    "jcr_abbreviation": "FRONT CELL INFECT MI",
+    "pubmed_abbreviation": "Front Cell Infect Microbiol",
+    "nlm_id": "101585359",
+    "issn": "2235-2988",
+    "eissn": "2235-2988",
+    "jcr_year": 2025,
+    "jif": "5.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0019-2805": {
+    "name": "IMMUNOLOGY",
+    "jcr_abbreviation": "IMMUNOLOGY",
+    "pubmed_abbreviation": "Immunology",
+    "nlm_id": "0374672",
+    "issn": "0019-2805",
+    "eissn": "1365-2567",
+    "jcr_year": 2025,
+    "jif": "5.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0883-0185": {
+    "name": "INTERNATIONAL REVIEWS OF IMMUNOLOGY",
+    "jcr_abbreviation": "INT REV IMMUNOL",
+    "pubmed_abbreviation": "Int Rev Immunol",
+    "nlm_id": "8712260",
+    "issn": "0883-0185",
+    "eissn": "1563-5244",
+    "jcr_year": 2025,
+    "jif": "5.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1758-2652": {
+    "name": "Journal of the International AIDS Society",
+    "jcr_abbreviation": "J INT AIDS SOC",
+    "pubmed_abbreviation": "J Int AIDS Soc",
+    "nlm_id": "101478566",
+    "issn": "",
+    "eissn": "1758-2652",
+    "jcr_year": 2025,
+    "jif": "5.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0268-3369": {
+    "name": "BONE MARROW TRANSPLANTATION",
+    "jcr_abbreviation": "BONE MARROW TRANSPL",
+    "pubmed_abbreviation": "Bone Marrow Transplant",
+    "nlm_id": "8702459",
+    "issn": "0268-3369",
+    "eissn": "1476-5365",
+    "jcr_year": 2025,
+    "jif": "5.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "ONCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0954-7894": {
+    "name": "CLINICAL AND EXPERIMENTAL ALLERGY",
+    "jcr_abbreviation": "CLIN EXP ALLERGY",
+    "pubmed_abbreviation": "Clin Exp Allergy",
+    "nlm_id": "8906443",
+    "issn": "0954-7894",
+    "eissn": "1365-2222",
+    "jcr_year": 2025,
+    "jif": "5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0041-1337": {
+    "name": "TRANSPLANTATION",
+    "jcr_abbreviation": "TRANSPLANTATION",
+    "pubmed_abbreviation": "Transplantation",
+    "nlm_id": "0132144",
+    "issn": "0041-1337",
+    "eissn": "1534-6080",
+    "jcr_year": 2025,
+    "jif": "4.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2516-4236": {
+    "name": "Antibody Therapeutics",
+    "jcr_abbreviation": "ANTIBODY THER",
+    "pubmed_abbreviation": "Antib Ther",
+    "nlm_id": "101730822",
+    "issn": "",
+    "eissn": "2516-4236",
+    "jcr_year": 2025,
+    "jif": "4.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2666-6375": {
+    "name": "Transplantation and Cellular Therapy",
+    "jcr_abbreviation": "TRANSPL CELL THER",
+    "pubmed_abbreviation": "Transplant Cell Ther",
+    "nlm_id": "101774629",
+    "issn": "2666-6375",
+    "eissn": "2666-6367",
+    "jcr_year": 2025,
+    "jif": "4.7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2667-0119": {
+    "name": "Fish and Shellfish Immunology Reports",
+    "jcr_abbreviation": "FISH SHELL IMMUN REP",
+    "pubmed_abbreviation": "Fish Shellfish Immunol Rep",
+    "nlm_id": "9918486785306676",
+    "issn": "2667-0119",
+    "eissn": "2667-0119",
+    "jcr_year": 2025,
+    "jif": "4.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1178-7031": {
+    "name": "Journal of Inflammation Research",
+    "jcr_abbreviation": "J INFLAMM RES",
+    "pubmed_abbreviation": "J Inflamm Res",
+    "nlm_id": "101512684",
+    "issn": "",
+    "eissn": "1178-7031",
+    "jcr_year": 2025,
+    "jif": "4.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1662-811X": {
+    "name": "Journal of Innate Immunity",
+    "jcr_abbreviation": "J INNATE IMMUN",
+    "pubmed_abbreviation": "J Innate Immun",
+    "nlm_id": "101469471",
+    "issn": "1662-811X",
+    "eissn": "1662-8128",
+    "jcr_year": 2025,
+    "jif": "4.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1077-5552": {
+    "name": "EXERCISE IMMUNOLOGY REVIEW",
+    "jcr_abbreviation": "EXERC IMMUNOL REV",
+    "pubmed_abbreviation": "Exerc Immunol Rev",
+    "nlm_id": "9505535",
+    "issn": "1077-5552",
+    "eissn": "1077-5552",
+    "jcr_year": 2025,
+    "jif": "4.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0905-6157": {
+    "name": "PEDIATRIC ALLERGY AND IMMUNOLOGY",
+    "jcr_abbreviation": "PEDIAT ALLERG IMM-UK",
+    "pubmed_abbreviation": "Pediatr Allergy Immunol",
+    "nlm_id": "9106718",
+    "issn": "0905-6157",
+    "eissn": "1399-3038",
+    "jcr_year": 2025,
+    "jif": "4.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2732-4303": {
+    "name": "Immunotherapy Advances",
+    "jcr_abbreviation": "IMMUNOTHER ADV",
+    "pubmed_abbreviation": "Immunother Adv",
+    "nlm_id": "101776979",
+    "issn": "",
+    "eissn": "2732-4303",
+    "jcr_year": 2025,
+    "jif": "4.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2309-608X": {
+    "name": "Journal of Fungi",
+    "jcr_abbreviation": "J FUNGI",
+    "pubmed_abbreviation": "J Fungi (Basel)",
+    "nlm_id": "101671827",
+    "issn": "",
+    "eissn": "2309-608X",
+    "jcr_year": 2025,
+    "jif": "4.3",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q1"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2092-7355": {
+    "name": "Allergy Asthma & Immunology Research",
+    "jcr_abbreviation": "ALLERGY ASTHMA IMMUN",
+    "pubmed_abbreviation": "Allergy Asthma Immunol Res",
+    "nlm_id": "101518382",
+    "issn": "2092-7355",
+    "eissn": "2092-7363",
+    "jcr_year": 2025,
+    "jif": "4.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2673-6128": {
+    "name": "Frontiers in Fungal Biology",
+    "jcr_abbreviation": "FRONT FUNGAL BIOL",
+    "pubmed_abbreviation": "Front Fungal Biol",
+    "nlm_id": "9918266300506676",
+    "issn": "",
+    "eissn": "2673-6128",
+    "jcr_year": 2025,
+    "jif": "4.3",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0891-6934": {
+    "name": "AUTOIMMUNITY",
+    "jcr_abbreviation": "AUTOIMMUNITY",
+    "pubmed_abbreviation": "Autoimmunity",
+    "nlm_id": "8900070",
+    "issn": "0891-6934",
+    "eissn": "1607-842X",
+    "jcr_year": 2025,
+    "jif": "4.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1050-4648": {
+    "name": "FISH & SHELLFISH IMMUNOLOGY",
+    "jcr_abbreviation": "FISH SHELLFISH IMMUN",
+    "pubmed_abbreviation": "Fish Shellfish Immunol",
+    "nlm_id": "9505220",
+    "issn": "1050-4648",
+    "eissn": "1095-9947",
+    "jcr_year": 2025,
+    "jif": "4.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0891-5520": {
+    "name": "INFECTIOUS DISEASE CLINICS OF NORTH AMERICA",
+    "jcr_abbreviation": "INFECT DIS CLIN N AM",
+    "pubmed_abbreviation": "Infect Dis Clin North Am",
+    "nlm_id": "8804508",
+    "issn": "0891-5520",
+    "eissn": "1557-9824",
+    "jcr_year": 2025,
+    "jif": "4.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1466-4879": {
+    "name": "GENES AND IMMUNITY",
+    "jcr_abbreviation": "GENES IMMUN",
+    "pubmed_abbreviation": "Genes Immun",
+    "nlm_id": "100953417",
+    "issn": "1466-4879",
+    "eissn": "1476-5470",
+    "jcr_year": 2025,
+    "jif": "4.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2164-5515": {
+    "name": "Human Vaccines & Immunotherapeutics",
+    "jcr_abbreviation": "HUM VACC IMMUNOTHER",
+    "pubmed_abbreviation": "Hum Vaccin Immunother",
+    "nlm_id": "101572652",
+    "issn": "2164-5515",
+    "eissn": "2164-554X",
+    "jcr_year": 2025,
+    "jif": "4.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1314-4057": {
+    "name": "MycoKeys",
+    "jcr_abbreviation": "MYCOKEYS",
+    "pubmed_abbreviation": "MycoKeys",
+    "nlm_id": "101569696",
+    "issn": "1314-4057",
+    "eissn": "1314-4049",
+    "jcr_year": 2025,
+    "jif": "4.1",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0022-1899": {
+    "name": "JOURNAL OF INFECTIOUS DISEASES",
+    "jcr_abbreviation": "J INFECT DIS",
+    "pubmed_abbreviation": "J Infect Dis",
+    "nlm_id": "0413675",
+    "issn": "0022-1899",
+    "eissn": "1537-6613",
+    "jcr_year": 2025,
+    "jif": "4.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0271-9142": {
+    "name": "JOURNAL OF CLINICAL IMMUNOLOGY",
+    "jcr_abbreviation": "J CLIN IMMUNOL",
+    "pubmed_abbreviation": "J Clin Immunol",
+    "nlm_id": "8102137",
+    "issn": "0271-9142",
+    "eissn": "1573-2592",
+    "jcr_year": 2025,
+    "jif": "4.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1749-4613": {
+    "name": "Fungal Biology Reviews",
+    "jcr_abbreviation": "FUNGAL BIOL REV",
+    "pubmed_abbreviation": "Fungal Biol Rev",
+    "nlm_id": "101320029",
+    "issn": "1749-4613",
+    "eissn": "1878-0253",
+    "jcr_year": 2025,
+    "jif": "4.1",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "0301-486X": {
+    "name": "MYCOPATHOLOGIA",
+    "jcr_abbreviation": "MYCOPATHOLOGIA",
+    "pubmed_abbreviation": "Mycopathologia",
+    "nlm_id": "7505689",
+    "issn": "0301-486X",
+    "eissn": "1573-0832",
+    "jcr_year": 2025,
+    "jif": "4.1",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q1"
+      }
+    ]
+  },
+  "1521-6616": {
+    "name": "CLINICAL IMMUNOLOGY",
+    "jcr_abbreviation": "CLIN IMMUNOL",
+    "pubmed_abbreviation": "Clin Immunol",
+    "nlm_id": "100883537",
+    "issn": "1521-6616",
+    "eissn": "1521-7035",
+    "jcr_year": 2025,
+    "jif": "4.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0014-2980": {
+    "name": "EUROPEAN JOURNAL OF IMMUNOLOGY",
+    "jcr_abbreviation": "EUR J IMMUNOL",
+    "pubmed_abbreviation": "Eur J Immunol",
+    "nlm_id": "1273201",
+    "issn": "0014-2980",
+    "eissn": "1521-4141",
+    "jcr_year": 2025,
+    "jif": "4.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2253-1556": {
+    "name": "ImmunoTargets and Therapy",
+    "jcr_abbreviation": "IMMUNOTARGETS THER",
+    "pubmed_abbreviation": "Immunotargets Ther",
+    "nlm_id": "101606565",
+    "issn": "",
+    "eissn": "2253-1556",
+    "jcr_year": 2025,
+    "jif": "4.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2210-6340": {
+    "name": "IMA Fungus",
+    "jcr_abbreviation": "IMA FUNGUS",
+    "pubmed_abbreviation": "IMA Fungus",
+    "nlm_id": "101557546",
+    "issn": "2210-6340",
+    "eissn": "2210-6359",
+    "jcr_year": 2025,
+    "jif": "4",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0940-6360": {
+    "name": "MYCORRHIZA",
+    "jcr_abbreviation": "MYCORRHIZA",
+    "pubmed_abbreviation": "Mycorrhiza",
+    "nlm_id": "100955036",
+    "issn": "0940-6360",
+    "eissn": "1432-1890",
+    "jcr_year": 2025,
+    "jif": "4",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1939-4551": {
+    "name": "World Allergy Organization Journal",
+    "jcr_abbreviation": "WORLD ALLERGY ORGAN",
+    "pubmed_abbreviation": "World Allergy Organ J",
+    "nlm_id": "101481283",
+    "issn": "1939-4551",
+    "eissn": "1939-4551",
+    "jcr_year": 2025,
+    "jif": "4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0022-1767": {
+    "name": "JOURNAL OF IMMUNOLOGY",
+    "jcr_abbreviation": "J IMMUNOL",
+    "pubmed_abbreviation": "J Immunol",
+    "nlm_id": "2985117R",
+    "issn": "0022-1767",
+    "eissn": "1550-6606",
+    "jcr_year": 2025,
+    "jif": "4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1744-666X": {
+    "name": "Expert Review of Clinical Immunology",
+    "jcr_abbreviation": "EXPERT REV CLIN IMMU",
+    "pubmed_abbreviation": "Expert Rev Clin Immunol",
+    "nlm_id": "101271248",
+    "issn": "1744-666X",
+    "eissn": "1744-8409",
+    "jcr_year": 2025,
+    "jif": "4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0882-4010": {
+    "name": "MICROBIAL PATHOGENESIS",
+    "jcr_abbreviation": "MICROB PATHOGENESIS",
+    "pubmed_abbreviation": "Microb Pathog",
+    "nlm_id": "8606191",
+    "issn": "0882-4010",
+    "eissn": "1096-1208",
+    "jcr_year": 2025,
+    "jif": "3.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0009-9104": {
+    "name": "CLINICAL AND EXPERIMENTAL IMMUNOLOGY",
+    "jcr_abbreviation": "CLIN EXP IMMUNOL",
+    "pubmed_abbreviation": "Clin Exp Immunol",
+    "nlm_id": "0057202",
+    "issn": "0009-9104",
+    "eissn": "1365-2249",
+    "jcr_year": 2025,
+    "jif": "3.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2633-0407": {
+    "name": "Immunometabolism",
+    "jcr_abbreviation": "IMMUNOMETABOLISM",
+    "pubmed_abbreviation": "Immunometabolism (Cobham)",
+    "nlm_id": "9918435781306676",
+    "issn": "2633-0407",
+    "eissn": "2633-0407",
+    "jcr_year": 2025,
+    "jif": "3.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2666-3546": {
+    "name": "Brain Behavior & Immunity-Health",
+    "jcr_abbreviation": "BRAIN BEHAV IMMUN-HL",
+    "pubmed_abbreviation": "Brain Behav Immun Health",
+    "nlm_id": "101759062",
+    "issn": "2666-3546",
+    "eissn": "2666-3546",
+    "jcr_year": 2025,
+    "jif": "3.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "NEUROSCIENCES",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1684-1182": {
+    "name": "JOURNAL OF MICROBIOLOGY IMMUNOLOGY AND INFECTION",
+    "jcr_abbreviation": "J MICROBIOL IMMUNOL",
+    "pubmed_abbreviation": "J Microbiol Immunol Infect",
+    "nlm_id": "100956211",
+    "issn": "1684-1182",
+    "eissn": "1995-9133",
+    "jcr_year": 2025,
+    "jif": "3.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2328-8957": {
+    "name": "Open Forum Infectious Diseases",
+    "jcr_abbreviation": "OPEN FORUM INFECT DI",
+    "pubmed_abbreviation": "Open Forum Infect Dis",
+    "nlm_id": "101637045",
+    "issn": "2328-8957",
+    "eissn": "2328-8957",
+    "jcr_year": 2025,
+    "jif": "3.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2589-9090": {
+    "name": "Journal of Translational Autoimmunity",
+    "jcr_abbreviation": "J TRANSL AUTOIMMUN",
+    "pubmed_abbreviation": "J Transl Autoimmun",
+    "nlm_id": "101759413",
+    "issn": "2589-9090",
+    "eissn": "2589-9090",
+    "jcr_year": 2025,
+    "jif": "3.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1021-7401": {
+    "name": "NEUROIMMUNOMODULATION",
+    "jcr_abbreviation": "NEUROIMMUNOMODULAT",
+    "pubmed_abbreviation": "Neuroimmunomodulation",
+    "nlm_id": "9422763",
+    "issn": "1021-7401",
+    "eissn": "1423-0216",
+    "jcr_year": 2025,
+    "jif": "3.7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "NEUROSCIENCES",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0954-0105": {
+    "name": "FOOD AND AGRICULTURAL IMMUNOLOGY",
+    "jcr_abbreviation": "FOOD AGR IMMUNOL",
+    "pubmed_abbreviation": "Food Agric Immunol",
+    "nlm_id": "8918113",
+    "issn": "0954-0105",
+    "eissn": "1465-3443",
+    "jcr_year": 2025,
+    "jif": "3.7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "TOXICOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0165-0378": {
+    "name": "JOURNAL OF REPRODUCTIVE IMMUNOLOGY",
+    "jcr_abbreviation": "J REPROD IMMUNOL",
+    "pubmed_abbreviation": "J Reprod Immunol",
+    "nlm_id": "8001906",
+    "issn": "0165-0378",
+    "eissn": "1872-7603",
+    "jcr_year": 2025,
+    "jif": "3.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1369-3786": {
+    "name": "MEDICAL MYCOLOGY",
+    "jcr_abbreviation": "MED MYCOL",
+    "pubmed_abbreviation": "Med Mycol",
+    "nlm_id": "9815835",
+    "issn": "1369-3786",
+    "eissn": "1460-2709",
+    "jcr_year": 2025,
+    "jif": "3.5",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0178-7888": {
+    "name": "Mycotoxin Research",
+    "jcr_abbreviation": "MYCOTOXIN RES",
+    "pubmed_abbreviation": "Mycotoxin Res",
+    "nlm_id": "8807334",
+    "issn": "0178-7888",
+    "eissn": "1867-1632",
+    "jcr_year": 2025,
+    "jif": "3.5",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "TOXICOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1754-5048": {
+    "name": "Fungal Ecology",
+    "jcr_abbreviation": "FUNGAL ECOL",
+    "pubmed_abbreviation": "Fungal Ecol",
+    "nlm_id": "101496718",
+    "issn": "1754-5048",
+    "eissn": "1878-0083",
+    "jcr_year": 2025,
+    "jif": "3.5",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2076-393X": {
+    "name": "Vaccines",
+    "jcr_abbreviation": "VACCINES-BASEL",
+    "pubmed_abbreviation": "Vaccines (Basel)",
+    "nlm_id": "101629355",
+    "issn": "",
+    "eissn": "2076-393X",
+    "jcr_year": 2025,
+    "jif": "3.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1567-1356": {
+    "name": "FEMS YEAST RESEARCH",
+    "jcr_abbreviation": "FEMS YEAST RES",
+    "pubmed_abbreviation": "FEMS Yeast Res",
+    "nlm_id": "101085384",
+    "issn": "1567-1356",
+    "eissn": "1567-1364",
+    "jcr_year": 2025,
+    "jif": "3.5",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2050-4527": {
+    "name": "Immunity Inflammation and Disease",
+    "jcr_abbreviation": "IMMUN INFLAMM DIS",
+    "pubmed_abbreviation": "Immun Inflamm Dis",
+    "nlm_id": "101635460",
+    "issn": "",
+    "eissn": "2050-4527",
+    "jcr_year": 2025,
+    "jif": "3.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0933-7407": {
+    "name": "MYCOSES",
+    "jcr_abbreviation": "MYCOSES",
+    "pubmed_abbreviation": "Mycoses",
+    "nlm_id": "8805008",
+    "issn": "0933-7407",
+    "eissn": "1439-0507",
+    "jcr_year": 2025,
+    "jif": "3.4",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0264-410X": {
+    "name": "Vaccine",
+    "jcr_abbreviation": "VACCINE",
+    "pubmed_abbreviation": "Vaccine",
+    "nlm_id": "8406899",
+    "issn": "0264-410X",
+    "eissn": "1873-2518",
+    "jcr_year": 2025,
+    "jif": "3.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "2050-0068": {
+    "name": "Clinical & Translational Immunology",
+    "jcr_abbreviation": "CLIN TRANSL IMMUNOL",
+    "pubmed_abbreviation": "Clin Transl Immunology",
+    "nlm_id": "101638268",
+    "issn": "",
+    "eissn": "2050-0068",
+    "jcr_year": 2025,
+    "jif": "3.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0019-9567": {
+    "name": "INFECTION AND IMMUNITY",
+    "jcr_abbreviation": "INFECT IMMUN",
+    "pubmed_abbreviation": "Infect Immun",
+    "nlm_id": "0246127",
+    "issn": "0019-9567",
+    "eissn": "1098-5522",
+    "jcr_year": 2025,
+    "jif": "3.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1746-630X": {
+    "name": "Current Opinion in HIV and AIDS",
+    "jcr_abbreviation": "CURR OPIN HIV AIDS",
+    "pubmed_abbreviation": "Curr Opin HIV AIDS",
+    "nlm_id": "101264945",
+    "issn": "1746-630X",
+    "eissn": "1746-6318",
+    "jcr_year": 2025,
+    "jif": "3.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0953-8178": {
+    "name": "INTERNATIONAL IMMUNOLOGY",
+    "jcr_abbreviation": "INT IMMUNOL",
+    "pubmed_abbreviation": "Int Immunol",
+    "nlm_id": "8916182",
+    "issn": "0953-8178",
+    "eissn": "1460-2377",
+    "jcr_year": 2025,
+    "jif": "3.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1178-6965": {
+    "name": "Journal of Asthma and Allergy",
+    "jcr_abbreviation": "J ASTHMA ALLERGY",
+    "pubmed_abbreviation": "J Asthma Allergy",
+    "nlm_id": "101543450",
+    "issn": "1178-6965",
+    "eissn": "1178-6965",
+    "jcr_year": 2025,
+    "jif": "3.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2073-4468": {
+    "name": "Antibodies",
+    "jcr_abbreviation": "ANTIBODIES",
+    "pubmed_abbreviation": "Antibodies (Basel)",
+    "nlm_id": "101587489",
+    "issn": "",
+    "eissn": "2073-4468",
+    "jcr_year": 2025,
+    "jif": "3.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2314-8861": {
+    "name": "Journal of Immunology Research",
+    "jcr_abbreviation": "J IMMUNOL RES",
+    "pubmed_abbreviation": "J Immunol Res",
+    "nlm_id": "101627166",
+    "issn": "2314-8861",
+    "eissn": "2314-7156",
+    "jcr_year": 2025,
+    "jif": "3.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0165-2478": {
+    "name": "IMMUNOLOGY LETTERS",
+    "jcr_abbreviation": "IMMUNOL LETT",
+    "pubmed_abbreviation": "Immunol Lett",
+    "nlm_id": "7910006",
+    "issn": "0165-2478",
+    "eissn": "1879-0542",
+    "jcr_year": 2025,
+    "jif": "3.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1750-9378": {
+    "name": "Infectious Agents and Cancer",
+    "jcr_abbreviation": "INFECT AGENTS CANCER",
+    "pubmed_abbreviation": "Infect Agent Cancer",
+    "nlm_id": "101276559",
+    "issn": "1750-9378",
+    "eissn": "1750-9378",
+    "jcr_year": 2025,
+    "jif": "3.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "ONCOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0955-470X": {
+    "name": "Transplantation Reviews",
+    "jcr_abbreviation": "TRANSPLANT REV-ORLAN",
+    "pubmed_abbreviation": "Transplant Rev (Orlando)",
+    "nlm_id": "8804364",
+    "issn": "0955-470X",
+    "eissn": "",
+    "jcr_year": 2025,
+    "jif": "3.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0004-069X": {
+    "name": "ARCHIVUM IMMUNOLOGIAE ET THERAPIAE EXPERIMENTALIS",
+    "jcr_abbreviation": "ARCH IMMUNOL THER EX",
+    "pubmed_abbreviation": "Arch Immunol Ther Exp (Warsz)",
+    "nlm_id": "0114365",
+    "issn": "0004-069X",
+    "eissn": "1661-4917",
+    "jcr_year": 2025,
+    "jif": "3.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0892-3973": {
+    "name": "IMMUNOPHARMACOLOGY AND IMMUNOTOXICOLOGY",
+    "jcr_abbreviation": "IMMUNOPHARM IMMUNOT",
+    "pubmed_abbreviation": "Immunopharmacol Immunotoxicol",
+    "nlm_id": "8800150",
+    "issn": "0892-3973",
+    "eissn": "1532-2513",
+    "jcr_year": 2025,
+    "jif": "3.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "TOXICOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "0300-8584": {
+    "name": "MEDICAL MICROBIOLOGY AND IMMUNOLOGY",
+    "jcr_abbreviation": "MED MICROBIOL IMMUN",
+    "pubmed_abbreviation": "Med Microbiol Immunol",
+    "nlm_id": "0314524",
+    "issn": "0300-8584",
+    "eissn": "1432-1831",
+    "jcr_year": 2025,
+    "jif": "3.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0889-8561": {
+    "name": "IMMUNOLOGY AND ALLERGY CLINICS OF NORTH AMERICA",
+    "jcr_abbreviation": "IMMUNOL ALLERGY CLIN",
+    "pubmed_abbreviation": "Immunol Allergy Clin North Am",
+    "nlm_id": "8805635",
+    "issn": "0889-8561",
+    "eissn": "1557-8607",
+    "jcr_year": 2025,
+    "jif": "3.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0165-5728": {
+    "name": "JOURNAL OF NEUROIMMUNOLOGY",
+    "jcr_abbreviation": "J NEUROIMMUNOL",
+    "pubmed_abbreviation": "J Neuroimmunol",
+    "nlm_id": "8109498",
+    "issn": "0165-5728",
+    "eissn": "1872-8421",
+    "jcr_year": 2025,
+    "jif": "3.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "NEUROSCIENCES",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0171-2985": {
+    "name": "IMMUNOBIOLOGY",
+    "jcr_abbreviation": "IMMUNOBIOLOGY",
+    "pubmed_abbreviation": "Immunobiology",
+    "nlm_id": "8002742",
+    "issn": "0171-2985",
+    "eissn": "1878-3279",
+    "jcr_year": 2025,
+    "jif": "3.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2666-2345": {
+    "name": "Journal of Immunotherapy and Precision Oncology",
+    "jcr_abbreviation": "J IMMUNOTHER PRECIS",
+    "pubmed_abbreviation": "J Immunother Precis Oncol",
+    "nlm_id": "101768397",
+    "issn": "2666-2345",
+    "eissn": "2590-017X",
+    "jcr_year": 2025,
+    "jif": "3.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "ONCOLOGY",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1087-1845": {
+    "name": "FUNGAL GENETICS AND BIOLOGY",
+    "jcr_abbreviation": "FUNGAL GENET BIOL",
+    "pubmed_abbreviation": "Fungal Genet Biol",
+    "nlm_id": "9607601",
+    "issn": "1087-1845",
+    "eissn": "1096-0937",
+    "jcr_year": 2025,
+    "jif": "3",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1710-1492": {
+    "name": "Allergy Asthma and Clinical Immunology",
+    "jcr_abbreviation": "ALLERGY ASTHMA CL IM",
+    "pubmed_abbreviation": "Allergy Asthma Clin Immunol",
+    "nlm_id": "101244313",
+    "issn": "1710-1492",
+    "eissn": "1710-1492",
+    "jcr_year": 2025,
+    "jif": "3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2719-4523": {
+    "name": "Rheumatology and Immunology Research",
+    "jcr_abbreviation": "RHEUMATOL IMMUNOL RE",
+    "pubmed_abbreviation": "Rheumatol Immunol Res",
+    "nlm_id": "9918419176206676",
+    "issn": "",
+    "eissn": "2719-4523",
+    "jcr_year": 2025,
+    "jif": "3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1878-6146": {
+    "name": "Fungal Biology",
+    "jcr_abbreviation": "FUNGAL BIOL-UK",
+    "pubmed_abbreviation": "Fungal Biol",
+    "nlm_id": "101524465",
+    "issn": "1878-6146",
+    "eissn": "1878-6162",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0269-9370": {
+    "name": "AIDS",
+    "jcr_abbreviation": "AIDS",
+    "pubmed_abbreviation": "AIDS",
+    "nlm_id": "8710219",
+    "issn": "0269-9370",
+    "eissn": "1473-5571",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "VIROLOGY",
+        "quartile": "Q2"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1286-4579": {
+    "name": "MICROBES AND INFECTION",
+    "jcr_abbreviation": "MICROBES INFECT",
+    "pubmed_abbreviation": "Microbes Infect",
+    "nlm_id": "100883508",
+    "issn": "1286-4579",
+    "eissn": "1769-714X",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1471-2172": {
+    "name": "BMC IMMUNOLOGY",
+    "jcr_abbreviation": "BMC IMMUNOL",
+    "pubmed_abbreviation": "BMC Immunol",
+    "nlm_id": "100966980",
+    "issn": "",
+    "eissn": "1471-2172",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1524-9557": {
+    "name": "JOURNAL OF IMMUNOTHERAPY",
+    "jcr_abbreviation": "J IMMUNOTHER",
+    "pubmed_abbreviation": "J Immunother",
+    "nlm_id": "9706083",
+    "issn": "1524-9557",
+    "eissn": "1537-4513",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
+        "quartile": "Q3"
+      },
+      {
+        "name": "ONCOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1472-9792": {
+    "name": "Tuberculosis",
+    "jcr_abbreviation": "TUBERCULOSIS",
+    "pubmed_abbreviation": "Tuberculosis (Edinb)",
+    "nlm_id": "100971555",
+    "issn": "1472-9792",
+    "eissn": "1873-281X",
+    "jcr_year": 2025,
+    "jif": "2.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0394-6320": {
+    "name": "INTERNATIONAL JOURNAL OF IMMUNOPATHOLOGY AND PHARMACOLOGY",
+    "jcr_abbreviation": "INT J IMMUNOPATH PH",
+    "pubmed_abbreviation": "Int J Immunopathol Pharmacol",
+    "nlm_id": "8911335",
+    "issn": "0394-6320",
+    "eissn": "2058-7384",
+    "jcr_year": 2025,
+    "jif": "2.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2055-6640": {
+    "name": "Journal of Virus Eradication",
+    "jcr_abbreviation": "J VIRUS ERAD",
+    "pubmed_abbreviation": "J Virus Erad",
+    "nlm_id": "101654142",
+    "issn": "2055-6640",
+    "eissn": "2055-6659",
+    "jcr_year": 2025,
+    "jif": "2.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "VIROLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q2"
+      }
+    ]
+  },
+  "1528-4050": {
+    "name": "Current Opinion in Allergy and Clinical Immunology",
+    "jcr_abbreviation": "CURR OPIN ALLERGY CL",
+    "pubmed_abbreviation": "Curr Opin Allergy Clin Immunol",
+    "nlm_id": "100936359",
+    "issn": "1528-4050",
+    "eissn": "1473-6322",
+    "jcr_year": 2025,
+    "jif": "2.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0021-8820": {
+    "name": "JOURNAL OF ANTIBIOTICS",
+    "jcr_abbreviation": "J ANTIBIOT",
+    "pubmed_abbreviation": "J Antibiot (Tokyo)",
+    "nlm_id": "0151115",
+    "issn": "0021-8820",
+    "eissn": "1881-1469",
+    "jcr_year": 2025,
+    "jif": "2.7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0257-277X": {
+    "name": "IMMUNOLOGIC RESEARCH",
+    "jcr_abbreviation": "IMMUNOL RES",
+    "pubmed_abbreviation": "Immunol Res",
+    "nlm_id": "8611087",
+    "issn": "0257-277X",
+    "eissn": "1559-0755",
+    "jcr_year": 2025,
+    "jif": "2.7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2673-5601": {
+    "name": "Immuno",
+    "jcr_abbreviation": "IMMUNO-BASEL",
+    "pubmed_abbreviation": "Immuno",
+    "nlm_id": "9918350785906676",
+    "issn": "",
+    "eissn": "2673-5601",
+    "jcr_year": 2025,
+    "jif": "2.7",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2772-8293": {
+    "name": "Journal of Allergy and Clinical Immunology: Global",
+    "jcr_abbreviation": "J ALLER CL IMM-GLOB",
+    "pubmed_abbreviation": "J Allergy Clin Immunol Glob",
+    "nlm_id": "9918453488706676",
+    "issn": "",
+    "eissn": "2772-8293",
+    "jcr_year": 2025,
+    "jif": "2.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1617-416X": {
+    "name": "MYCOLOGICAL PROGRESS",
+    "jcr_abbreviation": "MYCOL PROG",
+    "pubmed_abbreviation": "Mycol Prog",
+    "nlm_id": "101136371",
+    "issn": "1617-416X",
+    "eissn": "1861-8952",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0147-9571": {
+    "name": "COMPARATIVE IMMUNOLOGY MICROBIOLOGY AND INFECTIOUS DISEASES",
+    "jcr_abbreviation": "COMP IMMUNOL MICROB",
+    "pubmed_abbreviation": "Comp Immunol Microbiol Infect Dis",
+    "nlm_id": "7808924",
+    "issn": "0147-9571",
+    "eissn": "1878-1667",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1046-7408": {
+    "name": "AMERICAN JOURNAL OF REPRODUCTIVE IMMUNOLOGY",
+    "jcr_abbreviation": "AM J REPROD IMMUNOL",
+    "pubmed_abbreviation": "Am J Reprod Immunol",
+    "nlm_id": "8912860",
+    "issn": "1046-7408",
+    "eissn": "1600-0897",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1398-2273": {
+    "name": "Transplant Infectious Disease",
+    "jcr_abbreviation": "TRANSPL INFECT DIS",
+    "pubmed_abbreviation": "Transpl Infect Dis",
+    "nlm_id": "100883688",
+    "issn": "1398-2273",
+    "eissn": "1399-3062",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1229-8093": {
+    "name": "MYCOBIOLOGY",
+    "jcr_abbreviation": "MYCOBIOLOGY",
+    "pubmed_abbreviation": "Mycobiology",
+    "nlm_id": "100960027",
+    "issn": "1229-8093",
+    "eissn": "2092-9323",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2590-1362": {
+    "name": "Vaccine: X",
+    "jcr_abbreviation": "VACCINE-X",
+    "pubmed_abbreviation": "Vaccine X",
+    "nlm_id": "101748769",
+    "issn": "2590-1362",
+    "eissn": "2590-1362",
+    "jcr_year": 2025,
+    "jif": "2.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0145-305X": {
+    "name": "DEVELOPMENTAL AND COMPARATIVE IMMUNOLOGY",
+    "jcr_abbreviation": "DEV COMP IMMUNOL",
+    "pubmed_abbreviation": "Dev Comp Immunol",
+    "nlm_id": "7708205",
+    "issn": "0145-305X",
+    "eissn": "1879-0089",
+    "jcr_year": 2025,
+    "jif": "2.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2950-3116": {
+    "name": "Comparative Immunology Reports",
+    "jcr_abbreviation": "COMP IMMUNOL REP",
+    "pubmed_abbreviation": "Comp Immunol Rep",
+    "nlm_id": "9918752081006676",
+    "issn": "",
+    "eissn": "2950-3116",
+    "jcr_year": 2025,
+    "jif": "2.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1156-5233": {
+    "name": "JOURNAL DE MYCOLOGIE MEDICALE",
+    "jcr_abbreviation": "J MYCOL MED",
+    "pubmed_abbreviation": "J Mycol Med",
+    "nlm_id": "9425651",
+    "issn": "1156-5233",
+    "eissn": "1773-0449",
+    "jcr_year": 2025,
+    "jif": "2.4",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0300-9475": {
+    "name": "SCANDINAVIAN JOURNAL OF IMMUNOLOGY",
+    "jcr_abbreviation": "SCAND J IMMUNOL",
+    "pubmed_abbreviation": "Scand J Immunol",
+    "nlm_id": "0323767",
+    "issn": "0300-9475",
+    "eissn": "1365-3083",
+    "jcr_year": 2025,
+    "jif": "2.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0891-3668": {
+    "name": "PEDIATRIC INFECTIOUS DISEASE JOURNAL",
+    "jcr_abbreviation": "PEDIATR INFECT DIS J",
+    "pubmed_abbreviation": "Pediatr Infect Dis J",
+    "nlm_id": "8701858",
+    "issn": "0891-3668",
+    "eissn": "1532-0987",
+    "jcr_year": 2025,
+    "jif": "2.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1525-4135": {
+    "name": "JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES",
+    "jcr_abbreviation": "JAIDS-J ACQ IMM DEF",
+    "pubmed_abbreviation": "",
+    "nlm_id": "",
+    "issn": "1525-4135",
+    "eissn": "1077-9450",
+    "jcr_year": 2025,
+    "jif": "2.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0882-0139": {
+    "name": "IMMUNOLOGICAL INVESTIGATIONS",
+    "jcr_abbreviation": "IMMUNOL INVEST",
+    "pubmed_abbreviation": "Immunol Invest",
+    "nlm_id": "8504629",
+    "issn": "0882-0139",
+    "eissn": "1532-4311",
+    "jcr_year": 2025,
+    "jif": "2.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2578-5826": {
+    "name": "Immunological Medicine",
+    "jcr_abbreviation": "IMMUNOL MED",
+    "pubmed_abbreviation": "Immunol Med",
+    "nlm_id": "101736847",
+    "issn": "",
+    "eissn": "2578-5826",
+    "jcr_year": 2025,
+    "jif": "2.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1018-2438": {
+    "name": "INTERNATIONAL ARCHIVES OF ALLERGY AND IMMUNOLOGY",
+    "jcr_abbreviation": "INT ARCH ALLERGY IMM",
+    "pubmed_abbreviation": "Int Arch Allergy Immunol",
+    "nlm_id": "9211652",
+    "issn": "1018-2438",
+    "eissn": "1423-0097",
+    "jcr_year": 2025,
+    "jif": "2.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1750-743X": {
+    "name": "Immunotherapy",
+    "jcr_abbreviation": "IMMUNOTHERAPY-UK",
+    "pubmed_abbreviation": "Immunotherapy",
+    "nlm_id": "101485158",
+    "issn": "1750-743X",
+    "eissn": "1750-7448",
+    "jcr_year": 2025,
+    "jif": "2.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0027-5514": {
+    "name": "MYCOLOGIA",
+    "jcr_abbreviation": "MYCOLOGIA",
+    "pubmed_abbreviation": "Mycologia",
+    "nlm_id": "0400764",
+    "issn": "0027-5514",
+    "eissn": "1557-2536",
+    "jcr_year": 2025,
+    "jif": "2.2",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0903-4641": {
+    "name": "APMIS",
+    "jcr_abbreviation": "APMIS",
+    "pubmed_abbreviation": "APMIS",
+    "nlm_id": "8803400",
+    "issn": "0903-4641",
+    "eissn": "1600-0463",
+    "jcr_year": 2025,
+    "jif": "2.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1875-0710": {
+    "name": "World Mycotoxin Journal",
+    "jcr_abbreviation": "WORLD MYCOTOXIN J",
+    "pubmed_abbreviation": "World Mycotoxin J",
+    "nlm_id": "101486765",
+    "issn": "1875-0710",
+    "eissn": "1875-0796",
+    "jcr_year": 2025,
+    "jif": "2.2",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q3"
+      },
+      {
+        "name": "TOXICOLOGY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "0093-7711": {
+    "name": "IMMUNOGENETICS",
+    "jcr_abbreviation": "IMMUNOGENETICS",
+    "pubmed_abbreviation": "Immunogenetics",
+    "nlm_id": "0420404",
+    "issn": "0093-7711",
+    "eissn": "1432-1211",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0125-877X": {
+    "name": "ASIAN PACIFIC JOURNAL OF ALLERGY AND IMMUNOLOGY",
+    "jcr_abbreviation": "ASIAN PAC J ALLERGY",
+    "pubmed_abbreviation": "Asian Pac J Allergy Immunol",
+    "nlm_id": "8402034",
+    "issn": "0125-877X",
+    "eissn": "2228-8694",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0198-8859": {
+    "name": "HUMAN IMMUNOLOGY",
+    "jcr_abbreviation": "HUM IMMUNOL",
+    "pubmed_abbreviation": "Hum Immunol",
+    "nlm_id": "8010936",
+    "issn": "0198-8859",
+    "eissn": "1879-1166",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0971-5916": {
+    "name": "INDIAN JOURNAL OF MEDICAL RESEARCH",
+    "jcr_abbreviation": "INDIAN J MED RES",
+    "pubmed_abbreviation": "Indian J Med Res",
+    "nlm_id": "0374701",
+    "issn": "0971-5916",
+    "eissn": "0971-5916",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "MEDICINE, GENERAL & INTERNAL",
+        "quartile": "Q2"
+      },
+      {
+        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1660-3796": {
+    "name": "TRANSFUSION MEDICINE AND HEMOTHERAPY",
+    "jcr_abbreviation": "TRANSFUS MED HEMOTH",
+    "pubmed_abbreviation": "Transfus Med Hemother",
+    "nlm_id": "101176417",
+    "issn": "1660-3796",
+    "eissn": "1660-3818",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2090-8040": {
+    "name": "International Journal of Inflammation",
+    "jcr_abbreviation": "INT J INFLAMM",
+    "pubmed_abbreviation": "Int J Inflam",
+    "nlm_id": "101538188",
+    "issn": "2090-8040",
+    "eissn": "2042-0099",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0024-7766": {
+    "name": "LYMPHOLOGY",
+    "jcr_abbreviation": "LYMPHOLOGY",
+    "pubmed_abbreviation": "Lymphology",
+    "nlm_id": "0155112",
+    "issn": "0024-7766",
+    "eissn": "",
+    "jcr_year": 2025,
+    "jif": "2.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1871-5303": {
+    "name": "Endocrine Metabolic & Immune Disorders-Drug Targets",
+    "jcr_abbreviation": "ENDOCR METAB IMMUNE",
+    "pubmed_abbreviation": "Endocr Metab Immune Disord Drug Targets",
+    "nlm_id": "101269157",
+    "issn": "1871-5303",
+    "eissn": "2212-3873",
+    "jcr_year": 2025,
+    "jif": "2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "1139-6121": {
+    "name": "AIDS REVIEWS",
+    "jcr_abbreviation": "AIDS REV",
+    "pubmed_abbreviation": "AIDS Rev",
+    "nlm_id": "101134876",
+    "issn": "1139-6121",
+    "eissn": "1698-6997",
+    "jcr_year": 2025,
+    "jif": "2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q3"
+      }
+    ]
+  },
+  "2164-7712": {
+    "name": "American Journal of Clinical and Experimental Immunology",
+    "jcr_abbreviation": "AM J CLIN EXP IMMUNO",
+    "pubmed_abbreviation": "Am J Clin Exp Immunol",
+    "nlm_id": "101587157",
+    "issn": "",
+    "eissn": "2164-7712",
+    "jcr_year": 2025,
+    "jif": "1.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0165-2427": {
+    "name": "VETERINARY IMMUNOLOGY AND IMMUNOPATHOLOGY",
+    "jcr_abbreviation": "VET IMMUNOL IMMUNOP",
+    "pubmed_abbreviation": "Vet Immunol Immunopathol",
+    "nlm_id": "8002006",
+    "issn": "0165-2427",
+    "eissn": "1873-2534",
+    "jcr_year": 2025,
+    "jif": "1.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2185-6486": {
+    "name": "Medical Mycology Journal",
+    "jcr_abbreviation": "MED MYCOL J",
+    "pubmed_abbreviation": "Med Mycol J",
+    "nlm_id": "101562838",
+    "issn": "2185-6486",
+    "eissn": "2186-165X",
+    "jcr_year": 2025,
+    "jif": "1.8",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1040-8401": {
+    "name": "CRITICAL REVIEWS IN IMMUNOLOGY",
+    "jcr_abbreviation": "CRIT REV IMMUNOL",
+    "pubmed_abbreviation": "Crit Rev Immunol",
+    "nlm_id": "8914819",
+    "issn": "1040-8401",
+    "eissn": "2162-6472",
+    "jcr_year": 2025,
+    "jif": "1.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2767-1410": {
+    "name": "Rheumatology & Autoimmunity",
+    "jcr_abbreviation": "RHEUMATOL AUTOIMMUN",
+    "pubmed_abbreviation": "Rheumatol Autoimmun",
+    "nlm_id": "9918402278706676",
+    "issn": "2767-1410",
+    "eissn": "2767-1429",
+    "jcr_year": 2025,
+    "jif": "1.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0966-3274": {
+    "name": "Transplant Immunology",
+    "jcr_abbreviation": "TRANSPL IMMUNOL",
+    "pubmed_abbreviation": "Transpl Immunol",
+    "nlm_id": "9309923",
+    "issn": "0966-3274",
+    "eissn": "1878-5492",
+    "jcr_year": 2025,
+    "jif": "1.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1521-9437": {
+    "name": "INTERNATIONAL JOURNAL OF MEDICINAL MUSHROOMS",
+    "jcr_abbreviation": "INT J MED MUSHROOMS",
+    "pubmed_abbreviation": "Int J Med Mushrooms",
+    "nlm_id": "100886202",
+    "issn": "1521-9437",
+    "eissn": "1940-4344",
+    "jcr_year": 2025,
+    "jif": "1.6",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0956-4624": {
+    "name": "INTERNATIONAL JOURNAL OF STD & AIDS",
+    "jcr_abbreviation": "INT J STD AIDS",
+    "pubmed_abbreviation": "Int J STD AIDS",
+    "nlm_id": "9007917",
+    "issn": "0956-4624",
+    "eissn": "1758-1052",
+    "jcr_year": 2025,
+    "jif": "1.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0385-5600": {
+    "name": "MICROBIOLOGY AND IMMUNOLOGY",
+    "jcr_abbreviation": "MICROBIOL IMMUNOL",
+    "pubmed_abbreviation": "Microbiol Immunol",
+    "nlm_id": "7703966",
+    "issn": "0385-5600",
+    "eissn": "1348-0421",
+    "jcr_year": 2025,
+    "jif": "1.6",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1217-8950": {
+    "name": "ACTA MICROBIOLOGICA ET IMMUNOLOGICA HUNGARICA",
+    "jcr_abbreviation": "ACTA MICROBIOL IMM H",
+    "pubmed_abbreviation": "Acta Microbiol Immunol Hung",
+    "nlm_id": "9434021",
+    "issn": "1217-8950",
+    "eissn": "1588-2640",
+    "jcr_year": 2025,
+    "jif": "1.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "MICROBIOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0882-8245": {
+    "name": "VIRAL IMMUNOLOGY",
+    "jcr_abbreviation": "VIRAL IMMUNOL",
+    "pubmed_abbreviation": "Viral Immunol",
+    "nlm_id": "8801552",
+    "issn": "0882-8245",
+    "eissn": "1557-8976",
+    "jcr_year": 2025,
+    "jif": "1.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "VIROLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1735-1502": {
+    "name": "Iranian Journal of Allergy Asthma and Immunology",
+    "jcr_abbreviation": "IRAN J ALLERGY ASTHM",
+    "pubmed_abbreviation": "Iran J Allergy Asthma Immunol",
+    "nlm_id": "101146178",
+    "issn": "1735-1502",
+    "eissn": "1735-5249",
+    "jcr_year": 2025,
+    "jif": "1.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1426-3912": {
+    "name": "Central European Journal of Immunology",
+    "jcr_abbreviation": "CENT EUR J IMMUNOL",
+    "pubmed_abbreviation": "Cent Eur J Immunol",
+    "nlm_id": "9702239",
+    "issn": "1426-3912",
+    "eissn": "1644-4124",
+    "jcr_year": 2025,
+    "jif": "1.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0255-0857": {
+    "name": "Indian Journal of Medical Microbiology",
+    "jcr_abbreviation": "INDIAN J MED MICROBI",
+    "pubmed_abbreviation": "Indian J Med Microbiol",
+    "nlm_id": "8700903",
+    "issn": "0255-0857",
+    "eissn": "1998-3646",
+    "jcr_year": 2025,
+    "jif": "1.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1340-3540": {
+    "name": "MYCOSCIENCE",
+    "jcr_abbreviation": "MYCOSCIENCE",
+    "pubmed_abbreviation": "Mycoscience",
+    "nlm_id": "9890476",
+    "issn": "1340-3540",
+    "eissn": "1618-2545",
+    "jcr_year": 2025,
+    "jif": "1.4",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1130-1406": {
+    "name": "REVISTA IBEROAMERICANA DE MICOLOGIA",
+    "jcr_abbreviation": "REV IBEROAM MICOL",
+    "pubmed_abbreviation": "Rev Iberoam Micol",
+    "nlm_id": "9425531",
+    "issn": "1130-1406",
+    "eissn": "",
+    "jcr_year": 2025,
+    "jif": "1.4",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2287-3651": {
+    "name": "Clinical and Experimental Vaccine Research",
+    "jcr_abbreviation": "CLIN EXP VACCINE RES",
+    "pubmed_abbreviation": "Clin Exp Vaccine Res",
+    "nlm_id": "101592344",
+    "issn": "2287-3651",
+    "eissn": "2287-366X",
+    "jcr_year": 2025,
+    "jif": "1.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2151-321X": {
+    "name": "Pediatric Allergy Immunology and Pulmonology",
+    "jcr_abbreviation": "PEDIAT ALLER IMM PUL",
+    "pubmed_abbreviation": "Pediatr Allergy Immunol Pulmonol",
+    "nlm_id": "101549629",
+    "issn": "2151-321X",
+    "eissn": "2151-3228",
+    "jcr_year": 2025,
+    "jif": "1.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1744-3121": {
+    "name": "International Journal of Immunogenetics",
+    "jcr_abbreviation": "INT J IMMUNOGENET",
+    "pubmed_abbreviation": "Int J Immunogenet",
+    "nlm_id": "101232337",
+    "issn": "1744-3121",
+    "eissn": "1744-313X",
+    "jcr_year": 2025,
+    "jif": "1.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1246-7820": {
+    "name": "TRANSFUSION CLINIQUE ET BIOLOGIQUE",
+    "jcr_abbreviation": "TRANSFUS CLIN BIOL",
+    "pubmed_abbreviation": "Transfus Clin Biol",
+    "nlm_id": "9423846",
+    "issn": "1246-7820",
+    "eissn": "",
+    "jcr_year": 2025,
+    "jif": "1.3",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0181-1584": {
+    "name": "CRYPTOGAMIE MYCOLOGIE",
+    "jcr_abbreviation": "CRYPTOGAMIE MYCOL",
+    "pubmed_abbreviation": "Cryptogam Mycol",
+    "nlm_id": "100961513",
+    "issn": "0181-1584",
+    "eissn": "1776-100X",
+    "jcr_year": 2025,
+    "jif": "1.2",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0024-2829": {
+    "name": "LICHENOLOGIST",
+    "jcr_abbreviation": "LICHENOLOGIST",
+    "pubmed_abbreviation": "Lichenologist (Lond)",
+    "nlm_id": "100955368",
+    "issn": "0024-2829",
+    "eissn": "1096-1135",
+    "jcr_year": 2025,
+    "jif": "1.2",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0141-9838": {
+    "name": "PARASITE IMMUNOLOGY",
+    "jcr_abbreviation": "PARASITE IMMUNOL",
+    "pubmed_abbreviation": "Parasite Immunol",
+    "nlm_id": "7910948",
+    "issn": "0141-9838",
+    "eissn": "1365-3024",
+    "jcr_year": 2025,
+    "jif": "1.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0082-0598": {
+    "name": "SYDOWIA",
+    "jcr_abbreviation": "SYDOWIA",
+    "pubmed_abbreviation": "Sydowia",
+    "nlm_id": "100955200",
+    "issn": "0082-0598",
+    "eissn": "",
+    "jcr_year": 2025,
+    "jif": "1.2",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2544-7459": {
+    "name": "Plant and Fungal Systematics",
+    "jcr_abbreviation": "PLANT FUNGAL SYST",
+    "pubmed_abbreviation": "",
+    "nlm_id": "",
+    "issn": "2544-7459",
+    "eissn": "2657-5000",
+    "jcr_year": 2025,
+    "jif": "1.1",
+    "categories": [
+      {
+        "name": "MYCOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1735-1383": {
+    "name": "Iranian Journal of Immunology",
+    "jcr_abbreviation": "IRAN J IMMUNOL",
+    "pubmed_abbreviation": "Iran J Immunol",
+    "nlm_id": "101282932",
+    "issn": "1735-1383",
+    "eissn": "1735-367X",
+    "jcr_year": 2025,
+    "jif": "1.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1721-727X": {
+    "name": "European Journal of Inflammation",
+    "jcr_abbreviation": "EUR J INFLAMM",
+    "pubmed_abbreviation": "Eur J Inflamm",
+    "nlm_id": "101184773",
+    "issn": "1721-727X",
+    "eissn": "2058-7392",
+    "jcr_year": 2025,
+    "jif": "1.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0889-2229": {
+    "name": "AIDS RESEARCH AND HUMAN RETROVIRUSES",
+    "jcr_abbreviation": "AIDS RES HUM RETROV",
+    "pubmed_abbreviation": "AIDS Res Hum Retroviruses",
+    "nlm_id": "8709376",
+    "issn": "0889-2229",
+    "eissn": "1931-8405",
+    "jcr_year": 2025,
+    "jif": "1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "VIROLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2090-6609": {
+    "name": "Case Reports in Immunology",
+    "jcr_abbreviation": "CASE REP IMMUNOL",
+    "pubmed_abbreviation": "Case Reports Immunol",
+    "nlm_id": "101622188",
+    "issn": "2090-6609",
+    "eissn": "2090-6617",
+    "jcr_year": 2025,
+    "jif": "0.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2574-4593": {
+    "name": "Journal of Cutaneous Immunology and Allergy",
+    "jcr_abbreviation": "J CUTAN IMMUNOL ALL",
+    "pubmed_abbreviation": "",
+    "nlm_id": "101771429",
+    "issn": "",
+    "eissn": "2574-4593",
+    "jcr_year": 2025,
+    "jif": "0.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2423-8015": {
+    "name": "Immunopathologia Persa",
+    "jcr_abbreviation": "IMMUNOPATHOL PERSA",
+    "pubmed_abbreviation": "",
+    "nlm_id": "101727425",
+    "issn": "2423-8015",
+    "eissn": "2423-8015",
+    "jcr_year": 2025,
+    "jif": "0.9",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "0041-1345": {
+    "name": "TRANSPLANTATION PROCEEDINGS",
+    "jcr_abbreviation": "TRANSPL P",
+    "pubmed_abbreviation": "Transplant Proc",
+    "nlm_id": "0243532",
+    "issn": "0041-1345",
+    "eissn": "1873-2623",
+    "jcr_year": 2025,
+    "jif": "0.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1570-162X": {
+    "name": "CURRENT HIV RESEARCH",
+    "jcr_abbreviation": "CURR HIV RES",
+    "pubmed_abbreviation": "Curr HIV Res",
+    "nlm_id": "101156990",
+    "issn": "1570-162X",
+    "eissn": "1873-4251",
+    "jcr_year": 2025,
+    "jif": "0.8",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "VIROLOGY",
+        "quartile": "Q4"
+      },
+      {
+        "name": "INFECTIOUS DISEASES",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1824-307X": {
+    "name": "ISJ-Invertebrate Survival Journal",
+    "jcr_abbreviation": "ISJ-INVERT SURVIV J",
+    "pubmed_abbreviation": "Invertebrate Surviv J",
+    "nlm_id": "101233261",
+    "issn": "1824-307X",
+    "eissn": "",
+    "jcr_year": 2025,
+    "jif": "0.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1301-109X": {
+    "name": "Turkish Journal of Immunology",
+    "jcr_abbreviation": "TURK J IMMUNOL",
+    "pubmed_abbreviation": "",
+    "nlm_id": "9614969",
+    "issn": "1301-109X",
+    "eissn": "2147-8325",
+    "jcr_year": 2025,
+    "jif": "0.5",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2575-615X": {
+    "name": "AIMS Allergy and Immunology",
+    "jcr_abbreviation": "AIMS ALLERGY IMMUNOL",
+    "pubmed_abbreviation": "AIMS Allergy Immunol",
+    "nlm_id": "101716531",
+    "issn": "2575-615X",
+    "eissn": "2575-615X",
+    "jcr_year": 2025,
+    "jif": "0.4",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "1427-3101": {
+    "name": "Alergia Astma Immunologia",
+    "jcr_abbreviation": "ALERG ASTMA IMMUNOL",
+    "pubmed_abbreviation": "",
+    "nlm_id": "100895609",
+    "issn": "1427-3101",
+    "eissn": "1427-3101",
+    "jcr_year": 2025,
+    "jif": "0.2",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
+      }
+    ]
+  },
+  "2292-5937": {
+    "name": "LymphoSign Journal-The Journal of Inherited Immune Disorders",
+    "jcr_abbreviation": "LYMPHOSIGN J",
+    "pubmed_abbreviation": "",
+    "nlm_id": "",
+    "issn": "2292-5937",
+    "eissn": "2292-5945",
+    "jcr_year": 2025,
+    "jif": "0.1",
+    "categories": [
+      {
+        "name": "IMMUNOLOGY",
+        "quartile": "Q4"
       }
     ]
   },
@@ -10711,22 +16387,6 @@
       }
     ]
   },
-  "1467-5463": {
-    "name": "BRIEFINGS IN BIOINFORMATICS",
-    "jcr_abbreviation": "BRIEF BIOINFORM",
-    "pubmed_abbreviation": "Brief Bioinform",
-    "nlm_id": "100912837",
-    "issn": "1467-5463",
-    "eissn": "1477-4054",
-    "jcr_year": 2025,
-    "jif": "7.3",
-    "categories": [
-      {
-        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "0360-8352": {
     "name": "Computers & Industrial Engineering",
     "jcr_abbreviation": "COMPUT IND ENG",
@@ -11143,26 +16803,6 @@
       }
     ]
   },
-  "1367-4803": {
-    "name": "BIOINFORMATICS",
-    "jcr_abbreviation": "BIOINFORMATICS",
-    "pubmed_abbreviation": "Bioinformatics",
-    "nlm_id": "9808944",
-    "issn": "1367-4803",
-    "eissn": "1367-4811",
-    "jcr_year": 2025,
-    "jif": "5.5",
-    "categories": [
-      {
-        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
-        "quartile": "Q1"
-      },
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "0045-7906": {
     "name": "COMPUTERS & ELECTRICAL ENGINEERING",
     "jcr_abbreviation": "COMPUT ELECTR ENG",
@@ -11439,26 +17079,6 @@
       }
     ]
   },
-  "1471-2105": {
-    "name": "BMC BIOINFORMATICS",
-    "jcr_abbreviation": "BMC BIOINFORMATICS",
-    "pubmed_abbreviation": "BMC Bioinformatics",
-    "nlm_id": "100965194",
-    "issn": "1471-2105",
-    "eissn": "1471-2105",
-    "jcr_year": 2025,
-    "jif": "4.4",
-    "categories": [
-      {
-        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
-        "quartile": "Q1"
-      },
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "1598-8198": {
     "name": "Computers and Concrete",
     "jcr_abbreviation": "COMPUT CONCRETE",
@@ -11553,26 +17173,6 @@
     "jcr_year": 2025,
     "jif": "4.1",
     "categories": [
-      {
-        "name": "STATISTICS & PROBABILITY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "1545-5963": {
-    "name": "IEEE-ACM Transactions on Computational Biology and Bioinformatics",
-    "jcr_abbreviation": "IEEE ACM T COMPUT BI",
-    "pubmed_abbreviation": "IEEE/ACM Trans Comput Biol Bioinform",
-    "nlm_id": "101196755",
-    "issn": "1545-5963",
-    "eissn": "1557-9964",
-    "jcr_year": 2025,
-    "jif": "4.1",
-    "categories": [
-      {
-        "name": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
-        "quartile": "Q2"
-      },
       {
         "name": "STATISTICS & PROBABILITY",
         "quartile": "Q1"
@@ -11903,22 +17503,6 @@
     "categories": [
       {
         "name": "STATISTICS & PROBABILITY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "1553-734X": {
-    "name": "PLoS Computational Biology",
-    "jcr_abbreviation": "PLOS COMPUT BIOL",
-    "pubmed_abbreviation": "PLoS Comput Biol",
-    "nlm_id": "101238922",
-    "issn": "1553-734X",
-    "eissn": "1553-7358",
-    "jcr_year": 2025,
-    "jif": "3.7",
-    "categories": [
-      {
-        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
         "quartile": "Q1"
       }
     ]
@@ -13711,22 +19295,6 @@
       }
     ]
   },
-  "1574-8936": {
-    "name": "Current Bioinformatics",
-    "jcr_abbreviation": "CURR BIOINFORM",
-    "pubmed_abbreviation": "Curr Bioinform",
-    "nlm_id": "101272515",
-    "issn": "1574-8936",
-    "eissn": "2212-392X",
-    "jcr_year": 2025,
-    "jif": "1.8",
-    "categories": [
-      {
-        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
-        "quartile": "Q3"
-      }
-    ]
-  },
   "0246-0203": {
     "name": "ANNALES DE L INSTITUT HENRI POINCARE-PROBABILITES ET STATISTIQUES",
     "jcr_abbreviation": "ANN I H POINCARE-PR",
@@ -13991,26 +19559,6 @@
       }
     ]
   },
-  "1748-7188": {
-    "name": "Algorithms for Molecular Biology",
-    "jcr_abbreviation": "ALGORITHM MOL BIOL",
-    "pubmed_abbreviation": "Algorithms Mol Biol",
-    "nlm_id": "101265088",
-    "issn": "",
-    "eissn": "1748-7188",
-    "jcr_year": 2025,
-    "jif": "1.6",
-    "categories": [
-      {
-        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
-        "quartile": "Q3"
-      },
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q4"
-      }
-    ]
-  },
   "1613-4516": {
     "name": "Journal of Integrative Bioinformatics",
     "jcr_abbreviation": "J INTEGR BIOINFORMAT",
@@ -14040,22 +19588,6 @@
       {
         "name": "STATISTICS & PROBABILITY",
         "quartile": "Q2"
-      }
-    ]
-  },
-  "1176-9343": {
-    "name": "Evolutionary Bioinformatics",
-    "jcr_abbreviation": "EVOL BIOINFORM",
-    "pubmed_abbreviation": "Evol Bioinform Online",
-    "nlm_id": "101256319",
-    "issn": "1176-9343",
-    "eissn": "1176-9343",
-    "jcr_year": 2025,
-    "jif": "1.6",
-    "categories": [
-      {
-        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
-        "quartile": "Q3"
       }
     ]
   },
@@ -14463,22 +19995,6 @@
       }
     ]
   },
-  "0040-5809": {
-    "name": "THEORETICAL POPULATION BIOLOGY",
-    "jcr_abbreviation": "THEOR POPUL BIOL",
-    "pubmed_abbreviation": "Theor Popul Biol",
-    "nlm_id": "0256422",
-    "issn": "0040-5809",
-    "eissn": "1096-0325",
-    "jcr_year": 2025,
-    "jif": "1.4",
-    "categories": [
-      {
-        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
-        "quartile": "Q4"
-      }
-    ]
-  },
   "0929-5313": {
     "name": "JOURNAL OF COMPUTATIONAL NEUROSCIENCE",
     "jcr_abbreviation": "J COMPUT NEUROSCI",
@@ -14611,34 +20127,6 @@
     "categories": [
       {
         "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
-        "quartile": "Q4"
-      }
-    ]
-  },
-  "1066-5277": {
-    "name": "JOURNAL OF COMPUTATIONAL BIOLOGY",
-    "jcr_abbreviation": "J COMPUT BIOL",
-    "pubmed_abbreviation": "J Comput Biol",
-    "nlm_id": "9433358",
-    "issn": "1066-5277",
-    "eissn": "1557-8666",
-    "jcr_year": 2025,
-    "jif": "1.3",
-    "categories": [
-      {
-        "name": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
-        "quartile": "Q4"
-      },
-      {
-        "name": "MATHEMATICAL & COMPUTATIONAL BIOLOGY",
-        "quartile": "Q4"
-      },
-      {
-        "name": "STATISTICS & PROBABILITY",
-        "quartile": "Q2"
-      },
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
         "quartile": "Q4"
       }
     ]
@@ -16412,26 +21900,6 @@
       {
         "name": "STATISTICS & PROBABILITY",
         "quartile": "Q4"
-      }
-    ]
-  },
-  "2998-4165": {
-    "name": "IEEE Transactions on Computational Biology and Bioinformatics",
-    "jcr_abbreviation": "IEEE T COMPUT BIOL B",
-    "pubmed_abbreviation": "IEEE Trans Comput Biol Bioinform",
-    "nlm_id": "9919068173606676",
-    "issn": "",
-    "eissn": "2998-4165",
-    "jcr_year": 2025,
-    "jif": "N/A",
-    "categories": [
-      {
-        "name": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS",
-        "quartile": "N/A"
-      },
-      {
-        "name": "STATISTICS & PROBABILITY",
-        "quartile": "N/A"
       }
     ]
   },
@@ -18907,22 +24375,6 @@
       }
     ]
   },
-  "1083-3668": {
-    "name": "JOURNAL OF BIOMEDICAL OPTICS",
-    "jcr_abbreviation": "J BIOMED OPT",
-    "pubmed_abbreviation": "J Biomed Opt",
-    "nlm_id": "9605853",
-    "issn": "1083-3668",
-    "eissn": "1560-2281",
-    "jcr_year": 2025,
-    "jif": "3.3",
-    "categories": [
-      {
-        "name": "RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "2306-9740": {
     "name": "mHealth",
     "jcr_abbreviation": "MHEALTH",
@@ -18962,22 +24414,6 @@
     "nlm_id": "0425746",
     "issn": "0094-2405",
     "eissn": "2473-4209",
-    "jcr_year": 2025,
-    "jif": "3.2",
-    "categories": [
-      {
-        "name": "RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "2156-7085": {
-    "name": "Biomedical Optics Express",
-    "jcr_abbreviation": "BIOMED OPT EXPRESS",
-    "pubmed_abbreviation": "Biomed Opt Express",
-    "nlm_id": "101540630",
-    "issn": "2156-7085",
-    "eissn": "2156-7085",
     "jcr_year": 2025,
     "jif": "3.2",
     "categories": [
@@ -20351,22 +25787,6 @@
     "categories": [
       {
         "name": "ENGINEERING, BIOMEDICAL",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "1536-0121": {
-    "name": "Molecular Imaging",
-    "jcr_abbreviation": "MOL IMAGING",
-    "pubmed_abbreviation": "Mol Imaging",
-    "nlm_id": "101120118",
-    "issn": "",
-    "eissn": "1536-0121",
-    "jcr_year": 2025,
-    "jif": "2.2",
-    "categories": [
-      {
-        "name": "RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING",
         "quartile": "Q3"
       }
     ]
@@ -23419,22 +28839,6 @@
       }
     ]
   },
-  "0022-1007": {
-    "name": "JOURNAL OF EXPERIMENTAL MEDICINE",
-    "jcr_abbreviation": "J EXP MED",
-    "pubmed_abbreviation": "J Exp Med",
-    "nlm_id": "2985109R",
-    "issn": "0022-1007",
-    "eissn": "1540-9538",
-    "jcr_year": 2025,
-    "jif": "11.6",
-    "categories": [
-      {
-        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "1525-0016": {
     "name": "MOLECULAR THERAPY",
     "jcr_abbreviation": "MOL THER",
@@ -23847,22 +29251,6 @@
       }
     ]
   },
-  "1880-8190": {
-    "name": "Inflammation and Regeneration",
-    "jcr_abbreviation": "INFLAMM REGEN",
-    "pubmed_abbreviation": "Inflamm Regen",
-    "nlm_id": "101479577",
-    "issn": "",
-    "eissn": "1880-8190",
-    "jcr_year": 2025,
-    "jif": "7.7",
-    "categories": [
-      {
-        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "2755-1733": {
     "name": "Life Medicine",
     "jcr_abbreviation": "LIFE MED",
@@ -23968,22 +29356,6 @@
     "eissn": "1470-8736",
     "jcr_year": 2025,
     "jif": "7.3",
-    "categories": [
-      {
-        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "2059-0105": {
-    "name": "npj Vaccines",
-    "jcr_abbreviation": "NPJ VACCINES",
-    "pubmed_abbreviation": "NPJ Vaccines",
-    "nlm_id": "101699863",
-    "issn": "",
-    "eissn": "2059-0105",
-    "jcr_year": 2025,
-    "jif": "7.2",
     "categories": [
       {
         "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
@@ -25419,22 +30791,6 @@
       }
     ]
   },
-  "2076-393X": {
-    "name": "Vaccines",
-    "jcr_abbreviation": "VACCINES-BASEL",
-    "pubmed_abbreviation": "Vaccines (Basel)",
-    "nlm_id": "101629355",
-    "issn": "",
-    "eissn": "2076-393X",
-    "jcr_year": 2025,
-    "jif": "3.5",
-    "categories": [
-      {
-        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "2314-6745": {
     "name": "Journal of Diabetes Research",
     "jcr_abbreviation": "J DIABETES RES",
@@ -25444,22 +30800,6 @@
     "eissn": "2314-6753",
     "jcr_year": 2025,
     "jif": "3.5",
-    "categories": [
-      {
-        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "0264-410X": {
-    "name": "Vaccine",
-    "jcr_abbreviation": "VACCINE",
-    "pubmed_abbreviation": "Vaccine",
-    "nlm_id": "8406899",
-    "issn": "0264-410X",
-    "eissn": "1873-2518",
-    "jcr_year": 2025,
-    "jif": "3.4",
     "categories": [
       {
         "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
@@ -25920,26 +31260,6 @@
       {
         "name": "MEDICINE, GENERAL & INTERNAL",
         "quartile": "Q1"
-      }
-    ]
-  },
-  "1524-9557": {
-    "name": "JOURNAL OF IMMUNOTHERAPY",
-    "jcr_abbreviation": "J IMMUNOTHER",
-    "pubmed_abbreviation": "J Immunother",
-    "nlm_id": "9706083",
-    "issn": "1524-9557",
-    "eissn": "1537-4513",
-    "jcr_year": 2025,
-    "jif": "2.9",
-    "categories": [
-      {
-        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
-        "quartile": "Q3"
-      },
-      {
-        "name": "ONCOLOGY",
-        "quartile": "Q3"
       }
     ]
   },
@@ -26448,22 +31768,6 @@
       {
         "name": "MEDICINE, GENERAL & INTERNAL",
         "quartile": "Q2"
-      }
-    ]
-  },
-  "2590-1362": {
-    "name": "Vaccine: X",
-    "jcr_abbreviation": "VACCINE-X",
-    "pubmed_abbreviation": "Vaccine X",
-    "nlm_id": "101748769",
-    "issn": "2590-1362",
-    "eissn": "2590-1362",
-    "jcr_year": 2025,
-    "jif": "2.5",
-    "categories": [
-      {
-        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
-        "quartile": "Q3"
       }
     ]
   },
@@ -27025,26 +32329,6 @@
     "jcr_year": 2025,
     "jif": "2.1",
     "categories": [
-      {
-        "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "0971-5916": {
-    "name": "INDIAN JOURNAL OF MEDICAL RESEARCH",
-    "jcr_abbreviation": "INDIAN J MED RES",
-    "pubmed_abbreviation": "Indian J Med Res",
-    "nlm_id": "0374701",
-    "issn": "0971-5916",
-    "eissn": "0971-5916",
-    "jcr_year": 2025,
-    "jif": "2.1",
-    "categories": [
-      {
-        "name": "MEDICINE, GENERAL & INTERNAL",
-        "quartile": "Q2"
-      },
       {
         "name": "MEDICINE, RESEARCH & EXPERIMENTAL",
         "quartile": "Q3"
@@ -32519,26 +37803,6 @@
       }
     ]
   },
-  "1058-4838": {
-    "name": "CLINICAL INFECTIOUS DISEASES",
-    "jcr_abbreviation": "CLIN INFECT DIS",
-    "pubmed_abbreviation": "Clin Infect Dis",
-    "nlm_id": "9203213",
-    "issn": "1058-4838",
-    "eissn": "1537-6591",
-    "jcr_year": 2025,
-    "jif": "8.3",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q1"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "0960-8524": {
     "name": "BIORESOURCE TECHNOLOGY",
     "jcr_abbreviation": "BIORESOURCE TECHNOL",
@@ -32567,22 +37831,6 @@
     "categories": [
       {
         "name": "MICROBIOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "0958-1669": {
-    "name": "CURRENT OPINION IN BIOTECHNOLOGY",
-    "jcr_abbreviation": "CURR OPIN BIOTECH",
-    "pubmed_abbreviation": "Curr Opin Biotechnol",
-    "nlm_id": "9100492",
-    "issn": "0958-1669",
-    "eissn": "1879-0429",
-    "jcr_year": 2025,
-    "jif": "7.8",
-    "categories": [
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
         "quartile": "Q1"
       }
     ]
@@ -32651,26 +37899,6 @@
       }
     ]
   },
-  "2222-1751": {
-    "name": "Emerging Microbes & Infections",
-    "jcr_abbreviation": "EMERG MICROBES INFEC",
-    "pubmed_abbreviation": "Emerg Microbes Infect",
-    "nlm_id": "101594885",
-    "issn": "",
-    "eissn": "2222-1751",
-    "jcr_year": 2025,
-    "jif": "7",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q1"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "0961-9534": {
     "name": "BIOMASS & BIOENERGY",
     "jcr_abbreviation": "BIOMASS BIOENERG",
@@ -32715,26 +37943,6 @@
     "categories": [
       {
         "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "2150-5594": {
-    "name": "Virulence",
-    "jcr_abbreviation": "VIRULENCE",
-    "pubmed_abbreviation": "Virulence",
-    "nlm_id": "101531386",
-    "issn": "2150-5594",
-    "eissn": "2150-5608",
-    "jcr_year": 2025,
-    "jif": "6.8",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q1"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
         "quartile": "Q1"
       }
     ]
@@ -32855,22 +38063,6 @@
     "categories": [
       {
         "name": "MICROBIOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "1754-1611": {
-    "name": "Journal of Biological Engineering",
-    "jcr_abbreviation": "J BIOL ENG",
-    "pubmed_abbreviation": "J Biol Eng",
-    "nlm_id": "101306640",
-    "issn": "1754-1611",
-    "eissn": "1754-1611",
-    "jcr_year": 2025,
-    "jif": "6.3",
-    "categories": [
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
         "quartile": "Q1"
       }
     ]
@@ -33079,22 +38271,6 @@
       }
     ]
   },
-  "1871-6784": {
-    "name": "New Biotechnology",
-    "jcr_abbreviation": "NEW BIOTECHNOL",
-    "pubmed_abbreviation": "N Biotechnol",
-    "nlm_id": "101465345",
-    "issn": "1871-6784",
-    "eissn": "1876-4347",
-    "jcr_year": 2025,
-    "jif": "5.6",
-    "categories": [
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "1879-6257": {
     "name": "Current Opinion in Virology",
     "jcr_abbreviation": "CURR OPIN VIROL",
@@ -33107,22 +38283,6 @@
     "categories": [
       {
         "name": "VIROLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "2235-2988": {
-    "name": "Frontiers in Cellular and Infection Microbiology",
-    "jcr_abbreviation": "FRONT CELL INFECT MI",
-    "pubmed_abbreviation": "Front Cell Infect Microbiol",
-    "nlm_id": "101585359",
-    "issn": "2235-2988",
-    "eissn": "2235-2988",
-    "jcr_year": 2025,
-    "jif": "5.5",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
         "quartile": "Q1"
       }
     ]
@@ -33775,22 +38935,6 @@
       }
     ]
   },
-  "2309-608X": {
-    "name": "Journal of Fungi",
-    "jcr_abbreviation": "J FUNGI",
-    "pubmed_abbreviation": "J Fungi (Basel)",
-    "nlm_id": "101671827",
-    "issn": "",
-    "eissn": "2309-608X",
-    "jcr_year": 2025,
-    "jif": "4.3",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "1350-0872": {
     "name": "MICROBIOLOGY-SGM",
     "jcr_abbreviation": "MICROBIOL-SGM",
@@ -33911,22 +39055,6 @@
       }
     ]
   },
-  "2164-5515": {
-    "name": "Human Vaccines & Immunotherapeutics",
-    "jcr_abbreviation": "HUM VACC IMMUNOTHER",
-    "pubmed_abbreviation": "Hum Vaccin Immunother",
-    "nlm_id": "101572652",
-    "issn": "2164-5515",
-    "eissn": "2164-554X",
-    "jcr_year": 2025,
-    "jif": "4.2",
-    "categories": [
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "0923-9820": {
     "name": "BIODEGRADATION",
     "jcr_abbreviation": "BIODEGRADATION",
@@ -33940,26 +39068,6 @@
       {
         "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
         "quartile": "Q2"
-      }
-    ]
-  },
-  "0022-1899": {
-    "name": "JOURNAL OF INFECTIOUS DISEASES",
-    "jcr_abbreviation": "J INFECT DIS",
-    "pubmed_abbreviation": "J Infect Dis",
-    "nlm_id": "0413675",
-    "issn": "0022-1899",
-    "eissn": "1537-6613",
-    "jcr_year": 2025,
-    "jif": "4.1",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q2"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q1"
       }
     ]
   },
@@ -34271,22 +39379,6 @@
       }
     ]
   },
-  "0882-4010": {
-    "name": "MICROBIAL PATHOGENESIS",
-    "jcr_abbreviation": "MICROB PATHOGENESIS",
-    "pubmed_abbreviation": "Microb Pathog",
-    "nlm_id": "8606191",
-    "issn": "0882-4010",
-    "eissn": "1096-1208",
-    "jcr_year": 2025,
-    "jif": "3.9",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "0141-0229": {
     "name": "ENZYME AND MICROBIAL TECHNOLOGY",
     "jcr_abbreviation": "ENZYME MICROB TECH",
@@ -34407,26 +39499,6 @@
       }
     ]
   },
-  "1684-1182": {
-    "name": "JOURNAL OF MICROBIOLOGY IMMUNOLOGY AND INFECTION",
-    "jcr_abbreviation": "J MICROBIOL IMMUNOL",
-    "pubmed_abbreviation": "J Microbiol Immunol Infect",
-    "nlm_id": "100956211",
-    "issn": "1684-1182",
-    "eissn": "1995-9133",
-    "jcr_year": 2025,
-    "jif": "3.8",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q2"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "1999-4915": {
     "name": "Viruses-Basel",
     "jcr_abbreviation": "VIRUSES-BASEL",
@@ -34439,26 +39511,6 @@
     "categories": [
       {
         "name": "VIROLOGY",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "2328-8957": {
-    "name": "Open Forum Infectious Diseases",
-    "jcr_abbreviation": "OPEN FORUM INFECT DI",
-    "pubmed_abbreviation": "Open Forum Infect Dis",
-    "nlm_id": "101637045",
-    "issn": "2328-8957",
-    "eissn": "2328-8957",
-    "jcr_year": 2025,
-    "jif": "3.8",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q2"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
         "quartile": "Q2"
       }
     ]
@@ -34555,22 +39607,6 @@
     "categories": [
       {
         "name": "VIROLOGY",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "1860-6768": {
-    "name": "Biotechnology Journal",
-    "jcr_abbreviation": "BIOTECHNOL J",
-    "pubmed_abbreviation": "Biotechnol J",
-    "nlm_id": "101265833",
-    "issn": "1860-6768",
-    "eissn": "1860-7314",
-    "jcr_year": 2025,
-    "jif": "3.7",
-    "categories": [
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
         "quartile": "Q2"
       }
     ]
@@ -34697,26 +39733,6 @@
     "jcr_year": 2025,
     "jif": "3.5",
     "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "1567-1356": {
-    "name": "FEMS YEAST RESEARCH",
-    "jcr_abbreviation": "FEMS YEAST RES",
-    "pubmed_abbreviation": "FEMS Yeast Res",
-    "nlm_id": "101085384",
-    "issn": "1567-1356",
-    "eissn": "1567-1364",
-    "jcr_year": 2025,
-    "jif": "3.5",
-    "categories": [
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q2"
-      },
       {
         "name": "MICROBIOLOGY",
         "quartile": "Q2"
@@ -34855,22 +39871,6 @@
     "categories": [
       {
         "name": "MICROBIOLOGY",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "2472-5552": {
-    "name": "SLAS Discovery",
-    "jcr_abbreviation": "SLAS DISCOV",
-    "pubmed_abbreviation": "SLAS Discov",
-    "nlm_id": "101697563",
-    "issn": "2472-5552",
-    "eissn": "2472-5560",
-    "jcr_year": 2025,
-    "jif": "3.3",
-    "categories": [
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
         "quartile": "Q3"
       }
     ]
@@ -35023,22 +40023,6 @@
       }
     ]
   },
-  "0300-8584": {
-    "name": "MEDICAL MICROBIOLOGY AND IMMUNOLOGY",
-    "jcr_abbreviation": "MED MICROBIOL IMMUN",
-    "pubmed_abbreviation": "Med Microbiol Immunol",
-    "nlm_id": "0314524",
-    "issn": "0300-8584",
-    "eissn": "1432-1831",
-    "jcr_year": 2025,
-    "jif": "3.1",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q3"
-      }
-    ]
-  },
   "1075-9964": {
     "name": "ANAEROBE",
     "jcr_abbreviation": "ANAEROBE",
@@ -35123,46 +40107,6 @@
       }
     ]
   },
-  "0269-9370": {
-    "name": "AIDS",
-    "jcr_abbreviation": "AIDS",
-    "pubmed_abbreviation": "AIDS",
-    "nlm_id": "8710219",
-    "issn": "0269-9370",
-    "eissn": "1473-5571",
-    "jcr_year": 2025,
-    "jif": "2.9",
-    "categories": [
-      {
-        "name": "VIROLOGY",
-        "quartile": "Q2"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "1286-4579": {
-    "name": "MICROBES AND INFECTION",
-    "jcr_abbreviation": "MICROBES INFECT",
-    "pubmed_abbreviation": "Microbes Infect",
-    "nlm_id": "100883508",
-    "issn": "1286-4579",
-    "eissn": "1769-714X",
-    "jcr_year": 2025,
-    "jif": "2.9",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q3"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "1139-6709": {
     "name": "INTERNATIONAL MICROBIOLOGY",
     "jcr_abbreviation": "INT MICROBIOL",
@@ -35190,22 +40134,6 @@
     "nlm_id": "9881559",
     "issn": "0334-5114",
     "eissn": "1878-7665",
-    "jcr_year": 2025,
-    "jif": "2.9",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "1472-9792": {
-    "name": "Tuberculosis",
-    "jcr_abbreviation": "TUBERCULOSIS",
-    "pubmed_abbreviation": "Tuberculosis (Edinb)",
-    "nlm_id": "100971555",
-    "issn": "1472-9792",
-    "eissn": "1873-281X",
     "jcr_year": 2025,
     "jif": "2.9",
     "categories": [
@@ -35367,26 +40295,6 @@
       }
     ]
   },
-  "2055-6640": {
-    "name": "Journal of Virus Eradication",
-    "jcr_abbreviation": "J VIRUS ERAD",
-    "pubmed_abbreviation": "J Virus Erad",
-    "nlm_id": "101654142",
-    "issn": "2055-6640",
-    "eissn": "2055-6659",
-    "jcr_year": 2025,
-    "jif": "2.8",
-    "categories": [
-      {
-        "name": "VIROLOGY",
-        "quartile": "Q3"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "8756-7938": {
     "name": "BIOTECHNOLOGY PROGRESS",
     "jcr_abbreviation": "BIOTECHNOL PROGR",
@@ -35413,30 +40321,6 @@
     "jcr_year": 2025,
     "jif": "2.8",
     "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q3"
-      },
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "0021-8820": {
-    "name": "JOURNAL OF ANTIBIOTICS",
-    "jcr_abbreviation": "J ANTIBIOT",
-    "pubmed_abbreviation": "J Antibiot (Tokyo)",
-    "nlm_id": "0151115",
-    "issn": "0021-8820",
-    "eissn": "1881-1469",
-    "jcr_year": 2025,
-    "jif": "2.7",
-    "categories": [
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q3"
-      },
       {
         "name": "MICROBIOLOGY",
         "quartile": "Q3"
@@ -35563,22 +40447,6 @@
       }
     ]
   },
-  "0147-9571": {
-    "name": "COMPARATIVE IMMUNOLOGY MICROBIOLOGY AND INFECTIOUS DISEASES",
-    "jcr_abbreviation": "COMP IMMUNOL MICROB",
-    "pubmed_abbreviation": "Comp Immunol Microbiol Infect Dis",
-    "nlm_id": "7808924",
-    "issn": "0147-9571",
-    "eissn": "1878-1667",
-    "jcr_year": 2025,
-    "jif": "2.5",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q3"
-      }
-    ]
-  },
   "0304-8608": {
     "name": "ARCHIVES OF VIROLOGY",
     "jcr_abbreviation": "ARCH VIROL",
@@ -35623,22 +40491,6 @@
     "categories": [
       {
         "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "0167-7012": {
-    "name": "JOURNAL OF MICROBIOLOGICAL METHODS",
-    "jcr_abbreviation": "J MICROBIOL METH",
-    "pubmed_abbreviation": "J Microbiol Methods",
-    "nlm_id": "8306883",
-    "issn": "0167-7012",
-    "eissn": "1872-8359",
-    "jcr_year": 2025,
-    "jif": "2.5",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
         "quartile": "Q3"
       }
     ]
@@ -35967,22 +40819,6 @@
       }
     ]
   },
-  "0903-4641": {
-    "name": "APMIS",
-    "jcr_abbreviation": "APMIS",
-    "pubmed_abbreviation": "APMIS",
-    "nlm_id": "8803400",
-    "issn": "0903-4641",
-    "eissn": "1600-0463",
-    "jcr_year": 2025,
-    "jif": "2.2",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q4"
-      }
-    ]
-  },
   "0213-005X": {
     "name": "ENFERMEDADES INFECCIOSAS Y MICROBIOLOGIA CLINICA",
     "jcr_abbreviation": "ENFERM INFEC MICR CL",
@@ -36055,26 +40891,6 @@
     "categories": [
       {
         "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "1045-1056": {
-    "name": "BIOLOGICALS",
-    "jcr_abbreviation": "BIOLOGICALS",
-    "pubmed_abbreviation": "Biologicals",
-    "nlm_id": "9004494",
-    "issn": "1045-1056",
-    "eissn": "1095-8320",
-    "jcr_year": 2025,
-    "jif": "2.1",
-    "categories": [
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q3"
-      },
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
         "quartile": "Q3"
       }
     ]
@@ -36591,26 +41407,6 @@
       }
     ]
   },
-  "0166-0934": {
-    "name": "JOURNAL OF VIROLOGICAL METHODS",
-    "jcr_abbreviation": "J VIROL METHODS",
-    "pubmed_abbreviation": "J Virol Methods",
-    "nlm_id": "8005839",
-    "issn": "0166-0934",
-    "eissn": "1879-0984",
-    "jcr_year": 2025,
-    "jif": "1.7",
-    "categories": [
-      {
-        "name": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY",
-        "quartile": "Q4"
-      },
-      {
-        "name": "VIROLOGY",
-        "quartile": "Q4"
-      }
-    ]
-  },
   "1733-1331": {
     "name": "Polish Journal of Microbiology",
     "jcr_abbreviation": "POL J MICROBIOL",
@@ -36663,22 +41459,6 @@
       }
     ]
   },
-  "0385-5600": {
-    "name": "MICROBIOLOGY AND IMMUNOLOGY",
-    "jcr_abbreviation": "MICROBIOL IMMUNOL",
-    "pubmed_abbreviation": "Microbiol Immunol",
-    "nlm_id": "7703966",
-    "issn": "0385-5600",
-    "eissn": "1348-0421",
-    "jcr_year": 2025,
-    "jif": "1.6",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q4"
-      }
-    ]
-  },
   "1045-4403": {
     "name": "CRITICAL REVIEWS IN EUKARYOTIC GENE EXPRESSION",
     "jcr_abbreviation": "CRIT REV EUKAR GENE",
@@ -36695,22 +41475,6 @@
       }
     ]
   },
-  "1217-8950": {
-    "name": "ACTA MICROBIOLOGICA ET IMMUNOLOGICA HUNGARICA",
-    "jcr_abbreviation": "ACTA MICROBIOL IMM H",
-    "pubmed_abbreviation": "Acta Microbiol Immunol Hung",
-    "nlm_id": "9434021",
-    "issn": "1217-8950",
-    "eissn": "1588-2640",
-    "jcr_year": 2025,
-    "jif": "1.5",
-    "categories": [
-      {
-        "name": "MICROBIOLOGY",
-        "quartile": "Q4"
-      }
-    ]
-  },
   "1324-4272": {
     "name": "Microbiology Australia",
     "jcr_abbreviation": "MICROBIOL AUST",
@@ -36723,22 +41487,6 @@
     "categories": [
       {
         "name": "MICROBIOLOGY",
-        "quartile": "Q4"
-      }
-    ]
-  },
-  "0882-8245": {
-    "name": "VIRAL IMMUNOLOGY",
-    "jcr_abbreviation": "VIRAL IMMUNOL",
-    "pubmed_abbreviation": "Viral Immunol",
-    "nlm_id": "8801552",
-    "issn": "0882-8245",
-    "eissn": "1557-8976",
-    "jcr_year": 2025,
-    "jif": "1.5",
-    "categories": [
-      {
-        "name": "VIROLOGY",
         "quartile": "Q4"
       }
     ]
@@ -37035,26 +41783,6 @@
       }
     ]
   },
-  "0889-2229": {
-    "name": "AIDS RESEARCH AND HUMAN RETROVIRUSES",
-    "jcr_abbreviation": "AIDS RES HUM RETROV",
-    "pubmed_abbreviation": "AIDS Res Hum Retroviruses",
-    "nlm_id": "8709376",
-    "issn": "0889-2229",
-    "eissn": "1931-8405",
-    "jcr_year": 2025,
-    "jif": "1",
-    "categories": [
-      {
-        "name": "VIROLOGY",
-        "quartile": "Q4"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q4"
-      }
-    ]
-  },
   "0026-2617": {
     "name": "MICROBIOLOGY",
     "jcr_abbreviation": "MICROBIOLOGY+",
@@ -37099,26 +41827,6 @@
     "categories": [
       {
         "name": "VIROLOGY",
-        "quartile": "Q4"
-      }
-    ]
-  },
-  "1570-162X": {
-    "name": "CURRENT HIV RESEARCH",
-    "jcr_abbreviation": "CURR HIV RES",
-    "pubmed_abbreviation": "Curr HIV Res",
-    "nlm_id": "101156990",
-    "issn": "1570-162X",
-    "eissn": "1873-4251",
-    "jcr_year": 2025,
-    "jif": "0.8",
-    "categories": [
-      {
-        "name": "VIROLOGY",
-        "quartile": "Q4"
-      },
-      {
-        "name": "INFECTIOUS DISEASES",
         "quartile": "Q4"
       }
     ]
@@ -37691,22 +42399,6 @@
       }
     ]
   },
-  "1742-2094": {
-    "name": "Journal of Neuroinflammation",
-    "jcr_abbreviation": "J NEUROINFLAMM",
-    "pubmed_abbreviation": "J Neuroinflammation",
-    "nlm_id": "101222974",
-    "issn": "",
-    "eissn": "1742-2094",
-    "jcr_year": 2025,
-    "jif": "11.5",
-    "categories": [
-      {
-        "name": "NEUROSCIENCES",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "0039-2499": {
     "name": "STROKE",
     "jcr_abbreviation": "STROKE",
@@ -38070,22 +42762,6 @@
     "nlm_id": "8504412",
     "issn": "0742-3098",
     "eissn": "1600-079X",
-    "jcr_year": 2025,
-    "jif": "7.5",
-    "categories": [
-      {
-        "name": "NEUROSCIENCES",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "0889-1591": {
-    "name": "BRAIN BEHAVIOR AND IMMUNITY",
-    "jcr_abbreviation": "BRAIN BEHAV IMMUN",
-    "pubmed_abbreviation": "Brain Behav Immun",
-    "nlm_id": "8800478",
-    "issn": "0889-1591",
-    "eissn": "1090-2139",
     "jcr_year": 2025,
     "jif": "7.5",
     "categories": [
@@ -40055,22 +44731,6 @@
       }
     ]
   },
-  "2666-3546": {
-    "name": "Brain Behavior & Immunity-Health",
-    "jcr_abbreviation": "BRAIN BEHAV IMMUN-HL",
-    "pubmed_abbreviation": "Brain Behav Immun Health",
-    "nlm_id": "101759062",
-    "issn": "2666-3546",
-    "eissn": "2666-3546",
-    "jcr_year": 2025,
-    "jif": "3.8",
-    "categories": [
-      {
-        "name": "NEUROSCIENCES",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "1724-4935": {
     "name": "Clinical Neuropsychiatry",
     "jcr_abbreviation": "CLIN NEUROPSYCHIATR",
@@ -40274,22 +44934,6 @@
     "nlm_id": "9617529",
     "issn": "1025-3890",
     "eissn": "1607-8888",
-    "jcr_year": 2025,
-    "jif": "3.7",
-    "categories": [
-      {
-        "name": "NEUROSCIENCES",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "1021-7401": {
-    "name": "NEUROIMMUNOMODULATION",
-    "jcr_abbreviation": "NEUROIMMUNOMODULAT",
-    "pubmed_abbreviation": "Neuroimmunomodulation",
-    "nlm_id": "9422763",
-    "issn": "1021-7401",
-    "eissn": "1423-0216",
     "jcr_year": 2025,
     "jif": "3.7",
     "categories": [
@@ -41451,22 +46095,6 @@
       }
     ]
   },
-  "0165-5728": {
-    "name": "JOURNAL OF NEUROIMMUNOLOGY",
-    "jcr_abbreviation": "J NEUROIMMUNOL",
-    "pubmed_abbreviation": "J Neuroimmunol",
-    "nlm_id": "8109498",
-    "issn": "0165-5728",
-    "eissn": "1872-8421",
-    "jcr_year": 2025,
-    "jif": "3.1",
-    "categories": [
-      {
-        "name": "NEUROSCIENCES",
-        "quartile": "Q3"
-      }
-    ]
-  },
   "1473-4222": {
     "name": "CEREBELLUM",
     "jcr_abbreviation": "CEREBELLUM",
@@ -42474,22 +47102,6 @@
     "nlm_id": "0020713",
     "issn": "0028-3932",
     "eissn": "1873-3514",
-    "jcr_year": 2025,
-    "jif": "2.5",
-    "categories": [
-      {
-        "name": "NEUROSCIENCES",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "0165-0270": {
-    "name": "JOURNAL OF NEUROSCIENCE METHODS",
-    "jcr_abbreviation": "J NEUROSCI METH",
-    "pubmed_abbreviation": "J Neurosci Methods",
-    "nlm_id": "7905558",
-    "issn": "0165-0270",
-    "eissn": "1872-678X",
     "jcr_year": 2025,
     "jif": "2.5",
     "categories": [
@@ -46679,22 +51291,6 @@
       }
     ]
   },
-  "2051-1426": {
-    "name": "Journal for ImmunoTherapy of Cancer",
-    "jcr_abbreviation": "J IMMUNOTHER CANCER",
-    "pubmed_abbreviation": "J Immunother Cancer",
-    "nlm_id": "101620585",
-    "issn": "",
-    "eissn": "2051-1426",
-    "jcr_year": 2025,
-    "jif": "11.7",
-    "categories": [
-      {
-        "name": "ONCOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "2210-7762": {
     "name": "Cancer Genetics",
     "jcr_abbreviation": "CANCER GENET-NY",
@@ -46839,26 +51435,6 @@
       }
     ]
   },
-  "1173-8804": {
-    "name": "BIODRUGS",
-    "jcr_abbreviation": "BIODRUGS",
-    "pubmed_abbreviation": "BioDrugs",
-    "nlm_id": "9705305",
-    "issn": "1173-8804",
-    "eissn": "1179-190X",
-    "jcr_year": 2025,
-    "jif": "8.5",
-    "categories": [
-      {
-        "name": "ONCOLOGY",
-        "quartile": "Q1"
-      },
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "2769-6448": {
     "name": "MedComm-Oncology",
     "jcr_abbreviation": "MEDCOMM-ONCOL",
@@ -46884,22 +51460,6 @@
     "eissn": "2374-4677",
     "jcr_year": 2025,
     "jif": "8.4",
-    "categories": [
-      {
-        "name": "ONCOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "2326-6066": {
-    "name": "Cancer Immunology Research",
-    "jcr_abbreviation": "CANCER IMMUNOL RES",
-    "pubmed_abbreviation": "Cancer Immunol Res",
-    "nlm_id": "101614637",
-    "issn": "2326-6066",
-    "eissn": "2326-6074",
-    "jcr_year": 2025,
-    "jif": "7.9",
     "categories": [
       {
         "name": "ONCOLOGY",
@@ -47131,22 +51691,6 @@
       }
     ]
   },
-  "2162-402X": {
-    "name": "OncoImmunology",
-    "jcr_abbreviation": "ONCOIMMUNOLOGY",
-    "pubmed_abbreviation": "Oncoimmunology",
-    "nlm_id": "101570526",
-    "issn": "2162-402X",
-    "eissn": "2162-402X",
-    "jcr_year": 2025,
-    "jif": "6.2",
-    "categories": [
-      {
-        "name": "ONCOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "1465-5411": {
     "name": "BREAST CANCER RESEARCH",
     "jcr_abbreviation": "BREAST CANCER RES",
@@ -47220,22 +51764,6 @@
     "eissn": "2949-7132",
     "jcr_year": 2025,
     "jif": "5.9",
-    "categories": [
-      {
-        "name": "ONCOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "0340-7004": {
-    "name": "CANCER IMMUNOLOGY IMMUNOTHERAPY",
-    "jcr_abbreviation": "CANCER IMMUNOL IMMUN",
-    "pubmed_abbreviation": "Cancer Immunol Immunother",
-    "nlm_id": "8605732",
-    "issn": "0340-7004",
-    "eissn": "1432-0851",
-    "jcr_year": 2025,
-    "jif": "5.8",
     "categories": [
       {
         "name": "ONCOLOGY",
@@ -47428,22 +51956,6 @@
     "eissn": "1534-6269",
     "jcr_year": 2025,
     "jif": "5.2",
-    "categories": [
-      {
-        "name": "ONCOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "0268-3369": {
-    "name": "BONE MARROW TRANSPLANTATION",
-    "jcr_abbreviation": "BONE MARROW TRANSPL",
-    "pubmed_abbreviation": "Bone Marrow Transplant",
-    "nlm_id": "8702459",
-    "issn": "0268-3369",
-    "eissn": "1476-5365",
-    "jcr_year": 2025,
-    "jif": "5.1",
     "categories": [
       {
         "name": "ONCOLOGY",
@@ -48803,22 +53315,6 @@
       }
     ]
   },
-  "1750-9378": {
-    "name": "Infectious Agents and Cancer",
-    "jcr_abbreviation": "INFECT AGENTS CANCER",
-    "pubmed_abbreviation": "Infect Agent Cancer",
-    "nlm_id": "101276559",
-    "issn": "1750-9378",
-    "eissn": "1750-9378",
-    "jcr_year": 2025,
-    "jif": "3.2",
-    "categories": [
-      {
-        "name": "ONCOLOGY",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "2523-3963": {
     "name": "SN Applied Sciences",
     "jcr_abbreviation": "SN APPL SCI",
@@ -48959,22 +53455,6 @@
     "categories": [
       {
         "name": "MULTIDISCIPLINARY SCIENCES",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "2666-2345": {
-    "name": "Journal of Immunotherapy and Precision Oncology",
-    "jcr_abbreviation": "J IMMUNOTHER PRECIS",
-    "pubmed_abbreviation": "J Immunother Precis Oncol",
-    "nlm_id": "101768397",
-    "issn": "2666-2345",
-    "eissn": "2590-017X",
-    "jcr_year": 2025,
-    "jif": "3.1",
-    "categories": [
-      {
-        "name": "ONCOLOGY",
         "quartile": "Q2"
       }
     ]
@@ -52903,22 +57383,6 @@
       }
     ]
   },
-  "2352-3018": {
-    "name": "Lancet HIV",
-    "jcr_abbreviation": "LANCET HIV",
-    "pubmed_abbreviation": "Lancet HIV",
-    "nlm_id": "101645355",
-    "issn": "2352-3018",
-    "eissn": "2352-3018",
-    "jcr_year": 2025,
-    "jif": "14.6",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "0198-6325": {
     "name": "MEDICINAL RESEARCH REVIEWS",
     "jcr_abbreviation": "MED RES REV",
@@ -53203,22 +57667,6 @@
     "categories": [
       {
         "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "1080-6040": {
-    "name": "EMERGING INFECTIOUS DISEASES",
-    "jcr_abbreviation": "EMERG INFECT DIS",
-    "pubmed_abbreviation": "Emerg Infect Dis",
-    "nlm_id": "9508155",
-    "issn": "1080-6040",
-    "eissn": "1080-6059",
-    "jcr_year": 2025,
-    "jif": "7.9",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
         "quartile": "Q1"
       }
     ]
@@ -53563,22 +58011,6 @@
       }
     ]
   },
-  "1567-5769": {
-    "name": "International Immunopharmacology",
-    "jcr_abbreviation": "INT IMMUNOPHARMACOL",
-    "pubmed_abbreviation": "Int Immunopharmacol",
-    "nlm_id": "100965259",
-    "issn": "1567-5769",
-    "eissn": "1878-1705",
-    "jcr_year": 2025,
-    "jif": "5.6",
-    "categories": [
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "1477-8939": {
     "name": "Travel Medicine and Infectious Disease",
     "jcr_abbreviation": "TRAVEL MED INFECT DI",
@@ -53727,22 +58159,6 @@
     "categories": [
       {
         "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q1"
-      }
-    ]
-  },
-  "1758-2652": {
-    "name": "Journal of the International AIDS Society",
-    "jcr_abbreviation": "J INT AIDS SOC",
-    "pubmed_abbreviation": "J Int AIDS Soc",
-    "nlm_id": "101478566",
-    "issn": "",
-    "eissn": "1758-2652",
-    "jcr_year": 2025,
-    "jif": "5.2",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
         "quartile": "Q1"
       }
     ]
@@ -54280,22 +58696,6 @@
       {
         "name": "PHARMACOLOGY & PHARMACY",
         "quartile": "Q2"
-      }
-    ]
-  },
-  "0891-5520": {
-    "name": "INFECTIOUS DISEASE CLINICS OF NORTH AMERICA",
-    "jcr_abbreviation": "INFECT DIS CLIN N AM",
-    "pubmed_abbreviation": "Infect Dis Clin North Am",
-    "nlm_id": "8804508",
-    "issn": "0891-5520",
-    "eissn": "1557-9824",
-    "jcr_year": 2025,
-    "jif": "4.2",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q1"
       }
     ]
   },
@@ -54855,22 +59255,6 @@
       }
     ]
   },
-  "1369-3786": {
-    "name": "MEDICAL MYCOLOGY",
-    "jcr_abbreviation": "MED MYCOL",
-    "pubmed_abbreviation": "Med Mycol",
-    "nlm_id": "9815835",
-    "issn": "1369-3786",
-    "eissn": "1460-2709",
-    "jcr_year": 2025,
-    "jif": "3.5",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "2050-6511": {
     "name": "BMC Pharmacology & Toxicology",
     "jcr_abbreviation": "BMC PHARMACOL TOXICO",
@@ -55031,38 +59415,6 @@
     "categories": [
       {
         "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "0019-9567": {
-    "name": "INFECTION AND IMMUNITY",
-    "jcr_abbreviation": "INFECT IMMUN",
-    "pubmed_abbreviation": "Infect Immun",
-    "nlm_id": "0246127",
-    "issn": "0019-9567",
-    "eissn": "1098-5522",
-    "jcr_year": 2025,
-    "jif": "3.4",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "1746-630X": {
-    "name": "Current Opinion in HIV and AIDS",
-    "jcr_abbreviation": "CURR OPIN HIV AIDS",
-    "pubmed_abbreviation": "Curr Opin HIV AIDS",
-    "nlm_id": "101264945",
-    "issn": "1746-630X",
-    "eissn": "1746-6318",
-    "jcr_year": 2025,
-    "jif": "3.4",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
         "quartile": "Q2"
       }
     ]
@@ -55307,26 +59659,6 @@
     "categories": [
       {
         "name": "INFECTIOUS DISEASES",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "0892-3973": {
-    "name": "IMMUNOPHARMACOLOGY AND IMMUNOTOXICOLOGY",
-    "jcr_abbreviation": "IMMUNOPHARM IMMUNOT",
-    "pubmed_abbreviation": "Immunopharmacol Immunotoxicol",
-    "nlm_id": "8800150",
-    "issn": "0892-3973",
-    "eissn": "1532-2513",
-    "jcr_year": 2025,
-    "jif": "3.1",
-    "categories": [
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q2"
-      },
-      {
-        "name": "TOXICOLOGY",
         "quartile": "Q2"
       }
     ]
@@ -55671,22 +60003,6 @@
       }
     ]
   },
-  "0394-6320": {
-    "name": "INTERNATIONAL JOURNAL OF IMMUNOPATHOLOGY AND PHARMACOLOGY",
-    "jcr_abbreviation": "INT J IMMUNOPATH PH",
-    "pubmed_abbreviation": "Int J Immunopathol Pharmacol",
-    "nlm_id": "8911335",
-    "issn": "0394-6320",
-    "eissn": "2058-7384",
-    "jcr_year": 2025,
-    "jif": "2.8",
-    "categories": [
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q3"
-      }
-    ]
-  },
   "1755-5914": {
     "name": "Cardiovascular Therapeutics",
     "jcr_abbreviation": "CARDIOVASC THER",
@@ -55963,22 +60279,6 @@
       }
     ]
   },
-  "1942-7603": {
-    "name": "Drug Testing and Analysis",
-    "jcr_abbreviation": "DRUG TEST ANAL",
-    "pubmed_abbreviation": "Drug Test  Anal",
-    "nlm_id": "101483449",
-    "issn": "1942-7603",
-    "eissn": "1942-7611",
-    "jcr_year": 2025,
-    "jif": "2.6",
-    "categories": [
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q3"
-      }
-    ]
-  },
   "0363-9045": {
     "name": "DRUG DEVELOPMENT AND INDUSTRIAL PHARMACY",
     "jcr_abbreviation": "DRUG DEV IND PHARM",
@@ -56194,22 +60494,6 @@
     "nlm_id": "101650235",
     "issn": "2374-4235",
     "eissn": "2374-4243",
-    "jcr_year": 2025,
-    "jif": "2.5",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "1398-2273": {
-    "name": "Transplant Infectious Disease",
-    "jcr_abbreviation": "TRANSPL INFECT DIS",
-    "pubmed_abbreviation": "Transpl Infect Dis",
-    "nlm_id": "100883688",
-    "issn": "1398-2273",
-    "eissn": "1399-3062",
     "jcr_year": 2025,
     "jif": "2.5",
     "categories": [
@@ -56535,38 +60819,6 @@
     "categories": [
       {
         "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "0891-3668": {
-    "name": "PEDIATRIC INFECTIOUS DISEASE JOURNAL",
-    "jcr_abbreviation": "PEDIATR INFECT DIS J",
-    "pubmed_abbreviation": "Pediatr Infect Dis J",
-    "nlm_id": "8701858",
-    "issn": "0891-3668",
-    "eissn": "1532-0987",
-    "jcr_year": 2025,
-    "jif": "2.3",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "1525-4135": {
-    "name": "JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES",
-    "jcr_abbreviation": "JAIDS-J ACQ IMM DEF",
-    "pubmed_abbreviation": "",
-    "nlm_id": "",
-    "issn": "1525-4135",
-    "eissn": "1077-9450",
-    "jcr_year": 2025,
-    "jif": "2.3",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
         "quartile": "Q3"
       }
     ]
@@ -56983,38 +61235,6 @@
       }
     ]
   },
-  "1871-5303": {
-    "name": "Endocrine Metabolic & Immune Disorders-Drug Targets",
-    "jcr_abbreviation": "ENDOCR METAB IMMUNE",
-    "pubmed_abbreviation": "Endocr Metab Immune Disord Drug Targets",
-    "nlm_id": "101269157",
-    "issn": "1871-5303",
-    "eissn": "2212-3873",
-    "jcr_year": 2025,
-    "jif": "2",
-    "categories": [
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "1139-6121": {
-    "name": "AIDS REVIEWS",
-    "jcr_abbreviation": "AIDS REV",
-    "pubmed_abbreviation": "AIDS Rev",
-    "nlm_id": "101134876",
-    "issn": "1139-6121",
-    "eissn": "1698-6997",
-    "jcr_year": 2025,
-    "jif": "2",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
-        "quartile": "Q3"
-      }
-    ]
-  },
   "0148-5717": {
     "name": "SEXUALLY TRANSMITTED DISEASES",
     "jcr_abbreviation": "SEX TRANSM DIS",
@@ -57159,22 +61379,6 @@
       }
     ]
   },
-  "1540-658X": {
-    "name": "ASSAY AND DRUG DEVELOPMENT TECHNOLOGIES",
-    "jcr_abbreviation": "ASSAY DRUG DEV TECHN",
-    "pubmed_abbreviation": "Assay Drug Dev Technol",
-    "nlm_id": "101151468",
-    "issn": "1540-658X",
-    "eissn": "1557-8127",
-    "jcr_year": 2025,
-    "jif": "1.8",
-    "categories": [
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q3"
-      }
-    ]
-  },
   "1735-403X": {
     "name": "Pharmaceutical Sciences",
     "jcr_abbreviation": "PHARM SCI-IRAN",
@@ -57282,22 +61486,6 @@
     "nlm_id": "101208407",
     "issn": "1735-0328",
     "eissn": "1726-6890",
-    "jcr_year": 2025,
-    "jif": "1.7",
-    "categories": [
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "1386-2073": {
-    "name": "COMBINATORIAL CHEMISTRY & HIGH THROUGHPUT SCREENING",
-    "jcr_abbreviation": "COMB CHEM HIGH T SCR",
-    "pubmed_abbreviation": "Comb Chem High Throughput Screen",
-    "nlm_id": "9810948",
-    "issn": "1386-2073",
-    "eissn": "1875-5402",
     "jcr_year": 2025,
     "jif": "1.7",
     "categories": [
@@ -57415,38 +61603,6 @@
     "categories": [
       {
         "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q4"
-      }
-    ]
-  },
-  "1521-9437": {
-    "name": "INTERNATIONAL JOURNAL OF MEDICINAL MUSHROOMS",
-    "jcr_abbreviation": "INT J MED MUSHROOMS",
-    "pubmed_abbreviation": "Int J Med Mushrooms",
-    "nlm_id": "100886202",
-    "issn": "1521-9437",
-    "eissn": "1940-4344",
-    "jcr_year": 2025,
-    "jif": "1.6",
-    "categories": [
-      {
-        "name": "PHARMACOLOGY & PHARMACY",
-        "quartile": "Q4"
-      }
-    ]
-  },
-  "0956-4624": {
-    "name": "INTERNATIONAL JOURNAL OF STD & AIDS",
-    "jcr_abbreviation": "INT J STD AIDS",
-    "pubmed_abbreviation": "Int J STD AIDS",
-    "nlm_id": "9007917",
-    "issn": "0956-4624",
-    "eissn": "1758-1052",
-    "jcr_year": 2025,
-    "jif": "1.6",
-    "categories": [
-      {
-        "name": "INFECTIOUS DISEASES",
         "quartile": "Q4"
       }
     ]
@@ -59027,22 +63183,6 @@
       }
     ]
   },
-  "0925-4692": {
-    "name": "INFLAMMOPHARMACOLOGY",
-    "jcr_abbreviation": "INFLAMMOPHARMACOLOGY",
-    "pubmed_abbreviation": "Inflammopharmacology",
-    "nlm_id": "9112626",
-    "issn": "0925-4692",
-    "eissn": "1568-5608",
-    "jcr_year": 2025,
-    "jif": "6.3",
-    "categories": [
-      {
-        "name": "TOXICOLOGY",
-        "quartile": "Q1"
-      }
-    ]
-  },
   "1559-0631": {
     "name": "Journal of Exposure Science and Environmental Epidemiology",
     "jcr_abbreviation": "J EXPO SCI ENV EPID",
@@ -59203,22 +63343,6 @@
       }
     ]
   },
-  "0954-0105": {
-    "name": "FOOD AND AGRICULTURAL IMMUNOLOGY",
-    "jcr_abbreviation": "FOOD AGR IMMUNOL",
-    "pubmed_abbreviation": "Food Agric Immunol",
-    "nlm_id": "8918113",
-    "issn": "0954-0105",
-    "eissn": "1465-3443",
-    "jcr_year": 2025,
-    "jif": "3.7",
-    "categories": [
-      {
-        "name": "TOXICOLOGY",
-        "quartile": "Q2"
-      }
-    ]
-  },
   "1556-3650": {
     "name": "CLINICAL TOXICOLOGY",
     "jcr_abbreviation": "CLIN TOXICOL",
@@ -59274,22 +63398,6 @@
     "nlm_id": "9004560",
     "issn": "0960-3271",
     "eissn": "1477-0903",
-    "jcr_year": 2025,
-    "jif": "3.5",
-    "categories": [
-      {
-        "name": "TOXICOLOGY",
-        "quartile": "Q2"
-      }
-    ]
-  },
-  "0178-7888": {
-    "name": "Mycotoxin Research",
-    "jcr_abbreviation": "MYCOTOXIN RES",
-    "pubmed_abbreviation": "Mycotoxin Res",
-    "nlm_id": "8807334",
-    "issn": "0178-7888",
-    "eissn": "1867-1632",
     "jcr_year": 2025,
     "jif": "3.5",
     "categories": [
@@ -59740,22 +63848,6 @@
     "eissn": "1533-1601",
     "jcr_year": 2025,
     "jif": "2.4",
-    "categories": [
-      {
-        "name": "TOXICOLOGY",
-        "quartile": "Q3"
-      }
-    ]
-  },
-  "1875-0710": {
-    "name": "World Mycotoxin Journal",
-    "jcr_abbreviation": "WORLD MYCOTOXIN J",
-    "pubmed_abbreviation": "World Mycotoxin J",
-    "nlm_id": "101486765",
-    "issn": "1875-0710",
-    "eissn": "1875-0796",
-    "jcr_year": 2025,
-    "jif": "2.2",
     "categories": [
       {
         "name": "TOXICOLOGY",

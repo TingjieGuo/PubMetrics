@@ -31,3 +31,6 @@ dist/
 *.swp
 *.swo
 *~
+
+# JCR
+# jcr/
