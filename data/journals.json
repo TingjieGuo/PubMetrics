@@ -10,6 +10,14 @@
       {
         "name": "Pharmacology & Pharmacy",
         "quartile": "Q1"
+      },
+      {
+        "name": "Toxicology",
+        "quartile": "Q1"
+      },
+      {
+        "name": "Mathematical & Computational Biology",
+        "quartile": "Q2"
       }
     ]
   }
