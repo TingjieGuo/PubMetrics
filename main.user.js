@@ -1,32 +1,21 @@
 // ==UserScript==
 // @name         PubMed Journal Metrics
 // @namespace    local
-// @version      0.1
+// @version      0.2
 // @description  Show JIF and JCR quartile in PubMed search results
 // @match        https://pubmed.ncbi.nlm.nih.gov/*
-// @resource     journals https://raw.githubusercontent.com/TingjieGuo/journal-metrics/refs/heads/main/data/journals.json?token=GHSAT0AAAAAAEGEPI6GXG5V3T2YG3FQK45I2UTLK4A
+// @resource     journals https://raw.githubusercontent.com/TingjieGuo/journal-metrics/refs/heads/main/data/pubmed_metrics.json
 // @grant        GM_getResourceText
 // ==/UserScript==
 
 (function () {
   "use strict";
 
-  // Step 1: Read the journal database from the external resource
+  // Step 1: Read the compact journal database from the external resource
   const journalText = GM_getResourceText("journals");
-  const journalDatabase = JSON.parse(journalText);
 
-  // Build a lookup index:
-  // PubMed journal abbreviation -> journal metrics
-  const abbreviationIndex = {};
-
-  for (const metrics of Object.values(journalDatabase)) {
-    // Skip journals that do not have an NLM/PubMed abbreviation
-    if (!metrics.pubmed_abbreviation) {
-      continue;
-    }
-
-    abbreviationIndex[metrics.pubmed_abbreviation] = metrics;
-  }
+  // The compact database is already indexed by PubMed abbreviation
+  const abbreviationIndex = JSON.parse(journalText);
 
   // Step 2: Find all PubMed search results on the page
   const results = document.querySelectorAll(".docsum-content");
@@ -66,7 +55,7 @@
       .slice(0, firstPeriodPosition)
       .trim();
 
-    // Step 7: Look up the journal directly in the abbreviation index
+    // Step 7: Look up the journal directly in the compact database
     const metrics = abbreviationIndex[pubmedAbbreviation];
 
     // No matching journal in our database

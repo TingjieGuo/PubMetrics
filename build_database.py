@@ -16,6 +16,7 @@ JCR_FOLDER = Path("jcr")
 DATA_FOLDER = Path("data")
 
 OUTPUT_FILE = DATA_FOLDER / "journals.json"
+PUBMED_METRICS_FILE = DATA_FOLDER / "pubmed_metrics.json"
 UNMATCHED_FILE = DATA_FOLDER / "unmatched.json"
 AMBIGUOUS_FILE = DATA_FOLDER / "ambiguous.json"
 
@@ -925,7 +926,42 @@ for journal_key, journal in journals.items():
 
 
 # ============================================================
-# 10. Write journals.json
+# 10. Build compact PubMed runtime database
+# ============================================================
+
+pubmed_metrics = {}
+
+
+for journal in journals.values():
+
+    pubmed_abbreviation = journal[
+        "pubmed_abbreviation"
+    ]
+
+
+    if not pubmed_abbreviation:
+        continue
+
+
+    pubmed_metrics[
+        pubmed_abbreviation
+    ] = {
+        "jif": journal["jif"],
+        "jcr_year": journal["jcr_year"],
+        "categories": journal["categories"],
+    }
+
+
+print()
+
+print(
+    f"PubMed runtime entries: "
+    f"{len(pubmed_metrics)}"
+)
+
+
+# ============================================================
+# 11. Write journals.json
 # ============================================================
 
 with open(
@@ -943,7 +979,25 @@ with open(
 
 
 # ============================================================
-# 11. Write unmatched.json
+# 12. Write pubmed_metrics.json
+# ============================================================
+
+with open(
+    PUBMED_METRICS_FILE,
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        pubmed_metrics,
+        f,
+        ensure_ascii=False,
+        separators=(",", ":"),
+    )
+
+
+# ============================================================
+# 13. Write unmatched.json
 # ============================================================
 
 with open(
@@ -961,7 +1015,7 @@ with open(
 
 
 # ============================================================
-# 12. Write ambiguous.json
+# 14. Write ambiguous.json
 # ============================================================
 
 with open(
@@ -1013,10 +1067,19 @@ print(
     f"{len(ambiguous)}"
 )
 
+print(
+    f"PubMed runtime entries: "
+    f"{len(pubmed_metrics)}"
+)
+
 print()
 
 print(
     f"Created: {OUTPUT_FILE}"
+)
+
+print(
+    f"Created: {PUBMED_METRICS_FILE}"
 )
 
 print(
