@@ -1,0 +1,926 @@
+[
+  {
+    "name": "University of Toronto Journal of Undergraduate Life Sciences",
+    "issn": "1911-8899",
+    "eissn": "1911-8899",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Biology and Chemistry",
+    "issn": "2218-7979",
+    "eissn": "2409-370X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Bulletin de la Societe Linneenne de Lyon",
+    "issn": "2554-5280",
+    "eissn": "",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Revista Comunicacion",
+    "issn": "0379-3974",
+    "eissn": "1659-3820",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Computers and Education: Artificial Intelligence",
+    "issn": "2666-920X",
+    "eissn": "2666-920X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Foundations and Trends in Computer Graphics and Vision",
+    "issn": "1572-2740",
+    "eissn": "1572-2759",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Information Processing in Agriculture",
+    "issn": "2214-3173",
+    "eissn": "2214-3173",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Blockchain-Research and Applications",
+    "issn": "2096-7209",
+    "eissn": "2096-7209",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Infrastructure Intelligence and Resilience",
+    "issn": "",
+    "eissn": "2772-9915",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "INDUSTRIAL MANAGEMENT & DATA SYSTEMS",
+    "issn": "0263-5577",
+    "eissn": "1758-5783",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Computers & Education: X Reality",
+    "issn": "",
+    "eissn": "2949-6780",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "JOURNAL OF COMPUTING IN CIVIL ENGINEERING",
+    "issn": "0887-3801",
+    "eissn": "1943-5487",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Information and Learning Technology",
+    "issn": "2056-4880",
+    "eissn": "2056-4880",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Computers and Concrete",
+    "issn": "1598-8198",
+    "eissn": "1598-818X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "PROBABILISTIC ENGINEERING MECHANICS",
+    "issn": "0266-8920",
+    "eissn": "1878-4275",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Applied Computing and Geosciences",
+    "issn": "2590-1974",
+    "eissn": "2590-1974",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Foundations and Trends in Communications and Information Theory",
+    "issn": "1567-2190",
+    "eissn": "1567-2328",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Systems and Soft Computing",
+    "issn": "",
+    "eissn": "2772-9419",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Complex System Modeling and Simulation",
+    "issn": "2096-9929",
+    "eissn": "2097-3705",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Mobile Learning and Organisation",
+    "issn": "1746-725X",
+    "eissn": "1746-7268",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "ACM Transactions on Cyber-Physical Systems",
+    "issn": "2378-962X",
+    "eissn": "2378-9638",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Data-Centric Engineering",
+    "issn": "",
+    "eissn": "2632-6736",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "ACM Journal on Computing and Cultural Heritage",
+    "issn": "1556-4673",
+    "eissn": "1556-4711",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Frontiers in Blockchain",
+    "issn": "2624-7852",
+    "eissn": "2624-7852",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Interactive Multimedia and Artificial Intelligence",
+    "issn": "1989-1660",
+    "eissn": "1989-1660",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "FinTech",
+    "issn": "",
+    "eissn": "2674-1032",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Astronomy and Computing",
+    "issn": "2213-1337",
+    "eissn": "2213-1345",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "JOURNAL OF ORGANIZATIONAL COMPUTING AND ELECTRONIC COMMERCE",
+    "issn": "1091-9392",
+    "eissn": "1532-7744",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Distributed Ledger Technologies: Research and Practice",
+    "issn": "",
+    "eissn": "2769-6480",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Agricultural and Environmental Information Systems",
+    "issn": "1947-3192",
+    "eissn": "1947-3206",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Service Oriented Computing and Applications",
+    "issn": "1863-2386",
+    "eissn": "1863-2394",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Information Technology Research",
+    "issn": "1938-7857",
+    "eissn": "1938-7865",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "IET Cyber-Physical Systems: Theory & Applications",
+    "issn": "",
+    "eissn": "2398-3396",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Probability Surveys",
+    "issn": "1549-5787",
+    "eissn": "1549-5787",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Research in Mathematics",
+    "issn": "",
+    "eissn": "2768-4830",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Astin Bulletin-The Journal of the International Actuarial Association",
+    "issn": "0515-0361",
+    "eissn": "1783-1350",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "FINANCE AND STOCHASTICS",
+    "issn": "0949-2984",
+    "eissn": "1432-1122",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Sustainable Agricultural Management and Informatics",
+    "issn": "2054-5819",
+    "eissn": "2054-5827",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Pakistan Journal of Statistics and Operation Research",
+    "issn": "1816-2711",
+    "eissn": "2220-5810",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Acta Informatica Pragensia",
+    "issn": "",
+    "eissn": "1805-4951",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "CCF Transactions on Pervasive Computing and Interaction",
+    "issn": "2524-521X",
+    "eissn": "2524-5228",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "OPEN SYSTEMS & INFORMATION DYNAMICS",
+    "issn": "1230-1612",
+    "eissn": "1793-7191",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Data Information and Management",
+    "issn": "2524-6356",
+    "eissn": "2524-6364",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Computational Science and Engineering",
+    "issn": "1742-7185",
+    "eissn": "1742-7193",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "ACCESS-Access to science business innovation in the digital economy",
+    "issn": "",
+    "eissn": "2683-1007",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Advances in Information Technology",
+    "issn": "1798-2340",
+    "eissn": "1798-2340",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "ACM Transactions on Economics and Computation",
+    "issn": "2167-8375",
+    "eissn": "2167-8383",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Modern Stochastics-Theory and Applications",
+    "issn": "2351-6054",
+    "eissn": "2351-6054",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Dependence Modeling",
+    "issn": "2300-2298",
+    "eissn": "2300-2298",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF RF AND MICROWAVE COMPUTER-AIDED ENGINEERING",
+    "issn": "1096-4290",
+    "eissn": "1099-047X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Pervasive Computing and Communications",
+    "issn": "1742-7371",
+    "eissn": "1742-738X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Hacettepe Journal of Mathematics and Statistics",
+    "issn": "",
+    "eissn": "2651-477X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Reliability and Statistical Studies",
+    "issn": "0974-8024",
+    "eissn": "2229-5666",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Annals of Actuarial Science",
+    "issn": "1748-4995",
+    "eissn": "1748-5002",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Thailand Statistician",
+    "issn": "1685-9057",
+    "eissn": "2351-0676",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "COMPEL-THE INTERNATIONAL JOURNAL FOR COMPUTATION AND MATHEMATICS IN ELECTRICAL AND ELECTRONIC ENGINEERING",
+    "issn": "0332-1649",
+    "eissn": "0332-1649",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Information and Organizational Sciences",
+    "issn": "1846-3312",
+    "eissn": "1846-9418",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Random Matrices-Theory and Applications",
+    "issn": "2010-3263",
+    "eissn": "2010-3271",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "IEEE Revista Iberoamericana de Tecnologias del Aprendizaje-IEEE RITA",
+    "issn": "",
+    "eissn": "1932-8540",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "ACM SIGecom Exchanges",
+    "issn": "1551-9031",
+    "eissn": "1551-9031",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Austrian Journal of Statistics",
+    "issn": "1026-597X",
+    "eissn": "1026-597X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "ELECTRONIC COMMUNICATIONS IN PROBABILITY",
+    "issn": "",
+    "eissn": "1083-589X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "INFINITE DIMENSIONAL ANALYSIS QUANTUM PROBABILITY AND RELATED TOPICS",
+    "issn": "0219-0257",
+    "eissn": "1793-6306",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS IN TECHNOLOGY",
+    "issn": "0952-8091",
+    "eissn": "1741-5047",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "ALEA-Latin American Journal of Probability and Mathematical Statistics",
+    "issn": "1980-0436",
+    "eissn": "",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Digital Crime and Forensics",
+    "issn": "1941-6210",
+    "eissn": "1941-6229",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Arts and Technology",
+    "issn": "1754-8853",
+    "eissn": "1754-8861",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Electronic Journal of Applied Statistical Analysis",
+    "issn": "2070-5948",
+    "eissn": "2070-5948",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Statistics & Risk Modeling",
+    "issn": "2193-1402",
+    "eissn": "2196-7040",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "THEORY OF PROBABILITY AND ITS APPLICATIONS",
+    "issn": "0040-585X",
+    "eissn": "1095-7219",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Random Operators and Stochastic Equations",
+    "issn": "0926-6364",
+    "eissn": "1569-397X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Theory of Probability and Mathematical Statistics",
+    "issn": "0094-9000",
+    "eissn": "1547-7363",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "APPLICABLE ALGEBRA IN ENGINEERING COMMUNICATION AND COMPUTING",
+    "issn": "0938-1279",
+    "eissn": "1432-0622",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "IADIS-International Journal on Computer Science and Information Systems",
+    "issn": "1646-3692",
+    "eissn": "1646-3692",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Mathematical Methods of Statistics",
+    "issn": "1066-5307",
+    "eissn": "1934-8045",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Statistics in Transition",
+    "issn": "1234-7655",
+    "eissn": "2450-0291",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "PATTERN RECOGNITION AND IMAGE ANALYSIS",
+    "issn": "1054-6618",
+    "eissn": "1555-6212",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Romanian Journal of Information Technology and Automatic Control-Revista Romana de Informatica si Automatica",
+    "issn": "1220-1758",
+    "eissn": "1841-4303",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Qwerty",
+    "issn": "1828-7344",
+    "eissn": "2240-2950",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "COMPUTER MUSIC JOURNAL",
+    "issn": "0148-9267",
+    "eissn": "1531-5169",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Ekoist-Journal of Econometrics and Statistics",
+    "issn": "2651-396X",
+    "eissn": "2651-396X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "ERCIM News",
+    "issn": "0926-4981",
+    "eissn": "1564-0094",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Revista Brasileira de Computacao Aplicada",
+    "issn": "2176-6649",
+    "eissn": "2176-6649",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Probability and Mathematical Statistics-Poland",
+    "issn": "0208-4147",
+    "eissn": "",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Biomedical Technology",
+    "issn": "",
+    "eissn": "2949-723X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Polish Journal of Medical Physics and Engineering",
+    "issn": "1898-0309",
+    "eissn": "1898-0309",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Imagen Diagnostica",
+    "issn": "2171-3669",
+    "eissn": "2171-9705",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Health and Allied Sciences NU",
+    "issn": "2582-4287",
+    "eissn": "2582-4953",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Bezmialem Science",
+    "issn": "2148-2373",
+    "eissn": "2148-2373",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Clinical and Experimental Health Sciences",
+    "issn": "2459-1459",
+    "eissn": "2459-1459",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Acute Disease",
+    "issn": "2221-6189",
+    "eissn": "2589-5516",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Namik Kemal Medical Journal",
+    "issn": "",
+    "eissn": "2587-0262",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Romanian Journal of Military Medicine",
+    "issn": "1222-5126",
+    "eissn": "2501-2312",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Cukurova Medical Journal",
+    "issn": "2602-3032",
+    "eissn": "2602-3040",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "International Journal of Medicine and Health Development",
+    "issn": "2635-3695",
+    "eissn": "2667-2863",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "New Armenian Medical Journal",
+    "issn": "1829-0825",
+    "eissn": "1829-0825",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Experimed",
+    "issn": "",
+    "eissn": "2667-5846",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Revista Medica Clinica Las Condes",
+    "issn": "",
+    "eissn": "0716-8640",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "World of Medicine and Biology",
+    "issn": "2079-8334",
+    "eissn": "2079-8334",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Bulletin of Russian State Medical University",
+    "issn": "2500-1094",
+    "eissn": "2542-1204",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Annals of Clinical and Analytical Medicine",
+    "issn": "",
+    "eissn": "2667-663X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Anales de la Facultad de Medicina-Universidad de la Republica Uruguay",
+    "issn": "2301-1254",
+    "eissn": "2301-1254",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Archivos de Medicina",
+    "issn": "1657-320X",
+    "eissn": "2339-3874",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Finlay",
+    "issn": "2221-2434",
+    "eissn": "2221-2434",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Medisur-Revista de Ciencias Medicas de Cienfuegos",
+    "issn": "1727-897X",
+    "eissn": "1727-897X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Scientific Chronicles",
+    "issn": "1791-1362",
+    "eissn": "2241-1666",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Intensivist",
+    "issn": "",
+    "eissn": "2950-1873",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Archives of Epilepsy",
+    "issn": "",
+    "eissn": "2792-0550",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Activitas Nervosa Superior Rediviva",
+    "issn": "1337-933X",
+    "eissn": "1338-4015",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Aktualnosci Neurologiczne",
+    "issn": "1641-9227",
+    "eissn": "1641-9227",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Neurosonology and Cerebral Hemodynamics",
+    "issn": "1312-6431",
+    "eissn": "1312-6431",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Eneurobiologia",
+    "issn": "2007-3054",
+    "eissn": "2007-3054",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Forecasting",
+    "issn": "",
+    "eissn": "2571-9394",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Radiation Research and Applied Sciences",
+    "issn": "1687-8507",
+    "eissn": "1687-8507",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Heritage",
+    "issn": "2571-9408",
+    "eissn": "2571-9408",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Applied Research",
+    "issn": "2702-4288",
+    "eissn": "2702-4288",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Smart Science",
+    "issn": "",
+    "eissn": "2308-0477",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Science and Innovation",
+    "issn": "2409-9066",
+    "eissn": "2413-4996",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Iranian Journal of Science",
+    "issn": "2731-8095",
+    "eissn": "2731-8109",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Baghdad Science Journal",
+    "issn": "2078-8665",
+    "eissn": "2411-7986",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES INDIA SECTION A-PHYSICAL SCIENCES",
+    "issn": "0369-8203",
+    "eissn": "2250-1762",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "ARO-The Scientific Journal of Koya University",
+    "issn": "2307-549X",
+    "eissn": "2410-9355",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Gazi University Journal of Science",
+    "issn": "2147-1762",
+    "eissn": "2147-1762",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Physical Science",
+    "issn": "1675-3402",
+    "eissn": "2180-4230",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Chemistry-Didactics-Ecology-Metrology",
+    "issn": "1640-9019",
+    "eissn": "2084-4506",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Proceedings of the Estonian Academy of Sciences",
+    "issn": "1736-6046",
+    "eissn": "1736-7530",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Science and Arts",
+    "issn": "1844-9581",
+    "eissn": "2068-3049",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Uniciencia",
+    "issn": "1011-0275",
+    "eissn": "2215-3470",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Revista Investigaciones Altoandinas-Journal of High Andean Research",
+    "issn": "2306-8582",
+    "eissn": "2313-2957",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Atti Accademia Peloritana dei Pericolanti-Classe di Scienze Fisiche Matematiche e Naturali",
+    "issn": "0365-0359",
+    "eissn": "1825-1242",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Proceedings of the Romanian Academy Series A-Mathematics Physics Technical Sciences Information Science",
+    "issn": "1454-9069",
+    "eissn": "1454-9069",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Maejo International Journal of Science and Technology",
+    "issn": "1905-7873",
+    "eissn": "",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "COMPTES RENDUS DE L ACADEMIE BULGARE DES SCIENCES",
+    "issn": "1310-1331",
+    "eissn": "",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Momona Ethiopian Journal of Science",
+    "issn": "2073-073X",
+    "eissn": "2073-073X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Revista Innovaciencia",
+    "issn": "2346-075X",
+    "eissn": "2346-075X",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Mindanao Journal of Science and Technology",
+    "issn": "2244-0410",
+    "eissn": "2449-3686",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Estudios-Centro de Estudios Avanzados-Universidad Nacional de Cordoba",
+    "issn": "0328-185X",
+    "eissn": "1852-1568",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Holos",
+    "issn": "1518-1634",
+    "eissn": "1807-1600",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Uroonkoloji Bulteni-Bulletin of Urooncology",
+    "issn": "2147-2270",
+    "eissn": "2147-2270",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Avances",
+    "issn": "1562-3297",
+    "eissn": "1562-3297",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Informes Cientificos y Tecnicos",
+    "issn": "1852-4516",
+    "eissn": "1852-4516",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Tecnologia en Marcha",
+    "issn": "0379-3982",
+    "eissn": "2215-3241",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Cultura Cientifica",
+    "issn": "1657-463X",
+    "eissn": "2389-9638",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Interdisciplinary Studies of Complex Systems",
+    "issn": "2307-4515",
+    "eissn": "2307-4515",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Rajasthan Academy of Physical Sciences",
+    "issn": "0972-6306",
+    "eissn": "0972-6306",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Revista Univap",
+    "issn": "1517-3275",
+    "eissn": "2237-1753",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Prospects in Pharmaceutical Sciences",
+    "issn": "",
+    "eissn": "2957-0468",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Traditional & Kampo Medicine",
+    "issn": "",
+    "eissn": "2053-4515",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Brazilian Journal of Pharmaceutical Sciences",
+    "issn": "1984-8250",
+    "eissn": "2175-9790",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Advances in Pharmacology and Pharmacy",
+    "issn": "2332-0036",
+    "eissn": "2332-0044",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Research in Pharmacy",
+    "issn": "2630-6344",
+    "eissn": "2630-6344",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Journal of Medicinal Plants for Economic Development",
+    "issn": "2519-559X",
+    "eissn": "2616-4809",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "SA Pharmaceutical Journal",
+    "issn": "2221-5875",
+    "eissn": "2220-1017",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  },
+  {
+    "name": "Revista de Epidemiologia e Controle de Infeccao",
+    "issn": "2238-3360",
+    "eissn": "2238-3360",
+    "reason": "No NLM record matched the JCR ISSN/eISSN"
+  }
+]

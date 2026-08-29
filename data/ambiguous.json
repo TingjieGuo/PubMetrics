@@ -1,0 +1,165 @@
+[
+  {
+    "name": "JAAPA-Journal of the American Academy of Physician Assistants",
+    "issn": "1547-1896",
+    "eissn": "0893-7400",
+    "candidates": [
+      {
+        "nlm_id": "9513102",
+        "title": "JAAPA : official journal of the American Academy of Physician Assistants.",
+        "pubmed_abbreviation": "JAAPA",
+        "print_issn": "1547-1896",
+        "electronic_issn": null,
+        "valid_issns": [
+          "1547-1896"
+        ]
+      },
+      {
+        "nlm_id": "8805848",
+        "title": "Journal of the American Academy of Physician Assistants.",
+        "pubmed_abbreviation": "J Am Acad Physician Assist",
+        "print_issn": "0893-7400",
+        "electronic_issn": null,
+        "valid_issns": [
+          "0893-7400"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Postepy Higieny I Medycyny Doswiadczalnej",
+    "issn": "0032-5449",
+    "eissn": "1732-2693",
+    "candidates": [
+      {
+        "nlm_id": "0421052",
+        "title": "Postȩpy higieny i medycyny doświadczalnej.",
+        "pubmed_abbreviation": "Postepy Hig Med Dosw",
+        "print_issn": "0032-5449",
+        "electronic_issn": null,
+        "valid_issns": [
+          "0032-5449"
+        ]
+      },
+      {
+        "nlm_id": "101206517",
+        "title": "Postȩpy higieny i medycyny doświadczalnej.",
+        "pubmed_abbreviation": "Postepy Hig Med Dosw (Online)",
+        "print_issn": null,
+        "electronic_issn": "1732-2693",
+        "valid_issns": [
+          "1732-2693"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kuwait Medical Journal",
+    "issn": "1607-8047",
+    "eissn": "0023-5776",
+    "candidates": [
+      {
+        "nlm_id": "9815770",
+        "title": "The Kuwait medical journal : KMJ : the official journal of the Kuwait Medical Association.",
+        "pubmed_abbreviation": "Kuwait Med J",
+        "print_issn": "1607-8047",
+        "electronic_issn": null,
+        "valid_issns": [
+          "1607-8047"
+        ]
+      },
+      {
+        "nlm_id": "7505617",
+        "title": "The Journal of the Kuwait Medical Association.",
+        "pubmed_abbreviation": "J Kuwait Med Assoc",
+        "print_issn": "0023-5776",
+        "electronic_issn": null,
+        "valid_issns": [
+          "0023-5776"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Proceedings of the Indian National Science Academy",
+    "issn": "0370-0046",
+    "eissn": "2454-9983",
+    "candidates": [
+      {
+        "nlm_id": "7505866",
+        "title": "Proceedings of the Indian National Science Academy. Part A, Physical sciences.",
+        "pubmed_abbreviation": "",
+        "print_issn": "0370-0046",
+        "electronic_issn": null,
+        "valid_issns": [
+          "0370-0046"
+        ]
+      },
+      {
+        "nlm_id": "101285334",
+        "title": "Proceedings of the Indian National Science Academy.",
+        "pubmed_abbreviation": "",
+        "print_issn": null,
+        "electronic_issn": "2454-9983",
+        "valid_issns": [
+          "2454-9983"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "JAIDS-JOURNAL OF ACQUIRED IMMUNE DEFICIENCY SYNDROMES",
+    "issn": "1525-4135",
+    "eissn": "1077-9450",
+    "candidates": [
+      {
+        "nlm_id": "100892005",
+        "title": "Journal of acquired immune deficiency syndromes : JAIDS.",
+        "pubmed_abbreviation": "J Acquir Immune Defic Syndr",
+        "print_issn": "1525-4135",
+        "electronic_issn": "1944-7884",
+        "valid_issns": [
+          "1525-4135",
+          "1944-7884"
+        ]
+      },
+      {
+        "nlm_id": "9501482",
+        "title": "Journal of acquired immune deficiency syndromes and human retrovirology : official publication of the International Retrovirology Association.",
+        "pubmed_abbreviation": "J Acquir Immune Defic Syndr Hum Retrovirol",
+        "print_issn": "1077-9450",
+        "electronic_issn": null,
+        "valid_issns": [
+          "1077-9450"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pharmaceutical Sciences",
+    "issn": "1735-403X",
+    "eissn": "2383-2886",
+    "candidates": [
+      {
+        "nlm_id": "101235598",
+        "title": "ʹUlūm-i dārūyī : majallah-i Dānishkadah-i Dārūʹsazī-i.",
+        "pubmed_abbreviation": "",
+        "print_issn": "1735-403X",
+        "electronic_issn": null,
+        "valid_issns": [
+          "1735-403X"
+        ]
+      },
+      {
+        "nlm_id": "101665544",
+        "title": "Pharmaceutical sciences.",
+        "pubmed_abbreviation": "",
+        "print_issn": null,
+        "electronic_issn": "2383-2886",
+        "valid_issns": [
+          "2383-2886"
+        ]
+      }
+    ]
+  }
+]
