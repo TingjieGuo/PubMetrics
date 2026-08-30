@@ -1,56 +1,69 @@
-# PubMed Journal Metrics
+# PubMetrics
 
-A lightweight userscript that displays Journal Impact Factor (JIF) and JCR quartile information directly in PubMed search results.
+PubMetrics is a lightweight userscript that displays Journal Impact Factor (JIF) and JCR quartile information directly in PubMed.
 
-The project also includes a Python script for building the journal database from JCR CSV exports and enriching it with PubMed/NLM journal abbreviations using the NCBI NLM Catalog.
+It works on both search result pages and individual article pages.
 
 ## Features
 
-- Displays JIF directly in PubMed search results
-- Displays all JCR quartiles associated with a journal
-- Preserves multiple categories, including repeated quartiles such as `Q1/Q1/Q2`
-- Shows full JCR category information in a hover tooltip
-- Uses PubMed/NLM journal abbreviations for reliable matching
-- Loads journal data locally through the userscript resource system
-- Does not make NCBI API requests during normal PubMed browsing
-- Database can be rebuilt from updated JCR exports
+- Shows JIF and JCR quartiles in PubMed search results
+- Shows metrics beside the journal name on article pages
+- Preserves all JCR categories and quartiles
+- Shows category details on hover
+- Supports dynamically loaded results such as "Show more"
+- Uses PubMed/NLM journal abbreviations for direct matching
+- Uses a compact local JSON database
+
+## Screenshots
+
+### Search results
+
+![PubMetrics in PubMed search results](assets/search-results.jpeg)
+
+### Article page
+
+![PubMetrics on a PubMed article page](assets/article-page.jpeg)
 
 ## Repository Structure
 
 ```text
-journal-metrics/
+PubMetrics/
 ├── build_database.py
 ├── userscript/
-│   └── pubmed-journal-metrics.user.js
+│   └── main.user.js
 ├── data/
 │   ├── journals.json
+│   ├── pubmed_metrics.json
 │   ├── unmatched.json
 │   └── ambiguous.json
+├── jcr/
+│   └── *.csv
+├── assets/
+│   ├── search-results.png
+│   └── article-page.png
 ├── requirements.txt
 ├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
-The exact userscript filename or folder structure can be changed if desired.
+## Database Builder
 
-### `build_database.py`
+`build_database.py`:
 
-Builds the journal database from JCR CSV exports.
+1. reads JCR CSV files from `jcr/`
+2. merges journals using ISSN/eISSN
+3. preserves distinct categories and quartiles
+4. queries the NCBI NLM Catalog
+5. retrieves `MedlineTA` and NLM IDs
+6. builds the full and compact databases
+7. writes unmatched and ambiguous records
 
-The script:
-
-1. reads all CSV files in the `jcr/` directory
-2. merges duplicate journals using ISSN/eISSN
-3. preserves distinct JCR categories and quartiles
-4. removes exact duplicate category entries
-5. queries the NCBI NLM Catalog in batches
-6. retrieves PubMed journal abbreviations (`MedlineTA`) and NLM IDs
-7. resolves obvious duplicate NLM records conservatively
-8. writes the generated database into `data/`
+## Data Files
 
 ### `data/journals.json`
 
-The main database used by the userscript.
+Full journal database with JCR and NLM metadata.
 
 Example:
 
@@ -75,63 +88,60 @@ Example:
 }
 ```
 
+### `data/pubmed_metrics.json`
+
+Compact runtime database used by the userscript.
+
+It is indexed directly by PubMed abbreviation:
+
+```json
+{
+  "Clin Pharmacokinet": {
+    "jif": "4.0",
+    "jcr_year": 2025,
+    "categories": [
+      {
+        "name": "PHARMACOLOGY & PHARMACY",
+        "quartile": "Q2"
+      }
+    ]
+  }
+}
+```
+
 ### `data/unmatched.json`
 
-Contains JCR journals that could not be matched to an NLM Catalog record using their ISSN or eISSN.
-
-Many of these journals are outside the biomedical literature and may never appear in PubMed, so an unmatched record is not necessarily a problem.
+JCR journals that could not be matched to NLM using ISSN/eISSN.
 
 ### `data/ambiguous.json`
 
-Contains journals for which multiple NLM Catalog records remain equally plausible after automatic matching.
+Journals with multiple equally plausible NLM matches.
 
-These records are intentionally left unresolved rather than guessed.
-
-## Database Setup
+## Setup
 
 Python 3 is required.
 
-Create a virtual environment:
-
 ```bash
 python3 -m venv .venv
-```
-
-Activate it:
-
-```bash
 source .venv/bin/activate
-```
-
-Install dependencies:
-
-```bash
 python -m pip install -r requirements.txt
 ```
 
-If `requirements.txt` has not yet been created, the current builder only requires:
+Current dependency:
 
-```bash
-python -m pip install requests
-```
-
-You can then generate `requirements.txt` with:
-
-```bash
-python -m pip freeze > requirements.txt
+```text
+requests>=2.32,<3
 ```
 
 ## Building the Database
 
-Place your JCR CSV exports inside:
+Place JCR CSV exports in:
 
 ```text
 jcr/
 ```
 
-The filenames do not matter, as long as they end in `.csv`.
-
-The script expects JCR columns including:
+Expected columns include:
 
 ```text
 Journal name
@@ -143,13 +153,11 @@ Category
 JIF Quartile
 ```
 
-Before running the script, set your email address in `build_database.py`:
+Set your email in `build_database.py`:
 
 ```python
 EMAIL = "your-email@example.com"
 ```
-
-NCBI recommends including an email address and tool name when using E-utilities.
 
 Then run:
 
@@ -157,56 +165,40 @@ Then run:
 python build_database.py
 ```
 
-The generated files will be written to:
+Generated files:
 
 ```text
 data/journals.json
+data/pubmed_metrics.json
 data/unmatched.json
 data/ambiguous.json
 ```
 
-## Journal Matching
+## Matching
 
-The database builder first merges JCR records using ISSN and eISSN.
+The builder merges journals using both ISSN and eISSN.
 
-For example, if the same journal appears in several JCR category exports, it is stored only once while retaining all distinct categories.
+It then queries the NCBI NLM Catalog and retrieves:
 
-Exact duplicate category entries are removed:
+- NLM Unique ID
+- PubMed abbreviation (`MedlineTA`)
+- valid print ISSN
+- valid electronic ISSN
 
-```text
-PHARMACOLOGY & PHARMACY: Q1
-PHARMACOLOGY & PHARMACY: Q1
-```
+The PubMed abbreviation becomes the key in `pubmed_metrics.json`, allowing direct lookup in the userscript.
 
-becomes one category entry.
-
-Different categories with the same quartile are preserved:
+Different JCR categories are preserved even when they share the same quartile:
 
 ```text
 PHARMACOLOGY & PHARMACY: Q1
 TOXICOLOGY: Q1
 ```
 
-so the userscript can display:
+which is displayed as:
 
 ```text
 Q1/Q1
 ```
-
-The builder then queries the NCBI NLM Catalog using ISSN/eISSN and retrieves:
-
-- NLM Unique ID
-- PubMed/NLM journal abbreviation (`MedlineTA`)
-- valid print ISSN
-- valid electronic ISSN
-
-The PubMed abbreviation is stored in the database as:
-
-```json
-"pubmed_abbreviation": "Clin Pharmacokinet"
-```
-
-This allows the userscript to perform a direct journal lookup instead of scanning every journal in the database.
 
 ## Installing the Userscript
 
@@ -215,36 +207,54 @@ Install a userscript manager such as:
 - Violentmonkey
 - Tampermonkey
 
-Then install or copy the PubMed Journal Metrics userscript from this repository into the userscript manager.
+Then install or copy the PubMetrics userscript.
 
-The userscript runs on:
+It runs on:
 
 ```text
 https://pubmed.ncbi.nlm.nih.gov/*
 ```
 
-It loads the generated `journals.json` file as a userscript resource.
+and loads:
 
-For each PubMed search result, it extracts the PubMed journal abbreviation from the citation and performs a direct lookup in the journal database.
+```text
+data/pubmed_metrics.json
+```
 
-A result may look like:
+## PubMed Search Results
+
+The script extracts the journal abbreviation from each PubMed citation and performs a direct lookup.
+
+Example:
 
 ```text
 Clin Pharmacokinet. 2025 Aug;64(8):...
 
-JIF 4.0 · Q2
-
-PMID: 12345678
+JIF 4.0 | Q2
 ```
 
-Hovering over the badge displays the full JCR category information.
+Hovering over the badge shows the full JCR category information.
+
+A `MutationObserver` also processes results loaded through PubMed's "Show more" button.
+
+## Individual Article Pages
+
+On article pages, the badge is inserted beside the journal name.
+
+Example:
+
+```text
+J Pharmacokinet Pharmacodyn  [JIF 3.3 | Q2]
+```
+
+The same hover tooltip is available.
 
 ## Updating the Database
 
-To update the database for a new JCR release:
+For a new JCR release:
 
-1. replace or update the CSV files in `jcr/`
-2. update the JCR year and JIF column name in `build_database.py` if necessary
+1. replace the CSV files in `jcr/`
+2. update the JCR year or column name if needed
 3. run:
 
 ```bash
@@ -253,28 +263,16 @@ python build_database.py
 
 4. commit the updated files in `data/`
 
-The userscript will then use the updated database after its external resource is refreshed.
-
 ## Data Sources
 
 Journal metrics are derived from Journal Citation Reports exports.
 
-Journal identifiers and PubMed abbreviations are enriched using the NCBI NLM Catalog through NCBI E-utilities.
+Journal identifiers and PubMed abbreviations are enriched through the NCBI NLM Catalog using NCBI E-utilities.
 
-This project does not provide or redistribute raw JCR export files.
-
-## Notes
-
-This project is intended as a lightweight personal or research productivity tool.
-
-JCR and Journal Impact Factor data are proprietary data products of Clarivate. Users are responsible for ensuring that their use and redistribution of derived data complies with the applicable Clarivate terms and licenses.
-
-NCBI/NLM journal metadata is retrieved separately through NCBI E-utilities.
+Raw JCR export files are not redistributed.
 
 ## License
 
-The source code in this repository is licensed under the MIT License.
+The source code is licensed under the MIT License.
 
-The generated journal data may incorporate information derived from third-party sources, including Journal Citation Reports (Clarivate) and the NCBI/NLM Catalog. Those data remain subject to the applicable terms and licenses of their respective providers.
-
-The MIT License applies to the software in this repository and does not grant additional rights to third-party data.
+Generated data may include information derived from third-party sources, including Clarivate JCR and the NCBI/NLM Catalog, and remains subject to the applicable terms of those providers.
