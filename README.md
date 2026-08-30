@@ -29,8 +29,7 @@ It works on both search result pages and individual article pages.
 ```text
 PubMetrics/
 ├── build_database.py
-├── userscript/
-│   └── main.user.js
+├── main.user.js
 ├── data/
 │   ├── journals.json
 │   ├── pubmed_metrics.json
@@ -207,18 +206,10 @@ Install a userscript manager such as:
 - Violentmonkey
 - Tampermonkey
 
-Then install or copy the PubMetrics userscript.
-
-It runs on:
+Then install or copy the PubMetrics userscript from:
 
 ```text
-https://pubmed.ncbi.nlm.nih.gov/*
-```
-
-and loads:
-
-```text
-data/pubmed_metrics.json
+/main.user.js
 ```
 
 ## PubMed Search Results
